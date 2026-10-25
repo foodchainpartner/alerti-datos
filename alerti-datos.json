@@ -582,19 +582,94 @@
    ]
   },
   {
-   "fecha": "2026-09-03",
-   "tipo": "capital",
-   "empresa": "Medici Brands",
+   "fecha": "2026-10-02",
+   "tipo": "compra",
+   "empresa": "Watkins / Sauer Brands",
    "markets": [
-    "global"
+    "us"
+   ],
+   "cats": [
+    "especias"
+   ],
+   "titulo": "EE.UU.: Watkins compra el negocio de especias de Sauer Brands",
+   "texto": "Watkins, con sede en Winona (Minnesota), adquirió el negocio de especias de Sauer Brands, respaldada por Advent International. La operación incluye las marcas Kernel Season's, Spice Hunter y Sauer's, las líneas de foodservice y marca privada asociadas, y dos plantas, en Richmond (Virginia) y San Luis Obispo (California). No se informó el monto ni la fecha de cierre.",
+   "senal": "Si vendes especias o hierbas a estas marcas o a sus líneas de marca privada, es un momento típico para revisar especificaciones, límites de residuos y proveedores aprobados con el nuevo dueño.",
+   "fuente": [
+    "Food Processing",
+    "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55409380/watkins-acquires-sauer-brands-spice-business"
+   ]
+  },
+  {
+   "fecha": "2026-10-14",
+   "tipo": "compra",
+   "empresa": "McCall Farms / B&G Foods",
+   "markets": [
+    "us"
+   ],
+   "cats": [
+    "cereales"
+   ],
+   "titulo": "EE.UU.: B&G Foods vende las marcas B&M y Joan of Arc a McCall Farms",
+   "texto": "B&G Foods vendió a McCall Farms las marcas B&M, de frijoles horneados y pan moreno, y Joan of Arc, de frijoles rojos, chili y otras legumbres enlatadas. No se revelaron los términos ni la fecha de cierre. B&G dijo que usará los ingresos netos para pagar deuda a largo plazo. A inicios de octubre, B&G y Nortera Foods cancelaron la venta de Green Giant Canadá después de que reguladores canadienses recomendaron bloquearla.",
+   "senal": "Quien abastece legumbres o frijoles a estas marcas debe confirmar con el nuevo dueño qué proveedores y especificaciones se mantienen.",
+   "fuente": [
+    "Food Processing",
+    "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55411968/bg-foods-sells-bm-and-joan-of-arc-brands-to-mccall-farms"
+   ]
+  },
+  {
+   "fecha": "2026-10-20",
+   "tipo": "compra",
+   "empresa": "Commercial Bakeries / Partners",
+   "markets": [
+    "us",
+    "ca"
+   ],
+   "cats": [
+    "cereales"
+   ],
+   "titulo": "EE.UU. y Canadá: Commercial Bakeries compra al fabricante de galletas saladas Partners",
+   "texto": "Commercial Bakeries, de Toronto, compró Partners, fabricante estadounidense de galletas saladas premium y de perfil saludable, con marca privada, manufactura por contrato y suministro a clientes industriales en Norteamérica. La producción es en una panadería en Des Moines (Washington). No se informaron los términos. Es la tercera adquisición de Commercial Bakeries desde que Graham Partners tomó su propiedad en 2023.",
+   "senal": "Los proveedores de harinas, semillas y otros insumos de Partners pueden recibir cambios de volumen o de especificaciones tras la integración.",
+   "fuente": [
+    "Just Food",
+    "https://www.just-food.com/news/commercial-bakeries-adds-acquisitions-partners/"
+   ]
+  },
+  {
+   "fecha": "2026-10-22",
+   "tipo": "compra",
+   "empresa": "Fine Choice Foods (Summ!) / Power Sustainable Lios",
+   "markets": [
+    "us",
+    "ca"
    ],
    "cats": [],
-   "titulo": "Medici Brands levanta una ronda Serie B de US$ 250 millones",
-   "texto": "Según FoodBev Media, que cita Merca2, la empresa de alimentación cerró una ronda Serie B de 250 millones de dólares. No se informó qué fondos la lideran ni dónde tiene su sede.",
-   "senal": "Una ronda de este tamaño suele financiar crecimiento y entrada a mercados nuevos. Los detalles del destino de los fondos no son públicos.",
+   "titulo": "Canadá y EE.UU.: Swander Pace Capital vende Fine Choice Foods, dueña de la marca Summ!, a Power Sustainable Lios",
+   "texto": "Swander Pace Capital vendió Fine Choice Foods, que fabrica aperitivos y comidas frescas y congeladas de inspiración asiática (rollitos de primavera, gyozas y bao buns) con la marca Summ!. Fundada en 1986 en Vancouver, abastece a Canadá y EE.UU. desde dos plantas. El comprador es Power Sustainable Lios. No se informó el monto.",
+   "senal": "Un cambio de dueño de fondo de inversión suele traer revisión de proveedores y de costos; conviene hablar con sus compradores antes de la próxima negociación.",
    "fuente": [
-    "Merca2",
-    "https://www.merca2.es/2026/09/03/ronda-inversion-alimentacion-medici-brands-2447707/"
+    "Food Processing",
+    "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55413775/fine-choice-foods-summ-brand-switches-pe-firm-ownership"
+   ]
+  },
+  {
+   "fecha": "2026-10-16",
+   "tipo": "senal",
+   "empresa": "Panzani / Cerealis",
+   "markets": [
+    "es",
+    "ue"
+   ],
+   "cats": [
+    "cereales"
+   ],
+   "titulo": "Europa: Panzani y Cerealis negocian fusionarse en una sola compañía europea",
+   "texto": "Panzani (Francia, con pasta, cuscús y salsas) y Cerealis (Portugal, con pasta, cereales de desayuno, barritas y galletas, además de presencia en España) iniciaron negociaciones exclusivas para fusionarse. El valor empresarial aproximado es de 1.800 millones de euros, con ingresos consolidados de unos 1.000 millones y cerca de 1.800 empleados. La operación sigue siendo una propuesta: requiere consulta a representantes de los trabajadores y aprobación de las autoridades.",
+   "senal": "Si vendes trigo, harinas o ingredientes a cualquiera de las dos, un grupo más grande puede unificar proveedores y especificaciones.",
+   "fuente": [
+    "Food Processing",
+    "https://www.foodprocessing.com/business-of-food-beverage/international/news/55412600/europes-panzani-group-cerealis-explore-proposed-combination"
    ]
   }
  ],
