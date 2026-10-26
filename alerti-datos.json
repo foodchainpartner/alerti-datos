@@ -506,6 +506,26 @@
         "Eje Central",
         "https://www.ejecentral.com.mx/nuestro-eje/cofepris-publica-nuevas-guias-para-aditivos-y-suplementos-alimenticios-para-que-sirven"
       ]
+    },
+    {
+      "fecha": "2026-10-26",
+      "titulo": "Italia: Emilia-Romagna suspende los tomates cherry crudos en comedores institucionales por un brote de Salmonella",
+      "texto": "Desde julio se han registrado más de 160 infecciones en 10 países europeos, ligadas a tomates cherry y datterini crudos. La cepa se encontró en agua de riego de un productor de Sicilia. Emilia-Romagna prohibió el uso de tomate cherry sin cocinar en comedores de escuelas, hospitales y residencias hasta nuevo aviso.",
+      "revisar": "Si compras o exportas tomate fresco o proveedores europeos de hortalizas, revisa el análisis del agua de riego y la trazabilidad por lote.",
+      "markets": [
+        "ue",
+        "es"
+      ],
+      "topics": [
+        "micro"
+      ],
+      "cats": [
+        "frescos"
+      ],
+      "fuente": [
+        "Food Safety News",
+        "https://foodsafetynews.com/2026/10/tomato-use-suspended-as-italy-tackles-salmonella-outbreak"
+      ]
     }
   ],
   "emp": [
