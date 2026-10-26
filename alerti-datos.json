@@ -1,1271 +1,1348 @@
 {
- "revisado": "2026-10-25",
- "reg": [
-  {
-   "fecha": "2026-10-20",
-   "titulo": "Argentina: SENASA habilita la inscripción digital de empaques y frigoríficos de frutas y hortalizas",
-   "texto": "SENASA incorporó a SIGTRÁMITES (procedimiento 205) la inscripción de nuevos establecimientos de empaque, molienda y frío de frutas, hortalizas y aromáticas, con autogestión digital. Alcanza empaques, moliendas, frigoríficos y cámaras de frío, de maduración o desverdizado. Se ingresa con clave fiscal de ARCA y requiere croquis con el flujo del proceso, análisis de agua de no más de seis meses y la constancia de habilitación municipal. El arancel es obligatorio y el registro no vence. Es la primera etapa práctica desde que el Decreto 697/2026 pasó el control de alimentos de ANMAT a SENASA.",
-   "revisar": "Si exportas o compras fruta y hortalizas argentinas, confirma que el empaque o frigorífico tenga su inscripción vigente en SENASA y qué número figura.",
-   "markets": [
-    "ar"
-   ],
-   "topics": [
-    "cambios"
-   ],
-   "cats": [
-    "frescos"
-   ],
-   "fuente": [
-    "InfoAlimentación",
-    "https://infoalimentacion.com.ar/2026/10/21/senasa-sigtramites-inscripcion-empaques-frigorificos-vegetales/"
-   ]
-  },
-  {
-   "fecha": "2026-10-19",
-   "titulo": "Brasil: cerró la consulta pública de Anvisa para cambiar el rotulado general de alimentos",
-   "texto": "El 19 de octubre terminó el plazo de la Consulta Pública 1.400/2026, que propone modificar la RDC 727/2022 en tres puntos: cuándo y cómo declarar la cantidad de un ingrediente destacado, la posibilidad de entregar parte de la información obligatoria por medios digitales (como códigos QR) y el rotulado de alimentos irradiados. Sigue el análisis de las contribuciones, una eventual audiencia y la decisión de la directoría colegiada.",
-   "revisar": "Si vendes envasados en Brasil, revisa qué ingredientes destacas en el frente de tus etiquetas y si usas especias o deshidratados irradiados.",
-   "markets": [
-    "br"
-   ],
-   "topics": [
-    "etiquetado",
-    "cambios"
-   ],
-   "cats": [
-    "aditivos"
-   ],
-   "fuente": [
-    "ProcTracker",
-    "https://proctracker.app/blog/anvisa-consulta-publica-1400-rotulagem-alimentos-rdc-727-2026"
-   ]
-  },
-  {
-   "fecha": "2026-10-21",
-   "titulo": "España: intervienen 30 toneladas de carne blanqueada con agua oxigenada",
-   "texto": "La Guardia Civil informó el 21 de octubre la incautación de 30,5 toneladas de carne en Benaoján (Málaga), tras casi un año de investigación. Según la nota, huesos y espinas de cerdo se remojaban en agua oxigenada industrial al 50 % para que se vieran más blancos y frescos, un uso prohibido en alimentos. También encontraron carne sin refrigeración y sobre suelos sucios. La autoridad sanitaria ordenó cerrar las instalaciones, y el dueño y el jefe de planta están investigados por falsificación de documentos privados y delito contra la salud pública.",
-   "revisar": "Si compras carne o derivados de cerdo con origen en España, revisa cómo verificas la autorización sanitaria de cada proveedor y de su planta.",
-   "markets": [
-    "es"
-   ],
-   "topics": [
-    "fraude",
-    "micro"
-   ],
-   "cats": [
-    "carnes"
-   ],
-   "fuente": [
-    "Que.es",
-    "https://que.es/2026/10/21/alerta-carne-agua-oxigenada-malaga"
-   ]
-  },
-  {
-   "fecha": "2026-10-20",
-   "titulo": "EE.UU.: la FDA publica resultados de muestreo por adulteración en jugo de limón",
-   "texto": "El 20 de octubre la FDA publicó los resultados de su muestreo sobre adulteración por motivación económica (fraude) en jugo de limón, correspondientes a los años fiscales 2023 a 2025.",
-   "revisar": "Si exportas jugos o concentrados cítricos a EE.UU., revisa cómo verificas la autenticidad y el contenido declarado de cada lote.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "fraude"
-   ],
-   "cats": [
-    "jugos",
-    "frescos"
-   ],
-   "fuente": [
-    "AFDO, Federal Register Update",
-    "https://www.afdo.org/federal-register-update-october-19-20-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-10-17",
-   "titulo": "EE.UU.: retiro de más de 1,5 millones de libras de carnes listas para consumo por falla de temperatura",
-   "texto": "El USDA-FSIS informó el 17 de octubre el retiro voluntario de Kayem Foods (Chelsea, Massachusetts): más de 100 productos, entre ellos tocino, hot dogs, salchichas, pechuga de pavo y jamón, elaborados entre el 31 de marzo y el 7 de octubre de 2026. El motivo es una posible exposición a temperatura inadecuada por fallas en una cámara de almacenamiento, detectada tras el reporte de un cliente que recibió producto tibio el 1 de octubre. No se mencionan patógenos ni personas enfermas. Se distribuyó en todo EE.UU. y en Hong Kong.",
-   "revisar": "Revisa las alarmas de temperatura de tus cámaras y cómo documentas y evalúas cada desviación.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "micro"
-   ],
-   "cats": [
-    "carnes",
-    "lacteos"
-   ],
-   "fuente": [
-    "Food Safety News",
-    "https://www.foodsafetynews.com/2026/10/more-than-1-5-million-pounds-of-hot-dogs-bacon-sausage-turkey-breasts-and-more-meat-products-of-various-brands-recalled/"
-   ]
-  },
-  {
-   "fecha": "2026-10-14",
-   "titulo": "EE.UU.: la FDA analiza hacer obligatoria la notificación GRAS",
-   "texto": "La propuesta de la FDA del 10 de agosto haría obligatoria la notificación de sustancias GRAS, incluidas las que ya están en el suministro de alimentos. La FDA hizo un seminario web el 14 y 15 de octubre. Los comentarios vencen el 9 de diciembre (expediente FDA-2025-N-3262).",
-   "revisar": "Si tus ingredientes o aditivos se basan en una autodeterminación GRAS, pregunta a tus proveedores cuáles quedarían alcanzados.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "cambios"
-   ],
-   "cats": [
-    "aditivos"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Norteamérica",
-    "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-10-13",
-   "titulo": "EE.UU.: la FDA permite sustitutos de sal en 139 alimentos estandarizados",
-   "texto": "La FDA finalizó una norma (anunciada el 9 de octubre y publicada el 13) que permite usar sustitutos de sal en 139 alimentos estandarizados. Entra en vigencia el 14 de diciembre de 2026 y exige declarar el sustituto por su nombre común o usual. Las objeciones sobre los estándares de lácteos vencen el 12 de noviembre.",
-   "revisar": "Si reformulas con menos sodio para EE.UU., revisa cómo debe declararse el sustituto en tu etiqueta.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "etiquetado"
-   ],
-   "cats": [
-    "aditivos"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Norteamérica",
-    "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-10-13",
-   "titulo": "California: se presentó el plan de responsabilidad del productor de envases (SB 54)",
-   "texto": "El 13 de octubre CalRecycle recibió el plan de responsabilidad extendida del productor presentado por Circular Action Alliance. La agencia tiene 75 días para revisarlo.",
-   "revisar": "Si vendes productos envasados en California, pregunta a tus clientes cómo se repartirán las obligaciones del plan.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "envases"
-   ],
-   "cats": [
-    "envases"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Norteamérica",
-    "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-10-13",
-   "titulo": "California: desde el 1 de enero de 2027 se prohíben cuatro ingredientes",
-   "texto": "La ley AB 418 prohíbe a partir del 1 de enero de 2027 el rojo 3, el bromato de potasio, el aceite vegetal bromado (BVO) y el propilparabeno.",
-   "revisar": "Si vendes en California, revisa tus formulaciones y las de tus proveedores contra esos cuatro ingredientes antes de esa fecha.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "cambios",
-    "etiquetado"
-   ],
-   "cats": [
-    "aditivos"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Norteamérica",
-    "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-10-09",
-   "titulo": "Canadá: cerró la primera consulta sobre notificación obligatoria de materiales en contacto con alimentos",
-   "texto": "El 9 de octubre terminó la primera ronda de comentarios sobre un marco de notificación obligatoria para materiales en contacto con alimentos. Se espera una segunda consulta entre noviembre de 2026 y enero de 2027.",
-   "revisar": "Si exportas envasado a Canadá, anota qué materiales de contacto usas y qué documentación tienes de cada uno.",
-   "markets": [
-    "ca"
-   ],
-   "topics": [
-    "envases"
-   ],
-   "cats": [
-    "envases"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Norteamérica",
-    "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-10-08",
-   "titulo": "EE.UU.: la FDA propone no exigir la regla de trazabilidad a minoristas pequeños",
-   "texto": "Un borrador de guía de la FDA propone no aplicar la Regla de Trazabilidad Alimentaria a minoristas y restaurantes pequeños, con ventas entre USD 250.000 y 1 millón. La fecha de cumplimiento de julio de 2028 se mantiene para el resto. La FDA también anunció una reunión pública sobre trazabilidad a nivel de lote.",
-   "revisar": "Si exportas alimentos de la lista de trazabilidad, define qué datos de lote podrías tener que entregar a tus clientes en EE.UU.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "cambios"
-   ],
-   "cats": [
-    "frescos"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Norteamérica",
-    "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-10-07",
-   "titulo": "México: el nuevo acuerdo de aditivos entra en vigencia hacia fines de noviembre",
-   "texto": "El acuerdo publicado el 21 de agosto reemplazará el marco de 2012 unos 60 días hábiles después de su publicación, es decir, hacia fines de noviembre de 2026. Los colorantes permitidos hoy bajo buenas prácticas de manufactura podrían pasar a tener límites numéricos. El 5 y el 7 de octubre COFEPRIS publicó dos guías no vinculantes (exposición a aditivos y clasificación de suplementos) y los anexos II, III y X.",
-   "revisar": "Compara tus fórmulas con las listas vigentes de aditivos, colorantes y coadyuvantes antes de que entre en vigencia.",
-   "markets": [
-    "mx"
-   ],
-   "topics": [
-    "cambios",
-    "etiquetado"
-   ],
-   "cats": [
-    "aditivos"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Norteamérica",
-    "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-10-02",
-   "titulo": "EE.UU.: la FDA cierra la investigación de Cyclospora ligada a lechuga de México y anuncia un plan para 2027",
-   "texto": "La FDA cerró su investigación del brote de verano de Cyclospora asociado a lechuga iceberg rallada de México y presentó un plan de prevención de 10 puntos para la temporada 2027: más vigilancia, trabajo con productores e inspecciones más estrictas a proveedores extranjeros.",
-   "revisar": "Si exportas hortalizas de hoja a EE.UU., revisa el agua de riego, la higiene en campo y la trazabilidad por lote.",
-   "markets": [
-    "us",
-    "mx"
-   ],
-   "topics": [
-    "micro"
-   ],
-   "cats": [
-    "frescos"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Norteamérica",
-    "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-10-01",
-   "titulo": "EE.UU.: la FDA revisa su alerta de importación sobre colorantes no autorizados o no declarados",
-   "texto": "Desde el 1 de octubre la alerta de importación 45-02 cubre la detención de alimentos importados con colorantes no autorizados o no declarados. Los importadores deben verificar que cada color, incluso los de mezclas fabricadas en el exterior, esté autorizado y declarado.",
-   "revisar": "Confirma con tus proveedores de mezclas, saborizantes y colorantes que cada color esté autorizado y declarado para EE.UU.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "etiquetado",
-    "limites"
-   ],
-   "cats": [
-    "aditivos"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Norteamérica",
-    "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-09-30",
-   "titulo": "Perú: SENASA suspende cinco plaguicidas en cultivos para consumo interno",
-   "texto": "La Resolución D000015-2026, publicada el 30 de septiembre, cumple una sentencia del Tribunal Constitucional y suspende de forma temporal la venta, distribución y uso de productos agrícolas con clorpirifós, metomilo, glifosato, imidacloprid o clotianidina cuando se usan en alimentos de origen vegetal para consumo interno. La medida es precautoria hasta una reevaluación técnica y no cancela los registros. Las oficinas regionales deben reforzar las inspecciones.",
-   "revisar": "Si compras o procesas vegetales en Perú, pide a tus proveedores el registro de los plaguicidas aplicados.",
-   "markets": [
-    "pe"
-   ],
-   "topics": [
-    "limites"
-   ],
-   "cats": [
-    "frescos",
-    "cereales"
-   ],
-   "fuente": [
-    "Flavorist, resumen regulatorio de Sudamérica",
-    "https://www.flavorist.com/south-america-food-flavor-regulatory-update-september-16-30-2026/"
-   ]
-  },
-  {
-   "fecha": "2026-09-16",
-   "titulo": "Chile: tres alertas por Listeria en quesos y fiambres en tres semanas",
-   "texto": "Entre el 28 de agosto y el 16 de septiembre, el Minsal informó alertas por Listeria monocytogenes en queso mantecoso laminado La Rotunda (ampliada al formato de 500 g, lote T3180726), pasta cóctel de jamón Líder (3 de septiembre) y queso mantecoso laminado Matthei (16 de septiembre, lote 2262907 AM). Las muestras salieron de la vigilancia microbiológica nacional. En los tres casos se notificó al fabricante, se inspeccionó la planta y se pidió retirar el producto.",
-   "revisar": "Si produces o distribuyes quesos y fiambres en Chile, revisa tu monitoreo ambiental de Listeria y tu plan de retiro.",
-   "markets": [
-    "cl"
-   ],
-   "topics": [
-    "micro"
-   ],
-   "cats": [
-    "lacteos",
-    "carnes"
-   ],
-   "fuente": [
-    "Minsal",
-    "https://www.minsal.cl/minsal-emite-alerta-alimentaria-por-listeria-en-queso-mantecoso-laminado-marca-matthei/"
-   ]
-  },
-  {
-   "fecha": "2026-08-23",
-   "titulo": "Chile: Minsal retira maní por aflatoxinas y pasas por ocratoxina A",
-   "texto": "El 23 de agosto el Minsal informó una alerta por aflatoxinas en maní tostado sin sal de 300 g (lote 103969), detectadas en el programa nacional de vigilancia de micotoxinas. El 5 de agosto había ordenado retirar pasas morenas de 100 g (lote 104736) por ocratoxina A. Ambos productos son de la misma marca y del mismo envasador, y en los dos casos se abrió un sumario sanitario o se tomaron medidas sanitarias.",
-   "revisar": "Si importas o procesas maní, pasas u otros frutos secos, revisa cuántos lotes analizas por micotoxinas y con qué método.",
-   "markets": [
-    "cl"
-   ],
-   "topics": [
-    "contaminantes",
-    "limites"
-   ],
-   "cats": [
-    "frutos"
-   ],
-   "fuente": [
-    "Minsal",
-    "https://www.minsal.cl/minsal-notifica-alerta-alimentaria-por-deteccion-de-mani-tostado-sin-sal-contaminados-con-aflatoxinas/"
-   ]
-  },
-  {
-   "fecha": "2026-10-19",
-   "titulo": "EE.UU.: la FDA clasifica como Clase I el retiro de quesos de leche cruda Graziers por E. coli O26",
-   "texto": "La FDA clasificó el 19 de octubre como Clase I, su categoría más grave, el retiro voluntario de quesos de leche cruda Graziers de Sierra Nevada Cheese Company (California), anunciado el 28 de septiembre. Alcanza al Monterey Jack, jalapeño jack, cheddar medio y cheddar fuerte, en formatos de venta al detalle, food service y mayoristas, distribuidos en 13 estados. El motivo es la posible presencia de E. coli O26, productora de toxina Shiga. Al 25 de septiembre, los CDC reportaban 13 infecciones en nueve estados, ocho hospitalizaciones y tres casos de síndrome urémico hemolítico, más de la mitad en niños pequeños.",
-   "revisar": "Si exportas o distribuyes quesos de leche cruda o derivados lácteos a EE.UU., revisa tus controles de E. coli productora de toxina Shiga y la trazabilidad por lote.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "micro"
-   ],
-   "cats": [
-    "lacteos"
-   ],
-   "fuente": [
-    "Newsweek",
-    "https://www.newsweek.com/cheese-recall-states-highest-warning-issued-e-coli-12592463"
-   ]
-  },
-  {
-   "fecha": "2026-10-13",
-   "titulo": "EE.UU.: el FSIS lanzará un programa nacional de muestreo ambiental de Listeria en plantas de carnes frías listas para consumo",
-   "texto": "El FSIS del USDA implementará a nivel nacional un programa para establecimientos que procesan carnes frías listas para consumo, tras un piloto en los distritos de Alameda, Chicago y Raleigh cuyos resultados no se han publicado. Los inspectores tomarán muestras de producto y cuatro hisopados ambientales, dos de superficies en contacto con alimentos y dos sin contacto, que se analizan para Listeria monocytogenes y otras especies de Listeria. Si se detecta L. monocytogenes, se hará secuenciación del genoma completo y se comparará con casos de enfermedad y resultados históricos. La implementación será por fases en los nueve distritos del FSIS, de enero a marzo de 2027.",
-   "revisar": "Si exportas carnes procesadas listas para consumo a EE.UU., revisa tu programa de monitoreo ambiental de Listeria y tus acciones correctivas antes de que parta el programa en enero.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "micro"
-   ],
-   "cats": [
-    "carnes"
-   ],
-   "fuente": [
-    "Food Safety News",
-    "https://www.foodsafetynews.com/2026/10/usda-to-expand-testing-at-deli-counters/"
-   ]
-  },
-  {
-   "fecha": "2026-10-02",
-   "titulo": "EE.UU.: el FSIS retira snacks con chicharrón fabricados en Colombia, país no habilitado para exportar carne a ese mercado",
-   "texto": "Inexport Logistics LLC, de Miami, retiró unas 189 libras de snacks de la marca Yupi Golpe con Todo sabor BBQ, bolsas de 60 gramos, que contienen chicharrón de cerdo y se fabricaron en Colombia, país que no puede exportar productos cárnicos a EE.UU. Las etiquetas no tienen marca de importación. Se distribuyeron en Arizona, California, Colorado, Florida, Illinois, Kentucky, Minnesota y Texas. El FSIS detectó el producto en un punto de venta durante un control de efectividad de un retiro anterior. No hay reportes de enfermedad.",
-   "revisar": "Si exportas snacks u otros alimentos con ingredientes de origen animal a EE.UU., confirma ante el FSIS que tu país y tu establecimiento sean elegibles antes de embarcar.",
-   "markets": [
-    "us",
-    "co"
-   ],
-   "topics": [
-    "cambios"
-   ],
-   "cats": [
-    "carnes"
-   ],
-   "fuente": [
-    "Food Safety News",
-    "https://www.foodsafetynews.com/2026/10/chips-recalled-because-they-were-made-in-colombia/"
-   ]
-  },
-  {
-   "fecha": "2026-10-07",
-   "titulo": "Chile: el SAG e Indonesia habilitan el certificado fitosanitario electrónico para frutas frescas",
-   "texto": "Desde el 1 de octubre de 2026 rige entre Chile e Indonesia el intercambio de certificados fitosanitarios electrónicos bajo la modalidad paperless, que valida documentos electrónicos para exportaciones, importaciones y reexportaciones. Participan el SAG, la autoridad de cuarentena de Indonesia y el HUB de la Convención Internacional de Protección Fitosanitaria, donde se hicieron las pruebas técnicas. Cubre envíos del sector hortofrutícola, forestal y de material de propagación. Frutas de Chile comentó la medida.",
-   "revisar": "Si exportas fruta fresca chilena a Indonesia, confirma con tu agente de aduana cómo se tramita ahora el certificado y que tus datos estén en el sistema del SAG.",
-   "markets": [
-    "cl"
-   ],
-   "topics": [
-    "cambios"
-   ],
-   "cats": [
-    "frescos"
-   ],
-   "fuente": [
-    "Reporte Agrícola",
-    "https://www.reporteagricola.cl/noticia/noticias/2026/10/chile-e-indonesia-habilitan-certificacion-fitosanitaria-electronica-para-frutas-frescas"
-   ]
-  },
-  {
-   "fecha": "2026-10-03",
-   "titulo": "México: Cofepris informa que concluyó con la FDA las investigaciones de Salmonella y Cyclospora sin evidencia de origen mexicano",
-   "texto": "El 3 de octubre Cofepris informó que terminaron las investigaciones con la FDA sobre brotes de Salmonella Javiana y Cyclospora cayetanensis, sin evidencia concluyente de que productos mexicanos fueran el origen. En Salmonella, las muestras ambientales fueron negativas y la FDA no pudo determinar la vía ni la fuente. En Cyclospora, la FDA reportó dos positivos en muestras ambientales en México, uno en aguas residuales de una planta y otro en una zanja de drenaje, que no permiten determinar cómo ocurrió la contaminación; el laboratorio de Cofepris analizó materia prima, producto terminado y agua de la planta con resultados negativos. Cofepris mantendrá la cooperación con la FDA y los CDC.",
-   "revisar": "Si exportas hortalizas o frutas frescas de México a EE.UU., revisa el manejo de agua de riego y de proceso, y el control de aguas residuales en tu planta y predios.",
-   "markets": [
-    "mx",
-    "us"
-   ],
-   "topics": [
-    "micro"
-   ],
-   "cats": [
-    "frescos"
-   ],
-   "fuente": [
-    "CódigoQro",
-    "https://codigoqro.mx/nota/region-4/2026/10/03/cofepris-descarta-que-productos-mexicanos-originaran-brotes-de-salmonella-y-cyclospora"
-   ]
-  },
-  {
-   "fecha": "2026-10-21",
-   "titulo": "Colombia: el Invima advierte por 14 productos vendidos como suplementos dietarios sin registro sanitario",
-   "texto": "El Invima emitió la Alerta Sanitaria 331-2026 sobre catorce productos ofrecidos como suplementos dietarios para controlar la glucosa, tratar problemas de articulaciones, la próstata o la presión arterial, entre ellos Glyconorm, Diabetna y Carditone. Según la entidad, ninguno tiene registro sanitario vigente ni autorización para comercializarse en Colombia, y los clasificó como fraudulentos. Recomendó suspender su consumo, reportar eventos adversos e informar los puntos de venta, y pidió a las secretarías de salud reforzar la inspección y el retiro.",
-   "revisar": "Si vendes suplementos o alimentos con declaraciones de salud en Colombia, confirma que cada producto tenga registro sanitario vigente y que tus claims coincidan con lo autorizado.",
-   "markets": [
-    "co"
-   ],
-   "topics": [
-    "fraude"
-   ],
-   "cats": [],
-   "fuente": [
-    "Infobae",
-    "https://www.infobae.com/colombia/2026/10/22/invima-advirtio-por-14-suplementos-sin-registro-sanitario-que-se-ofrecen-para-diabetes-articulaciones-y-otros-usos/"
-   ]
-  }
- ],
- "emp": [
-  {
-   "fecha": "2026-10-23",
-   "tipo": "compra",
-   "empresa": "Grupo Nutresa / Presto",
-   "markets": [
-    "co"
-   ],
-   "cats": [
-    "carnes",
-    "cereales"
-   ],
-   "titulo": "Colombia: Nutresa firma la compra de la cadena Presto",
-   "texto": "Grupo Nutresa firmó el contrato para comprar Presto, que estaba en liquidación judicial tras incumplir su acuerdo de reorganización. La compra incluye la marca, los puntos de venta, la planta y los centros de producción. Se preservan unos 700 empleos. Nutresa dijo que definirá en las próximas semanas un plan para fortalecer la marca. Presto conservará su identidad dentro del portafolio de Alimentos al Consumidor.",
-   "senal": "Una planta y centros de producción cambian de dueño: es un momento típico para revisar proveedores, especificaciones y sistema de calidad.",
-   "fuente": [
-    "El Heraldo",
-    "https://www.elheraldo.co/economia/2026/10/23/ministro-de-comercio-destaca-compra-de-presto-por-nutresa-y-preservacion-de-700-empleos/"
-   ]
-  },
-  {
-   "fecha": "2026-10-23",
-   "tipo": "senal",
-   "empresa": "Grupo Bimbo",
-   "markets": [
-    "mx"
-   ],
-   "cats": [
-    "cereales"
-   ],
-   "titulo": "México: Bimbo no descarta nuevas adquisiciones y deja proyectos para 2027",
-   "texto": "En la llamada con analistas del tercer trimestre, la directiva de Grupo Bimbo dijo que, si aparece una oportunidad, usará su nivel actual de apalancamiento para una adquisición complementaria o una operación estratégica, sin anunciar ninguna. También trasladó algunos proyectos de inversión a 2027. La inversión prevista para 2026 sigue entre 1.000 y 1.200 millones de dólares.",
-   "senal": "Es una intención declarada, no una operación. Sirve para saber qué empresas están mirando comprar.",
-   "fuente": [
-    "El CEO",
-    "https://elceo.com/negocios/grupo-bimbo-aplaza-proyectos-para-2027-y-no-descarta-nuevas-adquisiciones/"
-   ]
-  },
-  {
-   "fecha": "2026-10-22",
-   "tipo": "compra",
-   "empresa": "Cepêra / Karambi Alimentos",
-   "markets": [
-    "br"
-   ],
-   "cats": [
-    "frescos",
-    "aditivos"
-   ],
-   "titulo": "Brasil: Cepêra compra el control de Karambi Alimentos, dueña de la marca Colonial",
-   "texto": "La empresa brasileña Cepêra, fundada en 1947, compró el control de Karambi Alimentos, que produce salsas, extractos de tomate y condimentos en Itacarambi (Minas Gerais). El contrato está firmado y el cierre se espera entre octubre y noviembre de 2026. El valor no se informó.",
-   "senal": "Tras el cierre se integran plantas y proveedores. Suele abrir revisiones de calidad y de materias primas.",
-   "fuente": [
-    "SuperHiper",
-    "https://www.superhiper.com.br/cepera-compra-o-controle-da-karambi-alimentos/"
-   ]
-  },
-  {
-   "fecha": "2026-10-21",
-   "tipo": "compra",
-   "empresa": "DHS Ventures / Pasco",
-   "markets": [
-    "ar"
-   ],
-   "cats": [
-    "cereales"
-   ],
-   "titulo": "Argentina: un fondo de capital privado anuncia la compra de Pasco por US$ 375 millones",
-   "texto": "DHS Ventures & Holdings, con sede en Washington, anunció la compra de una participación de control en Pasco (pastas, galletitas y bebidas en polvo; marcas Zoo, Hot Cracker y Lamen), a través de Zanca Investimentos. Pasco tiene 3.200 empleados. El acuerdo está anunciado, aún no cerrado, y se espera que termine más adelante este año. La información viene de un comunicado de la propia compradora.",
-   "senal": "Un fondo nuevo en el rubro suele pedir diagnóstico regulatorio y de calidad antes y después del cierre.",
-   "fuente": [
-    "Comunicado de DHS Ventures (techfinancials.co.za)",
-    "https://techfinancials.co.za/2026/10/21/fernando-aguirre-vice-chairman-of-dhs-ventures-announces-expansion-in-south-america-with-375m-acquisition-of-argentinian-company/"
-   ]
-  },
-  {
-   "fecha": "2026-10-20",
-   "tipo": "inversion",
-   "empresa": "Familia Martínez",
-   "markets": [
-    "es"
-   ],
-   "cats": [
-    "carnes",
-    "lacteos"
-   ],
-   "titulo": "España: Familia Martínez invertirá 95 millones más hasta 2030 en platos preparados",
-   "texto": "La empresa de Buñol (Valencia) sumará 95 millones de euros a los 150 millones de su plan 2025-2026. Construirá una planta de asados de unos 17.000 m² con capacidad para 36.000 toneladas al año, en cuatro etapas entre 2027 y 2030, y ampliará su capacidad de gratinados. Creará al menos 100 empleos.",
-   "senal": "Una planta nueva implica nuevos proveedores, nuevas líneas y validaciones.",
-   "fuente": [
-    "Financial Food",
-    "https://financialfood.es/familia-martinez-invertira-95-millones-mas-hasta-2030-para-ampliar-su-capacidad-industrial-en-platos-preparados/"
-   ]
-  },
-  {
-   "fecha": "2026-10-04",
-   "tipo": "capital",
-   "empresa": "Neocrop Technologies",
-   "markets": [
-    "cl"
-   ],
-   "cats": [
-    "cereales"
-   ],
-   "titulo": "Chile: Neocrop levanta US$ 2,75 millones para llevar su trigo alto en fibra a la fase comercial",
-   "texto": "La empresa de Valdivia cerró una ronda semilla liderada por el fondo estadounidense Zentynel, con CITES (Argentina), Südlich Capital, Grupo Inder y Carozzi Ventures. Usará los fondos para pasar a la fase comercial del trigo alto en fibra, avanzar con otros proyectos y expandirse por el Cono Sur. También menciona planes para Brasil y Norteamérica.",
-   "senal": "Una empresa que pasa de desarrollo a venta necesita cumplir requisitos de cada mercado destino.",
-   "fuente": [
-    "Diario Agrícola",
-    "https://www.diarioagricola.com/startup/trigo-alto-en-fibra-neocrop-valdivia/"
-   ]
-  },
-  {
-   "fecha": "2026-09-28",
-   "tipo": "expansion",
-   "empresa": "Traverso",
-   "markets": [
-    "cl",
-    "pe"
-   ],
-   "cats": [
-    "aditivos"
-   ],
-   "titulo": "Chile y Perú: Traverso prepara su ingreso al mercado peruano con vinagres y luego mayonesa",
-   "texto": "La empresa chilena, con más de 130 años de trayectoria, pasará de vender materias primas a fabricar productos terminados y marcas propias para supermercados peruanos, a través de Traverso International Foods. Negocia con una empresa peruana desde hace cuatro o cinco meses y proyecta cerrar el primer negocio en noviembre de 2026. Por ahora la producción seguirá en Chile.",
-   "senal": "Una empresa que exporta por primera vez producto terminado a un país nuevo necesita conocer la normativa de ese país.",
-   "fuente": [
-    "Gestión",
-    "https://gestion.pe/economia/empresas/empresa-chilena-de-alimentos-prepara-su-ingreso-a-peru-empezara-con-vinagres-y-luego-ira-por-mayonesa-noticia/"
-   ]
-  },
-  {
-   "fecha": "2026-10-02",
-   "tipo": "compra",
-   "empresa": "Watkins / Sauer Brands",
-   "markets": [
-    "us"
-   ],
-   "cats": [
-    "especias"
-   ],
-   "titulo": "EE.UU.: Watkins compra el negocio de especias de Sauer Brands",
-   "texto": "Watkins, con sede en Winona (Minnesota), adquirió el negocio de especias de Sauer Brands, respaldada por Advent International. La operación incluye las marcas Kernel Season's, Spice Hunter y Sauer's, las líneas de foodservice y marca privada asociadas, y dos plantas, en Richmond (Virginia) y San Luis Obispo (California). No se informó el monto ni la fecha de cierre.",
-   "senal": "Si vendes especias o hierbas a estas marcas o a sus líneas de marca privada, es un momento típico para revisar especificaciones, límites de residuos y proveedores aprobados con el nuevo dueño.",
-   "fuente": [
-    "Food Processing",
-    "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55409380/watkins-acquires-sauer-brands-spice-business"
-   ]
-  },
-  {
-   "fecha": "2026-10-14",
-   "tipo": "compra",
-   "empresa": "McCall Farms / B&G Foods",
-   "markets": [
-    "us"
-   ],
-   "cats": [
-    "cereales"
-   ],
-   "titulo": "EE.UU.: B&G Foods vende las marcas B&M y Joan of Arc a McCall Farms",
-   "texto": "B&G Foods vendió a McCall Farms las marcas B&M, de frijoles horneados y pan moreno, y Joan of Arc, de frijoles rojos, chili y otras legumbres enlatadas. No se revelaron los términos ni la fecha de cierre. B&G dijo que usará los ingresos netos para pagar deuda a largo plazo. A inicios de octubre, B&G y Nortera Foods cancelaron la venta de Green Giant Canadá después de que reguladores canadienses recomendaron bloquearla.",
-   "senal": "Quien abastece legumbres o frijoles a estas marcas debe confirmar con el nuevo dueño qué proveedores y especificaciones se mantienen.",
-   "fuente": [
-    "Food Processing",
-    "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55411968/bg-foods-sells-bm-and-joan-of-arc-brands-to-mccall-farms"
-   ]
-  },
-  {
-   "fecha": "2026-10-20",
-   "tipo": "compra",
-   "empresa": "Commercial Bakeries / Partners",
-   "markets": [
-    "us",
-    "ca"
-   ],
-   "cats": [
-    "cereales"
-   ],
-   "titulo": "EE.UU. y Canadá: Commercial Bakeries compra al fabricante de galletas saladas Partners",
-   "texto": "Commercial Bakeries, de Toronto, compró Partners, fabricante estadounidense de galletas saladas premium y de perfil saludable, con marca privada, manufactura por contrato y suministro a clientes industriales en Norteamérica. La producción es en una panadería en Des Moines (Washington). No se informaron los términos. Es la tercera adquisición de Commercial Bakeries desde que Graham Partners tomó su propiedad en 2023.",
-   "senal": "Los proveedores de harinas, semillas y otros insumos de Partners pueden recibir cambios de volumen o de especificaciones tras la integración.",
-   "fuente": [
-    "Just Food",
-    "https://www.just-food.com/news/commercial-bakeries-adds-acquisitions-partners/"
-   ]
-  },
-  {
-   "fecha": "2026-10-22",
-   "tipo": "compra",
-   "empresa": "Fine Choice Foods (Summ!) / Power Sustainable Lios",
-   "markets": [
-    "us",
-    "ca"
-   ],
-   "cats": [],
-   "titulo": "Canadá y EE.UU.: Swander Pace Capital vende Fine Choice Foods, dueña de la marca Summ!, a Power Sustainable Lios",
-   "texto": "Swander Pace Capital vendió Fine Choice Foods, que fabrica aperitivos y comidas frescas y congeladas de inspiración asiática (rollitos de primavera, gyozas y bao buns) con la marca Summ!. Fundada en 1986 en Vancouver, abastece a Canadá y EE.UU. desde dos plantas. El comprador es Power Sustainable Lios. No se informó el monto.",
-   "senal": "Un cambio de dueño de fondo de inversión suele traer revisión de proveedores y de costos; conviene hablar con sus compradores antes de la próxima negociación.",
-   "fuente": [
-    "Food Processing",
-    "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55413775/fine-choice-foods-summ-brand-switches-pe-firm-ownership"
-   ]
-  },
-  {
-   "fecha": "2026-10-16",
-   "tipo": "senal",
-   "empresa": "Panzani / Cerealis",
-   "markets": [
-    "es",
-    "ue"
-   ],
-   "cats": [
-    "cereales"
-   ],
-   "titulo": "Europa: Panzani y Cerealis negocian fusionarse en una sola compañía europea",
-   "texto": "Panzani (Francia, con pasta, cuscús y salsas) y Cerealis (Portugal, con pasta, cereales de desayuno, barritas y galletas, además de presencia en España) iniciaron negociaciones exclusivas para fusionarse. El valor empresarial aproximado es de 1.800 millones de euros, con ingresos consolidados de unos 1.000 millones y cerca de 1.800 empleados. La operación sigue siendo una propuesta: requiere consulta a representantes de los trabajadores y aprobación de las autoridades.",
-   "senal": "Si vendes trigo, harinas o ingredientes a cualquiera de las dos, un grupo más grande puede unificar proveedores y especificaciones.",
-   "fuente": [
-    "Food Processing",
-    "https://www.foodprocessing.com/business-of-food-beverage/international/news/55412600/europes-panzani-group-cerealis-explore-proposed-combination"
-   ]
-  }
- ],
- "ev": [
-  {
-   "ini": "2026-10-29",
-   "fin": "2026-10-29",
-   "nombre": "Webinar: FDA Proposes Major GRAS Reform, qué podría significar para tu negocio",
-   "lugar": "Online · en inglés · 15:00 a 16:00 hora de Chile",
-   "markets": [
-    "us"
-   ],
-   "tipo": "online",
-   "cats": [
-    "aditivos"
-   ],
-   "texto": "Explica la propuesta de la FDA que haría obligatoria la notificación de sustancias GRAS (comentarios hasta el 9 de diciembre). Es útil si vendes ingredientes o aditivos a EE.UU. El costo de inscripción no está informado en la fuente.",
-   "url": "https://foodindustryexecutive.com/food-industry-webinar/fda-proposes-major-gras-reform-what-it-could-mean-for-your-business/",
-   "fuente": "Food Industry Executive"
-  },
-  {
-   "ini": "2026-10-30",
-   "fin": "2026-10-30",
-   "nombre": "Webinar: Beyond the Swab, cómo armar un monitoreo ambiental de Listeria más inteligente",
-   "lugar": "Online · en inglés · 13:00 a 14:00 hora de Chile",
-   "markets": [
-    "global"
-   ],
-   "tipo": "online",
-   "cats": [
-    "carnes",
-    "lacteos",
-    "frescos"
-   ],
-   "texto": "Sesión sobre cómo diseñar y mejorar un programa de monitoreo ambiental (EMP) de Listeria. Útil para plantas de carnes, lácteos y listos para consumo. El costo de inscripción no está informado en la fuente.",
-   "url": "https://foodindustryexecutive.com/food-industry-webinar/beyond-the-swab-how-to-build-a-smarter-listeria-emp/",
-   "fuente": "Food Industry Executive"
-  },
-  {
-   "ini": "2026-11-03",
-   "fin": "2026-11-03",
-   "nombre": "Cursos online de inocuidad: IFS Food, alérgenos, gestión de proveedores y más",
-   "lugar": "Online · en español · inicio el 3 de noviembre, 4 semanas por curso",
-   "markets": [
-    "global"
-   ],
-   "tipo": "online",
-   "cats": [],
-   "texto": "Portal de Inocuidad abre cursos de 4 semanas que empiezan el 3 de noviembre: IFS Food (última versión), gestión integral de plagas, no conformidades y acciones correctivas, documentos del sistema de inocuidad, gestión de proveedores y gestión de alérgenos. El costo no figura en la página.",
-   "url": "https://www.portaldeinocuidad.com/web/calendario/",
-   "fuente": "Portal de Inocuidad"
-  },
-  {
-   "ini": "2026-11-05",
-   "fin": "2026-11-05",
-   "nombre": "Seminario FINUT: procesamiento y aditivos alimentarios, segunda jornada",
-   "lugar": "Online · en español · 13:00 hora de Chile (según el conversor de la página)",
-   "markets": [
-    "global"
-   ],
-   "tipo": "online",
-   "cats": [
-    "aditivos"
-   ],
-   "texto": "Ciclo de la Fundación Iberoamericana de Nutrición sobre fundamentos científicos para la seguridad, la regulación y la salud pública de los aditivos. El seminario es gratuito; el certificado de asistencia cuesta 20 euros. La inscripción es por el formulario de FINUT.",
-   "url": "https://www.finut.org/webinars/procesadosyaditivos1/",
-   "fuente": "FINUT"
-  },
-  {
-   "ini": "2026-11-20",
-   "fin": "2026-11-20",
-   "nombre": "Webinar: Navigating the 2026 FDA Food Code, cambios clave y cumplimiento",
-   "lugar": "Online · en inglés · 14:00 hora de Chile",
-   "markets": [
-    "us"
-   ],
-   "tipo": "online",
-   "cats": [],
-   "texto": "Repasa los cambios del Código de Alimentos de la FDA 2026 y cómo cumplirlos, dentro de la serie FSMA Friday. Útil si vendes a servicios de alimentación o minoristas de EE.UU. El costo de inscripción no está informado en la fuente.",
-   "url": "https://foodindustryexecutive.com/food-industry-webinar/navigating-the-2026-fda-food-code-key-changes-regulatory-impacts-and-practical-compliance/",
-   "fuente": "Food Industry Executive"
-  },
-  {
-   "ini": "2026-10-26",
-   "fin": "2026-10-27",
-   "nombre": "INOFOOD 2026, IX Cumbre de Inocuidad Alimentaria",
-   "lugar": "Santiago, Chile (Le Méridien)",
-   "markets": [
-    "cl"
-   ],
-   "tipo": "inocuidad",
-   "cats": [
-    "carnes",
-    "lacteos",
-    "frescos",
-    "frutos"
-   ],
-   "texto": "Se esperan unos 1.300 participantes. Temas: cambios del Codex en umbrales de alérgenos, reglas de la UE sobre metales pesados y PFAS en envases, detección con metagenómica e IA, diseño higiénico, Salmonella y Listeria, micotoxinas, trazabilidad y pasaporte digital de producto. Hay sesiones por sector: carnes, salmón, fruta, hortalizas, frutos secos, lácteos, huevos y servicios de alimentación.",
-   "url": "https://www.reporteagricola.cl/noticia/eventos/2026/10/inofood-2026-evento-reunira-sector-para-analizar-nuevos-desafios-inocuidad-alimentaria",
-   "fuente": "Reporte Agrícola"
-  },
-  {
-   "ini": "2026-11-09",
-   "fin": "2026-11-11",
-   "nombre": "Cumbre de Banano 2026",
-   "lugar": "Guayaquil, Ecuador (Centro de Convenciones)",
-   "markets": [
-    "ec"
-   ],
-   "tipo": "sector",
-   "cats": [
-    "frescos",
-    "frutos"
-   ],
-   "texto": "Reúne a productores, investigadores y delegaciones de ocho países (Ecuador, Colombia, Costa Rica, Venezuela, Brasil, Chile, España y Países Bajos). Ejes: sanidad y genética, tecnología en campo, normativa internacional y operatividad, con foco en el manejo de plagas y los efectos de El Niño sobre las exportaciones.",
-   "url": "https://www.expreso.ec/guayaquil/cumbre-banano-2026-reune-guayaquil-expertos-ocho-paises-efectos-nino-299645.html",
-   "fuente": "Expreso"
-  },
-  {
-   "ini": "2027-02-03",
-   "fin": "2027-02-05",
-   "nombre": "Fruit Logistica 2027",
-   "lugar": "Berlín, Alemania",
-   "markets": [
-    "ue"
-   ],
-   "tipo": "sector",
-   "cats": [
-    "frescos",
-    "frutos"
-   ],
-   "texto": "Feria internacional de frutas y hortalizas frescas, con exportadores de Latinoamérica y compradores europeos. Es una de las citas del año para reunirse con importadores de la UE.",
-   "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-   "fuente": "Serviscomplet (calendario de ferias 2027)"
-  },
-  {
-   "ini": "2027-02-16",
-   "fin": "2027-02-18",
-   "nombre": "Anuga Select Ibérica 2027",
-   "lugar": "Madrid, España (IFEMA)",
-   "markets": [
-    "es"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Primera edición española de Anuga, para el sector de alimentación y bebidas. Se celebra junto con Nutraceuticals Europe (17 y 18 de febrero).",
-   "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-   "fuente": "Serviscomplet (calendario de ferias 2027)"
-  },
-  {
-   "ini": "2027-04-20",
-   "fin": "2027-04-22",
-   "nombre": "Seafood Expo Global 2027",
-   "lugar": "Barcelona, España (Fira)",
-   "markets": [
-    "es"
-   ],
-   "tipo": "sector",
-   "cats": [
-    "pescados"
-   ],
-   "texto": "Feria mundial de pescados y mariscos, junto con Seafood Processing Global. Reúne a compradores y proveedores de todo el mundo.",
-   "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-   "fuente": "Serviscomplet (calendario de ferias 2027)"
-  },
-  {
-   "ini": "2027-05-18",
-   "fin": "2027-05-20",
-   "nombre": "Vitafoods Europe 2027",
-   "lugar": "Barcelona, España (Fira)",
-   "markets": [
-    "es"
-   ],
-   "tipo": "sector",
-   "cats": [
-    "aditivos"
-   ],
-   "texto": "Feria de ingredientes funcionales, suplementos y nutrición. Útil para proveedores de ingredientes que venden a Europa.",
-   "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-   "fuente": "Serviscomplet (calendario de ferias 2027)"
-  },
-  {
-   "ini": "2026-10-30",
-   "fin": "2026-10-30",
-   "nombre": "Webinar AECOC: cómo desarrollar un plan de cultura de seguridad alimentaria",
-   "lugar": "Online · en español · hora según la ficha del webinar",
-   "markets": [
-    "es"
-   ],
-   "tipo": "online",
-   "cats": [],
-   "texto": "Sesión para armar un plan de cultura de seguridad alimentaria en la empresa. El costo no está informado en la fuente.",
-   "url": "https://www.aecoc.es/webinar/desarrolla-un-plan-de-cultura-de-seguridad-alimentaria-2/",
-   "fuente": "AECOC"
-  },
-  {
-   "ini": "2026-11-04",
-   "fin": "2026-11-04",
-   "nombre": "Webinar AECOC: adaptarse al Reglamento Europeo de Envases y Residuos de Envases",
-   "lugar": "Online · en español · hora según la ficha del webinar",
-   "markets": [
-    "es",
-    "ue"
-   ],
-   "tipo": "online",
-   "cats": [
-    "envases"
-   ],
-   "texto": "Repasa qué exige el nuevo reglamento europeo de envases y cómo prepararse. Útil si vendes en España o la UE. El costo no está informado en la fuente.",
-   "url": "https://www.aecoc.es/webinar/adaptate-al-nuevo-reglamento-europeo-de-envases-y-residuos-de-envases-2/",
-   "fuente": "AECOC"
-  },
-  {
-   "ini": "2026-11-05",
-   "fin": "2026-11-05",
-   "nombre": "Webinar AECOC: requisitos generales de etiquetado de alimentos",
-   "lugar": "Online · en español · hora según la ficha del webinar",
-   "markets": [
-    "es"
-   ],
-   "tipo": "online",
-   "cats": [],
-   "texto": "Revisa si tu etiqueta cumple los requisitos generales en España. El costo no está informado en la fuente.",
-   "url": "https://www.aecoc.es/webinar/cumples-con-los-requisitos-generales-de-etiquetado-2/",
-   "fuente": "AECOC"
-  },
-  {
-   "ini": "2026-11-13",
-   "fin": "2026-11-13",
-   "nombre": "Webinar AECOC: claves para cumplir con la información nutricional obligatoria",
-   "lugar": "Online · en español · hora según la ficha del webinar",
-   "markets": [
-    "es"
-   ],
-   "tipo": "online",
-   "cats": [],
-   "texto": "Explica cómo cumplir con la declaración nutricional obligatoria en España. El costo no está informado en la fuente.",
-   "url": "https://www.aecoc.es/webinar/claves-para-cumplir-con-la-informacion-nutricional-obligatoria-2/",
-   "fuente": "AECOC"
-  },
-  {
-   "ini": "2026-11-20",
-   "fin": "2026-11-20",
-   "nombre": "Webinar AECOC: requisitos legales de los claims voluntarios en alimentación",
-   "lugar": "Online · en español · hora según la ficha del webinar",
-   "markets": [
-    "es"
-   ],
-   "tipo": "online",
-   "cats": [],
-   "texto": "Qué se puede decir y qué no en declaraciones voluntarias del envase, según la normativa en España. El costo no está informado en la fuente.",
-   "url": "https://www.aecoc.es/webinar/requisitos-legales-en-el-uso-de-claims-voluntarios-en-alimentacion-2/",
-   "fuente": "AECOC"
-  },
-  {
-   "ini": "2026-11-05",
-   "fin": "2026-11-05",
-   "nombre": "Webinar: cómo los mandos medios influyen en la cultura de inocuidad y el riesgo",
-   "lugar": "Online · en inglés · 13:00 hora de Chile",
-   "markets": [
-    "global"
-   ],
-   "tipo": "online",
-   "cats": [],
-   "texto": "Sesión patrocinada sobre el rol de los mandos medios en la cultura de inocuidad. El costo no está informado en la fuente.",
-   "url": "https://www.food-safety.com/events/11587-how-middle-managers-shape-food-safety-culture-and-risk-performance",
-   "fuente": "Food Safety Magazine"
-  },
-  {
-   "ini": "2026-11-12",
-   "fin": "2026-11-12",
-   "nombre": "Webinar: de datos sobrecargados a inteligencia de riesgo en inocuidad",
-   "lugar": "Online · en inglés · 13:00 hora de Chile",
-   "markets": [
-    "global"
-   ],
-   "tipo": "online",
-   "cats": [],
-   "texto": "Sesión patrocinada sobre cómo convertir datos de inocuidad en decisiones de riesgo. El costo no está informado en la fuente.",
-   "url": "https://www.food-safety.com/events/11588-from-data-overload-to-actionable-food-safety-risk-intelligence",
-   "fuente": "Food Safety Magazine"
-  },
-  {
-   "ini": "2026-11-06",
-   "fin": "2026-11-06",
-   "nombre": "Webinar gratuito: armonizar estándares globales y certificarse en varios a la vez",
-   "lugar": "Online · en inglés · 12:00 hora de Chile · gratuito",
-   "markets": [
-    "global"
-   ],
-   "tipo": "online",
-   "cats": [],
-   "texto": "Estrategias para ser eficientes cuando una planta mantiene varias certificaciones de inocuidad. Es gratuito, con registro previo.",
-   "url": "https://event.webinarjam.com/3qnw0/register/7r0zmspw",
-   "fuente": "IFSQN"
-  },
-  {
-   "ini": "2026-11-04",
-   "fin": "2026-11-06",
-   "nombre": "XXVI Congreso Internacional de Inocuidad de Alimentos",
-   "lugar": "Puerto Vallarta, Jalisco, México",
-   "markets": [
-    "mx"
-   ],
-   "tipo": "inocuidad",
-   "cats": [],
-   "texto": "Congreso de la Universidad de Guadalajara con respaldo de la ICMSF. Los cursos precongreso son el 4 de noviembre.",
-   "url": "https://www.foodnewslatam.com/paises/85-mexico/18068-puerto-vallarta-ser%C3%A1-sede-de-un-foro-clave-en-inocuidad-alimentaria.html",
-   "fuente": "FoodNewsLatam"
-  },
-  {
-   "ini": "2026-11-10",
-   "fin": "2026-11-13",
-   "nombre": "Expo Agroalimentaria Guanajuato 2026",
-   "lugar": "Irapuato, Guanajuato, México",
-   "markets": [
-    "mx"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Feria del sector agroalimentario en el Bajío mexicano.",
-   "url": "https://www.foodnewslatam.com/eventos.html",
-   "fuente": "FoodNewsLatam"
-  },
-  {
-   "ini": "2026-11-11",
-   "fin": "2026-11-12",
-   "nombre": "Empack Madrid 2026",
-   "lugar": "Madrid, España",
-   "markets": [
-    "es"
-   ],
-   "tipo": "sector",
-   "cats": [
-    "envases"
-   ],
-   "texto": "Feria de envases y embalaje. Útil para ver proveedores y novedades de materiales en contacto con alimentos.",
-   "url": "https://thefoodtech.com/eventos-de-la-industria/",
-   "fuente": "The Food Tech"
-  },
-  {
-   "ini": "2026-11-12",
-   "fin": "2026-11-15",
-   "nombre": "Expodrinks Caribe 2026",
-   "lugar": "Barranquilla, Colombia",
-   "markets": [
-    "co"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Feria de bebidas en la costa caribe colombiana.",
-   "url": "https://www.foodnewslatam.com/eventos.html",
-   "fuente": "FoodNewsLatam"
-  },
-  {
-   "ini": "2026-11-17",
-   "fin": "2026-11-19",
-   "nombre": "Fi Europe 2026",
-   "lugar": "Fráncfort, Alemania",
-   "markets": [
-    "ue",
-    "es"
-   ],
-   "tipo": "sector",
-   "cats": [
-    "aditivos"
-   ],
-   "texto": "Feria de ingredientes y aditivos alimentarios, con proveedores y tendencias de formulación.",
-   "url": "https://thefoodtech.com/eventos-de-la-industria/",
-   "fuente": "The Food Tech"
-  },
-  {
-   "ini": "2026-11-18",
-   "fin": "2026-11-20",
-   "nombre": "Congreso ALACCTA 2026",
-   "lugar": "Punta Cana, República Dominicana",
-   "markets": [
-    "do"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Congreso latinoamericano de ciencia y tecnología de alimentos.",
-   "url": "https://thefoodtech.com/eventos-de-la-industria/",
-   "fuente": "The Food Tech"
-  },
-  {
-   "ini": "2026-11-26",
-   "fin": "2026-11-27",
-   "nombre": "Foro Global Agroalimentario 2026",
-   "lugar": "Guadalajara, Jalisco, México",
-   "markets": [
-    "mx"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Foro del sector agroalimentario en México.",
-   "url": "https://thefoodtech.com/eventos-de-la-industria/",
-   "fuente": "The Food Tech"
-  },
-  {
-   "ini": "2027-03-15",
-   "fin": "2027-03-19",
-   "nombre": "Gulfood 2027",
-   "lugar": "Dubái, Emiratos Árabes Unidos",
-   "markets": [
-    "me"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Feria de alimentos y bebidas para exportadores que apuntan a Medio Oriente.",
-   "url": "https://www.foodingredientsfirst.com/events/gulfood-2027.html",
-   "fuente": "Food Ingredients First"
-  },
-  {
-   "ini": "2027-04-06",
-   "fin": "2027-04-08",
-   "nombre": "Fruit Attraction São Paulo 2027",
-   "lugar": "São Paulo, Brasil",
-   "markets": [
-    "br"
-   ],
-   "tipo": "sector",
-   "cats": [
-    "frescos"
-   ],
-   "texto": "Feria de frutas y hortalizas frescas para Latinoamérica.",
-   "url": "https://www.foodnewslatam.com/eventos.html",
-   "fuente": "FoodNewsLatam"
-  },
-  {
-   "ini": "2026-11-17",
-   "fin": "2026-11-20",
-   "nombre": "International Oat Conference Chile 2026",
-   "lugar": "Pucón, Chile",
-   "markets": [
-    "cl"
-   ],
-   "tipo": "sector",
-   "cats": [
-    "cereales"
-   ],
-   "texto": "Conferencia internacional sobre avena: cultivo, industria y mercado.",
-   "url": "https://thefoodtech.com/eventos-de-la-industria/",
-   "fuente": "The Food Tech"
-  },
-  {
-   "ini": "2027-01-17",
-   "fin": "2027-01-19",
-   "nombre": "Winter FancyFaire 2027 (antes Winter Fancy Food Show)",
-   "lugar": "San Francisco, EE. UU. (Moscone Center)",
-   "markets": [
-    "us"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Feria de alimentos especiales y gourmet en San Francisco. Útil para exportadores que buscan compradores en EE.UU.",
-   "url": "https://www.marketscale.com/industries/events/winter-fancy-food-show-2027-2027",
-   "fuente": "MarketScale"
-  },
-  {
-   "ini": "2027-02-16",
-   "fin": "2027-02-19",
-   "nombre": "BIOFACH 2027",
-   "lugar": "Núremberg, Alemania",
-   "markets": [
-    "ue"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Feria mundial de alimentos orgánicos. Útil para exportadores a la Unión Europea que necesitan certificación orgánica.",
-   "url": "https://www.biofach.de/en",
-   "fuente": "BIOFACH"
-  },
-  {
-   "ini": "2027-03-02",
-   "fin": "2027-03-05",
-   "nombre": "Natural Products Expo West 2027",
-   "lugar": "Anaheim, California, EE. UU.",
-   "markets": [
-    "us"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Feria de alimentos y productos naturales en EE.UU. Salones de exhibición del 3 al 5 de marzo.",
-   "url": "https://www.expowest.com",
-   "fuente": "Expo West"
-  },
-  {
-   "ini": "2027-05-10",
-   "fin": "2027-05-13",
-   "nombre": "Food Safety Summit 2027",
-   "lugar": "Rosemont, Illinois, EE. UU.",
-   "markets": [
-    "us"
-   ],
-   "tipo": "inocuidad",
-   "cats": [],
-   "texto": "Conferencia y exposición de inocuidad alimentaria en EE.UU. Las fechas provienen de un listado de terceros; conviene confirmarlas en el sitio del organizador.",
-   "url": "https://www.luminik.io/events/food-safety-summit/",
-   "fuente": "Luminik"
-  },
-  {
-   "ini": "2027-05-22",
-   "fin": "2027-05-25",
-   "nombre": "The National Restaurant Association Show 2027",
-   "lugar": "Chicago, Illinois, EE. UU. (McCormick Place)",
-   "markets": [
-    "us"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Feria de la industria de servicios de alimentos y restaurantes en EE.UU.",
-   "url": "https://www.nationalrestaurantshow.com",
-   "fuente": "National Restaurant Association"
-  },
-  {
-   "ini": "2027-07-11",
-   "fin": "2027-07-14",
-   "nombre": "IFT FIRST 2027",
-   "lugar": "Chicago, Illinois, EE. UU.",
-   "markets": [
-    "us"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Evento anual del Institute of Food Technologists con exposición de ingredientes, tecnología y ciencia de alimentos.",
-   "url": "https://www.ift.org/first",
-   "fuente": "IFT"
-  },
-  {
-   "ini": "2027-07-17",
-   "fin": "2027-07-21",
-   "nombre": "IAFP 2027, reunión anual de protección de alimentos",
-   "lugar": "Kansas City, Missouri, EE. UU.",
-   "markets": [
-    "us"
-   ],
-   "tipo": "inocuidad",
-   "cats": [],
-   "texto": "Reunión anual de la Asociación Internacional para la Protección de Alimentos, con trabajos científicos sobre inocuidad.",
-   "url": "https://www.foodprotection.org/annualmeeting/",
-   "fuente": "IAFP"
-  }
- ],
- "plazos": [
-  {
-   "f": "2026-11-17",
-   "lbl": "Alrededor del 17 nov 2026",
-   "m": [
-    "mx"
-   ],
-   "tema": "Aditivos",
-   "tit": "México: entra en vigor el nuevo Acuerdo de aditivos y coadyuvantes, con plazos de transición de 6 a 24 meses",
-   "fu": [
-    "Noticias Gobierno",
-    "https://www.noticiasgobierno.com/acuerdo-aditivos-coadyuvantes-alimentos-bebidas-suplementos-2026/"
-   ]
-  },
-  {
-   "f": "2027-03-17",
-   "lbl": "17 mar 2027",
-   "m": [
-    "cl"
-   ],
-   "tema": "Etiquetado",
-   "tit": "Chile: \"libre de gluten\" solo con resultado de laboratorio de 5 mg/kg o menos",
-   "fu": [
-    "Envapack",
-    "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
-   ]
-  },
-  {
-   "f": "2027-11-06",
-   "lbl": "Noviembre 2027",
-   "m": [
-    "cl"
-   ],
-   "tema": "Etiquetado",
-   "tit": "Chile: los lácteos deberán indicar el país de ordeña en la cara principal",
-   "fu": [
-    "Envapack",
-    "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
-   ]
-  },
-  {
-   "f": "2028-01-01",
-   "lbl": "1 ene 2028",
-   "m": [
-    "mx"
-   ],
-   "tema": "Etiquetado",
-   "tit": "México: Fase 3 de la NOM-051 para el etiquetado frontal",
-   "fu": [
-    "Vinculum",
-    "https://vinculum.mx/2025/12/12/fase-3-de-la-nom-051-scfi-ssa1-2010-cambios-para-2026/"
-   ]
-  }
- ]
+  "revisado": "2026-10-26",
+  "reg": [
+    {
+      "fecha": "2026-10-20",
+      "titulo": "Argentina: SENASA habilita la inscripción digital de empaques y frigoríficos de frutas y hortalizas",
+      "texto": "SENASA incorporó a SIGTRÁMITES (procedimiento 205) la inscripción de nuevos establecimientos de empaque, molienda y frío de frutas, hortalizas y aromáticas, con autogestión digital. Alcanza empaques, moliendas, frigoríficos y cámaras de frío, de maduración o desverdizado. Se ingresa con clave fiscal de ARCA y requiere croquis con el flujo del proceso, análisis de agua de no más de seis meses y la constancia de habilitación municipal. El arancel es obligatorio y el registro no vence. Es la primera etapa práctica desde que el Decreto 697/2026 pasó el control de alimentos de ANMAT a SENASA.",
+      "revisar": "Si exportas o compras fruta y hortalizas argentinas, confirma que el empaque o frigorífico tenga su inscripción vigente en SENASA y qué número figura.",
+      "markets": [
+        "ar"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "frescos"
+      ],
+      "fuente": [
+        "InfoAlimentación",
+        "https://infoalimentacion.com.ar/2026/10/21/senasa-sigtramites-inscripcion-empaques-frigorificos-vegetales/"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulo": "Brasil: cerró la consulta pública de Anvisa para cambiar el rotulado general de alimentos",
+      "texto": "El 19 de octubre terminó el plazo de la Consulta Pública 1.400/2026, que propone modificar la RDC 727/2022 en tres puntos: cuándo y cómo declarar la cantidad de un ingrediente destacado, la posibilidad de entregar parte de la información obligatoria por medios digitales (como códigos QR) y el rotulado de alimentos irradiados. Sigue el análisis de las contribuciones, una eventual audiencia y la decisión de la directoría colegiada.",
+      "revisar": "Si vendes envasados en Brasil, revisa qué ingredientes destacas en el frente de tus etiquetas y si usas especias o deshidratados irradiados.",
+      "markets": [
+        "br"
+      ],
+      "topics": [
+        "etiquetado",
+        "cambios"
+      ],
+      "cats": [
+        "aditivos"
+      ],
+      "fuente": [
+        "ProcTracker",
+        "https://proctracker.app/blog/anvisa-consulta-publica-1400-rotulagem-alimentos-rdc-727-2026"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
+      "titulo": "España: intervienen 30 toneladas de carne blanqueada con agua oxigenada",
+      "texto": "La Guardia Civil informó el 21 de octubre la incautación de 30,5 toneladas de carne en Benaoján (Málaga), tras casi un año de investigación. Según la nota, huesos y espinas de cerdo se remojaban en agua oxigenada industrial al 50 % para que se vieran más blancos y frescos, un uso prohibido en alimentos. También encontraron carne sin refrigeración y sobre suelos sucios. La autoridad sanitaria ordenó cerrar las instalaciones, y el dueño y el jefe de planta están investigados por falsificación de documentos privados y delito contra la salud pública.",
+      "revisar": "Si compras carne o derivados de cerdo con origen en España, revisa cómo verificas la autorización sanitaria de cada proveedor y de su planta.",
+      "markets": [
+        "es"
+      ],
+      "topics": [
+        "fraude",
+        "micro"
+      ],
+      "cats": [
+        "carnes"
+      ],
+      "fuente": [
+        "Que.es",
+        "https://que.es/2026/10/21/alerta-carne-agua-oxigenada-malaga"
+      ]
+    },
+    {
+      "fecha": "2026-10-20",
+      "titulo": "EE.UU.: la FDA publica resultados de muestreo por adulteración en jugo de limón",
+      "texto": "El 20 de octubre la FDA publicó los resultados de su muestreo sobre adulteración por motivación económica (fraude) en jugo de limón, correspondientes a los años fiscales 2023 a 2025.",
+      "revisar": "Si exportas jugos o concentrados cítricos a EE.UU., revisa cómo verificas la autenticidad y el contenido declarado de cada lote.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "fraude"
+      ],
+      "cats": [
+        "jugos",
+        "frescos"
+      ],
+      "fuente": [
+        "AFDO, Federal Register Update",
+        "https://www.afdo.org/federal-register-update-october-19-20-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-17",
+      "titulo": "EE.UU.: retiro de más de 1,5 millones de libras de carnes listas para consumo por falla de temperatura",
+      "texto": "El USDA-FSIS informó el 17 de octubre el retiro voluntario de Kayem Foods (Chelsea, Massachusetts): más de 100 productos, entre ellos tocino, hot dogs, salchichas, pechuga de pavo y jamón, elaborados entre el 31 de marzo y el 7 de octubre de 2026. El motivo es una posible exposición a temperatura inadecuada por fallas en una cámara de almacenamiento, detectada tras el reporte de un cliente que recibió producto tibio el 1 de octubre. No se mencionan patógenos ni personas enfermas. Se distribuyó en todo EE.UU. y en Hong Kong.",
+      "revisar": "Revisa las alarmas de temperatura de tus cámaras y cómo documentas y evalúas cada desviación.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "micro"
+      ],
+      "cats": [
+        "carnes",
+        "lacteos"
+      ],
+      "fuente": [
+        "Food Safety News",
+        "https://www.foodsafetynews.com/2026/10/more-than-1-5-million-pounds-of-hot-dogs-bacon-sausage-turkey-breasts-and-more-meat-products-of-various-brands-recalled/"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "EE.UU.: la FDA analiza hacer obligatoria la notificación GRAS",
+      "texto": "La propuesta de la FDA del 10 de agosto haría obligatoria la notificación de sustancias GRAS, incluidas las que ya están en el suministro de alimentos. La FDA hizo un seminario web el 14 y 15 de octubre. Los comentarios vencen el 9 de diciembre (expediente FDA-2025-N-3262).",
+      "revisar": "Si tus ingredientes o aditivos se basan en una autodeterminación GRAS, pregunta a tus proveedores cuáles quedarían alcanzados.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "aditivos"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Norteamérica",
+        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-13",
+      "titulo": "EE.UU.: la FDA permite sustitutos de sal en 139 alimentos estandarizados",
+      "texto": "La FDA finalizó una norma (anunciada el 9 de octubre y publicada el 13) que permite usar sustitutos de sal en 139 alimentos estandarizados. Entra en vigencia el 14 de diciembre de 2026 y exige declarar el sustituto por su nombre común o usual. Las objeciones sobre los estándares de lácteos vencen el 12 de noviembre.",
+      "revisar": "Si reformulas con menos sodio para EE.UU., revisa cómo debe declararse el sustituto en tu etiqueta.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "etiquetado"
+      ],
+      "cats": [
+        "aditivos"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Norteamérica",
+        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-13",
+      "titulo": "California: se presentó el plan de responsabilidad del productor de envases (SB 54)",
+      "texto": "El 13 de octubre CalRecycle recibió el plan de responsabilidad extendida del productor presentado por Circular Action Alliance. La agencia tiene 75 días para revisarlo.",
+      "revisar": "Si vendes productos envasados en California, pregunta a tus clientes cómo se repartirán las obligaciones del plan.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "envases"
+      ],
+      "cats": [
+        "envases"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Norteamérica",
+        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-13",
+      "titulo": "California: desde el 1 de enero de 2027 se prohíben cuatro ingredientes",
+      "texto": "La ley AB 418 prohíbe a partir del 1 de enero de 2027 el rojo 3, el bromato de potasio, el aceite vegetal bromado (BVO) y el propilparabeno.",
+      "revisar": "Si vendes en California, revisa tus formulaciones y las de tus proveedores contra esos cuatro ingredientes antes de esa fecha.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "cambios",
+        "etiquetado"
+      ],
+      "cats": [
+        "aditivos"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Norteamérica",
+        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-09",
+      "titulo": "Canadá: cerró la primera consulta sobre notificación obligatoria de materiales en contacto con alimentos",
+      "texto": "El 9 de octubre terminó la primera ronda de comentarios sobre un marco de notificación obligatoria para materiales en contacto con alimentos. Se espera una segunda consulta entre noviembre de 2026 y enero de 2027.",
+      "revisar": "Si exportas envasado a Canadá, anota qué materiales de contacto usas y qué documentación tienes de cada uno.",
+      "markets": [
+        "ca"
+      ],
+      "topics": [
+        "envases"
+      ],
+      "cats": [
+        "envases"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Norteamérica",
+        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-08",
+      "titulo": "EE.UU.: la FDA propone no exigir la regla de trazabilidad a minoristas pequeños",
+      "texto": "Un borrador de guía de la FDA propone no aplicar la Regla de Trazabilidad Alimentaria a minoristas y restaurantes pequeños, con ventas entre USD 250.000 y 1 millón. La fecha de cumplimiento de julio de 2028 se mantiene para el resto. La FDA también anunció una reunión pública sobre trazabilidad a nivel de lote.",
+      "revisar": "Si exportas alimentos de la lista de trazabilidad, define qué datos de lote podrías tener que entregar a tus clientes en EE.UU.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "frescos"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Norteamérica",
+        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-07",
+      "titulo": "México: el nuevo acuerdo de aditivos entra en vigencia hacia fines de noviembre",
+      "texto": "El acuerdo publicado el 21 de agosto reemplazará el marco de 2012 unos 60 días hábiles después de su publicación, es decir, hacia fines de noviembre de 2026. Los colorantes permitidos hoy bajo buenas prácticas de manufactura podrían pasar a tener límites numéricos. El 5 y el 7 de octubre COFEPRIS publicó dos guías no vinculantes (exposición a aditivos y clasificación de suplementos) y los anexos II, III y X.",
+      "revisar": "Compara tus fórmulas con las listas vigentes de aditivos, colorantes y coadyuvantes antes de que entre en vigencia.",
+      "markets": [
+        "mx"
+      ],
+      "topics": [
+        "cambios",
+        "etiquetado"
+      ],
+      "cats": [
+        "aditivos"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Norteamérica",
+        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-02",
+      "titulo": "EE.UU.: la FDA cierra la investigación de Cyclospora ligada a lechuga de México y anuncia un plan para 2027",
+      "texto": "La FDA cerró su investigación del brote de verano de Cyclospora asociado a lechuga iceberg rallada de México y presentó un plan de prevención de 10 puntos para la temporada 2027: más vigilancia, trabajo con productores e inspecciones más estrictas a proveedores extranjeros.",
+      "revisar": "Si exportas hortalizas de hoja a EE.UU., revisa el agua de riego, la higiene en campo y la trazabilidad por lote.",
+      "markets": [
+        "us",
+        "mx"
+      ],
+      "topics": [
+        "micro"
+      ],
+      "cats": [
+        "frescos"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Norteamérica",
+        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-01",
+      "titulo": "EE.UU.: la FDA revisa su alerta de importación sobre colorantes no autorizados o no declarados",
+      "texto": "Desde el 1 de octubre la alerta de importación 45-02 cubre la detención de alimentos importados con colorantes no autorizados o no declarados. Los importadores deben verificar que cada color, incluso los de mezclas fabricadas en el exterior, esté autorizado y declarado.",
+      "revisar": "Confirma con tus proveedores de mezclas, saborizantes y colorantes que cada color esté autorizado y declarado para EE.UU.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "etiquetado",
+        "limites"
+      ],
+      "cats": [
+        "aditivos"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Norteamérica",
+        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-09-30",
+      "titulo": "Perú: SENASA suspende cinco plaguicidas en cultivos para consumo interno",
+      "texto": "La Resolución D000015-2026, publicada el 30 de septiembre, cumple una sentencia del Tribunal Constitucional y suspende de forma temporal la venta, distribución y uso de productos agrícolas con clorpirifós, metomilo, glifosato, imidacloprid o clotianidina cuando se usan en alimentos de origen vegetal para consumo interno. La medida es precautoria hasta una reevaluación técnica y no cancela los registros. Las oficinas regionales deben reforzar las inspecciones.",
+      "revisar": "Si compras o procesas vegetales en Perú, pide a tus proveedores el registro de los plaguicidas aplicados.",
+      "markets": [
+        "pe"
+      ],
+      "topics": [
+        "limites"
+      ],
+      "cats": [
+        "frescos",
+        "cereales"
+      ],
+      "fuente": [
+        "Flavorist, resumen regulatorio de Sudamérica",
+        "https://www.flavorist.com/south-america-food-flavor-regulatory-update-september-16-30-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-09-16",
+      "titulo": "Chile: tres alertas por Listeria en quesos y fiambres en tres semanas",
+      "texto": "Entre el 28 de agosto y el 16 de septiembre, el Minsal informó alertas por Listeria monocytogenes en queso mantecoso laminado La Rotunda (ampliada al formato de 500 g, lote T3180726), pasta cóctel de jamón Líder (3 de septiembre) y queso mantecoso laminado Matthei (16 de septiembre, lote 2262907 AM). Las muestras salieron de la vigilancia microbiológica nacional. En los tres casos se notificó al fabricante, se inspeccionó la planta y se pidió retirar el producto.",
+      "revisar": "Si produces o distribuyes quesos y fiambres en Chile, revisa tu monitoreo ambiental de Listeria y tu plan de retiro.",
+      "markets": [
+        "cl"
+      ],
+      "topics": [
+        "micro"
+      ],
+      "cats": [
+        "lacteos",
+        "carnes"
+      ],
+      "fuente": [
+        "Minsal",
+        "https://www.minsal.cl/minsal-emite-alerta-alimentaria-por-listeria-en-queso-mantecoso-laminado-marca-matthei/"
+      ]
+    },
+    {
+      "fecha": "2026-08-23",
+      "titulo": "Chile: Minsal retira maní por aflatoxinas y pasas por ocratoxina A",
+      "texto": "El 23 de agosto el Minsal informó una alerta por aflatoxinas en maní tostado sin sal de 300 g (lote 103969), detectadas en el programa nacional de vigilancia de micotoxinas. El 5 de agosto había ordenado retirar pasas morenas de 100 g (lote 104736) por ocratoxina A. Ambos productos son de la misma marca y del mismo envasador, y en los dos casos se abrió un sumario sanitario o se tomaron medidas sanitarias.",
+      "revisar": "Si importas o procesas maní, pasas u otros frutos secos, revisa cuántos lotes analizas por micotoxinas y con qué método.",
+      "markets": [
+        "cl"
+      ],
+      "topics": [
+        "contaminantes",
+        "limites"
+      ],
+      "cats": [
+        "frutos"
+      ],
+      "fuente": [
+        "Minsal",
+        "https://www.minsal.cl/minsal-notifica-alerta-alimentaria-por-deteccion-de-mani-tostado-sin-sal-contaminados-con-aflatoxinas/"
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulo": "EE.UU.: la FDA clasifica como Clase I el retiro de quesos de leche cruda Graziers por E. coli O26",
+      "texto": "La FDA clasificó el 19 de octubre como Clase I, su categoría más grave, el retiro voluntario de quesos de leche cruda Graziers de Sierra Nevada Cheese Company (California), anunciado el 28 de septiembre. Alcanza al Monterey Jack, jalapeño jack, cheddar medio y cheddar fuerte, en formatos de venta al detalle, food service y mayoristas, distribuidos en 13 estados. El motivo es la posible presencia de E. coli O26, productora de toxina Shiga. Al 25 de septiembre, los CDC reportaban 13 infecciones en nueve estados, ocho hospitalizaciones y tres casos de síndrome urémico hemolítico, más de la mitad en niños pequeños.",
+      "revisar": "Si exportas o distribuyes quesos de leche cruda o derivados lácteos a EE.UU., revisa tus controles de E. coli productora de toxina Shiga y la trazabilidad por lote.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "micro"
+      ],
+      "cats": [
+        "lacteos"
+      ],
+      "fuente": [
+        "Newsweek",
+        "https://www.newsweek.com/cheese-recall-states-highest-warning-issued-e-coli-12592463"
+      ]
+    },
+    {
+      "fecha": "2026-10-13",
+      "titulo": "EE.UU.: el FSIS lanzará un programa nacional de muestreo ambiental de Listeria en plantas de carnes frías listas para consumo",
+      "texto": "El FSIS del USDA implementará a nivel nacional un programa para establecimientos que procesan carnes frías listas para consumo, tras un piloto en los distritos de Alameda, Chicago y Raleigh cuyos resultados no se han publicado. Los inspectores tomarán muestras de producto y cuatro hisopados ambientales, dos de superficies en contacto con alimentos y dos sin contacto, que se analizan para Listeria monocytogenes y otras especies de Listeria. Si se detecta L. monocytogenes, se hará secuenciación del genoma completo y se comparará con casos de enfermedad y resultados históricos. La implementación será por fases en los nueve distritos del FSIS, de enero a marzo de 2027.",
+      "revisar": "Si exportas carnes procesadas listas para consumo a EE.UU., revisa tu programa de monitoreo ambiental de Listeria y tus acciones correctivas antes de que parta el programa en enero.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "micro"
+      ],
+      "cats": [
+        "carnes"
+      ],
+      "fuente": [
+        "Food Safety News",
+        "https://www.foodsafetynews.com/2026/10/usda-to-expand-testing-at-deli-counters/"
+      ]
+    },
+    {
+      "fecha": "2026-10-02",
+      "titulo": "EE.UU.: el FSIS retira snacks con chicharrón fabricados en Colombia, país no habilitado para exportar carne a ese mercado",
+      "texto": "Inexport Logistics LLC, de Miami, retiró unas 189 libras de snacks de la marca Yupi Golpe con Todo sabor BBQ, bolsas de 60 gramos, que contienen chicharrón de cerdo y se fabricaron en Colombia, país que no puede exportar productos cárnicos a EE.UU. Las etiquetas no tienen marca de importación. Se distribuyeron en Arizona, California, Colorado, Florida, Illinois, Kentucky, Minnesota y Texas. El FSIS detectó el producto en un punto de venta durante un control de efectividad de un retiro anterior. No hay reportes de enfermedad.",
+      "revisar": "Si exportas snacks u otros alimentos con ingredientes de origen animal a EE.UU., confirma ante el FSIS que tu país y tu establecimiento sean elegibles antes de embarcar.",
+      "markets": [
+        "us",
+        "co"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "carnes"
+      ],
+      "fuente": [
+        "Food Safety News",
+        "https://www.foodsafetynews.com/2026/10/chips-recalled-because-they-were-made-in-colombia/"
+      ]
+    },
+    {
+      "fecha": "2026-10-07",
+      "titulo": "Chile: el SAG e Indonesia habilitan el certificado fitosanitario electrónico para frutas frescas",
+      "texto": "Desde el 1 de octubre de 2026 rige entre Chile e Indonesia el intercambio de certificados fitosanitarios electrónicos bajo la modalidad paperless, que valida documentos electrónicos para exportaciones, importaciones y reexportaciones. Participan el SAG, la autoridad de cuarentena de Indonesia y el HUB de la Convención Internacional de Protección Fitosanitaria, donde se hicieron las pruebas técnicas. Cubre envíos del sector hortofrutícola, forestal y de material de propagación. Frutas de Chile comentó la medida.",
+      "revisar": "Si exportas fruta fresca chilena a Indonesia, confirma con tu agente de aduana cómo se tramita ahora el certificado y que tus datos estén en el sistema del SAG.",
+      "markets": [
+        "cl"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "frescos"
+      ],
+      "fuente": [
+        "Reporte Agrícola",
+        "https://www.reporteagricola.cl/noticia/noticias/2026/10/chile-e-indonesia-habilitan-certificacion-fitosanitaria-electronica-para-frutas-frescas"
+      ]
+    },
+    {
+      "fecha": "2026-10-03",
+      "titulo": "México: Cofepris informa que concluyó con la FDA las investigaciones de Salmonella y Cyclospora sin evidencia de origen mexicano",
+      "texto": "El 3 de octubre Cofepris informó que terminaron las investigaciones con la FDA sobre brotes de Salmonella Javiana y Cyclospora cayetanensis, sin evidencia concluyente de que productos mexicanos fueran el origen. En Salmonella, las muestras ambientales fueron negativas y la FDA no pudo determinar la vía ni la fuente. En Cyclospora, la FDA reportó dos positivos en muestras ambientales en México, uno en aguas residuales de una planta y otro en una zanja de drenaje, que no permiten determinar cómo ocurrió la contaminación; el laboratorio de Cofepris analizó materia prima, producto terminado y agua de la planta con resultados negativos. Cofepris mantendrá la cooperación con la FDA y los CDC.",
+      "revisar": "Si exportas hortalizas o frutas frescas de México a EE.UU., revisa el manejo de agua de riego y de proceso, y el control de aguas residuales en tu planta y predios.",
+      "markets": [
+        "mx",
+        "us"
+      ],
+      "topics": [
+        "micro"
+      ],
+      "cats": [
+        "frescos"
+      ],
+      "fuente": [
+        "CódigoQro",
+        "https://codigoqro.mx/nota/region-4/2026/10/03/cofepris-descarta-que-productos-mexicanos-originaran-brotes-de-salmonella-y-cyclospora"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
+      "titulo": "Colombia: el Invima advierte por 14 productos vendidos como suplementos dietarios sin registro sanitario",
+      "texto": "El Invima emitió la Alerta Sanitaria 331-2026 sobre catorce productos ofrecidos como suplementos dietarios para controlar la glucosa, tratar problemas de articulaciones, la próstata o la presión arterial, entre ellos Glyconorm, Diabetna y Carditone. Según la entidad, ninguno tiene registro sanitario vigente ni autorización para comercializarse en Colombia, y los clasificó como fraudulentos. Recomendó suspender su consumo, reportar eventos adversos e informar los puntos de venta, y pidió a las secretarías de salud reforzar la inspección y el retiro.",
+      "revisar": "Si vendes suplementos o alimentos con declaraciones de salud en Colombia, confirma que cada producto tenga registro sanitario vigente y que tus claims coincidan con lo autorizado.",
+      "markets": [
+        "co"
+      ],
+      "topics": [
+        "fraude"
+      ],
+      "cats": [],
+      "fuente": [
+        "Infobae",
+        "https://www.infobae.com/colombia/2026/10/22/invima-advirtio-por-14-suplementos-sin-registro-sanitario-que-se-ofrecen-para-diabetes-articulaciones-y-otros-usos/"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "titulo": "EE.UU.: la FDA publica borrador de niveles de acción para cadmio en alimentos para bebés y niños pequeños",
+      "texto": "El 23 de octubre la FDA publicó un borrador de guía con niveles de acción para cadmio en alimentos procesados destinados a bebés y niños pequeños, dentro de su iniciativa Closer to Zero. La FDA hará un seminario web sobre el tema el 16 de noviembre.",
+      "revisar": "Si vendes o suministras ingredientes para alimentos infantiles en EE.UU., revisa qué datos de cadmio tienes por lote y proveedor.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "contaminantes"
+      ],
+      "cats": [
+        "cereales",
+        "frescos",
+        "frutos",
+        "cacaocafe"
+      ],
+      "fuente": [
+        "AFDO, actualización del Federal Register del 23 de octubre",
+        "https://www.afdo.org/federal-register-update-october-23-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "titulo": "EE.UU.: la FDA publica borrador del capítulo sobre control de peligros químicos en la guía de controles preventivos",
+      "texto": "El 23 de octubre la FDA publicó el borrador del capítulo 12 de su guía de análisis de peligros y controles preventivos basados en riesgo para alimentos humanos, dedicado al control de peligros químicos.",
+      "revisar": "Si exportas alimentos a EE.UU., revisa cómo tu plan de inocuidad identifica y controla los peligros químicos de tus ingredientes.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [],
+      "fuente": [
+        "AFDO, actualización del Federal Register del 23 de octubre",
+        "https://www.afdo.org/federal-register-update-october-23-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-08",
+      "titulo": "México: Cofepris publica una guía para estimar la exposición a aditivos con ingesta diaria admisible",
+      "texto": "Cofepris publicó dos guías orientativas, no obligatorias: una para estimar la exposición a un aditivo con ingesta diaria admisible establecida (con base de datos en Excel) y otra para clasificar un producto como suplemento alimenticio. Se relacionan con el acuerdo de aditivos publicado en el DOF el 21 de agosto.",
+      "revisar": "Si vendes alimentos con aditivos en México, anota cuáles de tus aditivos tienen ingesta diaria admisible y cómo calculas su exposición.",
+      "markets": [
+        "mx"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "aditivos"
+      ],
+      "fuente": [
+        "Eje Central",
+        "https://www.ejecentral.com.mx/nuestro-eje/cofepris-publica-nuevas-guias-para-aditivos-y-suplementos-alimenticios-para-que-sirven"
+      ]
+    }
+  ],
+  "emp": [
+    {
+      "fecha": "2026-10-23",
+      "tipo": "compra",
+      "empresa": "Grupo Nutresa / Presto",
+      "markets": [
+        "co"
+      ],
+      "cats": [
+        "carnes",
+        "cereales"
+      ],
+      "titulo": "Colombia: Nutresa firma la compra de la cadena Presto",
+      "texto": "Grupo Nutresa firmó el contrato para comprar Presto, que estaba en liquidación judicial tras incumplir su acuerdo de reorganización. La compra incluye la marca, los puntos de venta, la planta y los centros de producción. Se preservan unos 700 empleos. Nutresa dijo que definirá en las próximas semanas un plan para fortalecer la marca. Presto conservará su identidad dentro del portafolio de Alimentos al Consumidor.",
+      "senal": "Una planta y centros de producción cambian de dueño: es un momento típico para revisar proveedores, especificaciones y sistema de calidad.",
+      "fuente": [
+        "El Heraldo",
+        "https://www.elheraldo.co/economia/2026/10/23/ministro-de-comercio-destaca-compra-de-presto-por-nutresa-y-preservacion-de-700-empleos/"
+      ]
+    },
+    {
+      "fecha": "2026-10-23",
+      "tipo": "senal",
+      "empresa": "Grupo Bimbo",
+      "markets": [
+        "mx"
+      ],
+      "cats": [
+        "cereales"
+      ],
+      "titulo": "México: Bimbo no descarta nuevas adquisiciones y deja proyectos para 2027",
+      "texto": "En la llamada con analistas del tercer trimestre, la directiva de Grupo Bimbo dijo que, si aparece una oportunidad, usará su nivel actual de apalancamiento para una adquisición complementaria o una operación estratégica, sin anunciar ninguna. También trasladó algunos proyectos de inversión a 2027. La inversión prevista para 2026 sigue entre 1.000 y 1.200 millones de dólares.",
+      "senal": "Es una intención declarada, no una operación. Sirve para saber qué empresas están mirando comprar.",
+      "fuente": [
+        "El CEO",
+        "https://elceo.com/negocios/grupo-bimbo-aplaza-proyectos-para-2027-y-no-descarta-nuevas-adquisiciones/"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
+      "tipo": "compra",
+      "empresa": "Cepêra / Karambi Alimentos",
+      "markets": [
+        "br"
+      ],
+      "cats": [
+        "frescos",
+        "aditivos"
+      ],
+      "titulo": "Brasil: Cepêra compra el control de Karambi Alimentos, dueña de la marca Colonial",
+      "texto": "La empresa brasileña Cepêra, fundada en 1947, compró el control de Karambi Alimentos, que produce salsas, extractos de tomate y condimentos en Itacarambi (Minas Gerais). El contrato está firmado y el cierre se espera entre octubre y noviembre de 2026. El valor no se informó.",
+      "senal": "Tras el cierre se integran plantas y proveedores. Suele abrir revisiones de calidad y de materias primas.",
+      "fuente": [
+        "SuperHiper",
+        "https://www.superhiper.com.br/cepera-compra-o-controle-da-karambi-alimentos/"
+      ]
+    },
+    {
+      "fecha": "2026-10-21",
+      "tipo": "compra",
+      "empresa": "DHS Ventures / Pasco",
+      "markets": [
+        "ar"
+      ],
+      "cats": [
+        "cereales"
+      ],
+      "titulo": "Argentina: un fondo de capital privado anuncia la compra de Pasco por US$ 375 millones",
+      "texto": "DHS Ventures & Holdings, con sede en Washington, anunció la compra de una participación de control en Pasco (pastas, galletitas y bebidas en polvo; marcas Zoo, Hot Cracker y Lamen), a través de Zanca Investimentos. Pasco tiene 3.200 empleados. El acuerdo está anunciado, aún no cerrado, y se espera que termine más adelante este año. La información viene de un comunicado de la propia compradora.",
+      "senal": "Un fondo nuevo en el rubro suele pedir diagnóstico regulatorio y de calidad antes y después del cierre.",
+      "fuente": [
+        "Comunicado de DHS Ventures (techfinancials.co.za)",
+        "https://techfinancials.co.za/2026/10/21/fernando-aguirre-vice-chairman-of-dhs-ventures-announces-expansion-in-south-america-with-375m-acquisition-of-argentinian-company/"
+      ]
+    },
+    {
+      "fecha": "2026-10-20",
+      "tipo": "inversion",
+      "empresa": "Familia Martínez",
+      "markets": [
+        "es"
+      ],
+      "cats": [
+        "carnes",
+        "lacteos"
+      ],
+      "titulo": "España: Familia Martínez invertirá 95 millones más hasta 2030 en platos preparados",
+      "texto": "La empresa de Buñol (Valencia) sumará 95 millones de euros a los 150 millones de su plan 2025-2026. Construirá una planta de asados de unos 17.000 m² con capacidad para 36.000 toneladas al año, en cuatro etapas entre 2027 y 2030, y ampliará su capacidad de gratinados. Creará al menos 100 empleos.",
+      "senal": "Una planta nueva implica nuevos proveedores, nuevas líneas y validaciones.",
+      "fuente": [
+        "Financial Food",
+        "https://financialfood.es/familia-martinez-invertira-95-millones-mas-hasta-2030-para-ampliar-su-capacidad-industrial-en-platos-preparados/"
+      ]
+    },
+    {
+      "fecha": "2026-10-04",
+      "tipo": "capital",
+      "empresa": "Neocrop Technologies",
+      "markets": [
+        "cl"
+      ],
+      "cats": [
+        "cereales"
+      ],
+      "titulo": "Chile: Neocrop levanta US$ 2,75 millones para llevar su trigo alto en fibra a la fase comercial",
+      "texto": "La empresa de Valdivia cerró una ronda semilla liderada por el fondo estadounidense Zentynel, con CITES (Argentina), Südlich Capital, Grupo Inder y Carozzi Ventures. Usará los fondos para pasar a la fase comercial del trigo alto en fibra, avanzar con otros proyectos y expandirse por el Cono Sur. También menciona planes para Brasil y Norteamérica.",
+      "senal": "Una empresa que pasa de desarrollo a venta necesita cumplir requisitos de cada mercado destino.",
+      "fuente": [
+        "Diario Agrícola",
+        "https://www.diarioagricola.com/startup/trigo-alto-en-fibra-neocrop-valdivia/"
+      ]
+    },
+    {
+      "fecha": "2026-09-28",
+      "tipo": "expansion",
+      "empresa": "Traverso",
+      "markets": [
+        "cl",
+        "pe"
+      ],
+      "cats": [
+        "aditivos"
+      ],
+      "titulo": "Chile y Perú: Traverso prepara su ingreso al mercado peruano con vinagres y luego mayonesa",
+      "texto": "La empresa chilena, con más de 130 años de trayectoria, pasará de vender materias primas a fabricar productos terminados y marcas propias para supermercados peruanos, a través de Traverso International Foods. Negocia con una empresa peruana desde hace cuatro o cinco meses y proyecta cerrar el primer negocio en noviembre de 2026. Por ahora la producción seguirá en Chile.",
+      "senal": "Una empresa que exporta por primera vez producto terminado a un país nuevo necesita conocer la normativa de ese país.",
+      "fuente": [
+        "Gestión",
+        "https://gestion.pe/economia/empresas/empresa-chilena-de-alimentos-prepara-su-ingreso-a-peru-empezara-con-vinagres-y-luego-ira-por-mayonesa-noticia/"
+      ]
+    },
+    {
+      "fecha": "2026-10-02",
+      "tipo": "compra",
+      "empresa": "Watkins / Sauer Brands",
+      "markets": [
+        "us"
+      ],
+      "cats": [
+        "especias"
+      ],
+      "titulo": "EE.UU.: Watkins compra el negocio de especias de Sauer Brands",
+      "texto": "Watkins, con sede en Winona (Minnesota), adquirió el negocio de especias de Sauer Brands, respaldada por Advent International. La operación incluye las marcas Kernel Season's, Spice Hunter y Sauer's, las líneas de foodservice y marca privada asociadas, y dos plantas, en Richmond (Virginia) y San Luis Obispo (California). No se informó el monto ni la fecha de cierre.",
+      "senal": "Si vendes especias o hierbas a estas marcas o a sus líneas de marca privada, es un momento típico para revisar especificaciones, límites de residuos y proveedores aprobados con el nuevo dueño.",
+      "fuente": [
+        "Food Processing",
+        "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55409380/watkins-acquires-sauer-brands-spice-business"
+      ]
+    },
+    {
+      "fecha": "2026-10-14",
+      "tipo": "compra",
+      "empresa": "McCall Farms / B&G Foods",
+      "markets": [
+        "us"
+      ],
+      "cats": [
+        "cereales"
+      ],
+      "titulo": "EE.UU.: B&G Foods vende las marcas B&M y Joan of Arc a McCall Farms",
+      "texto": "B&G Foods vendió a McCall Farms las marcas B&M, de frijoles horneados y pan moreno, y Joan of Arc, de frijoles rojos, chili y otras legumbres enlatadas. No se revelaron los términos ni la fecha de cierre. B&G dijo que usará los ingresos netos para pagar deuda a largo plazo. A inicios de octubre, B&G y Nortera Foods cancelaron la venta de Green Giant Canadá después de que reguladores canadienses recomendaron bloquearla.",
+      "senal": "Quien abastece legumbres o frijoles a estas marcas debe confirmar con el nuevo dueño qué proveedores y especificaciones se mantienen.",
+      "fuente": [
+        "Food Processing",
+        "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55411968/bg-foods-sells-bm-and-joan-of-arc-brands-to-mccall-farms"
+      ]
+    },
+    {
+      "fecha": "2026-10-20",
+      "tipo": "compra",
+      "empresa": "Commercial Bakeries / Partners",
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "cats": [
+        "cereales"
+      ],
+      "titulo": "EE.UU. y Canadá: Commercial Bakeries compra al fabricante de galletas saladas Partners",
+      "texto": "Commercial Bakeries, de Toronto, compró Partners, fabricante estadounidense de galletas saladas premium y de perfil saludable, con marca privada, manufactura por contrato y suministro a clientes industriales en Norteamérica. La producción es en una panadería en Des Moines (Washington). No se informaron los términos. Es la tercera adquisición de Commercial Bakeries desde que Graham Partners tomó su propiedad en 2023.",
+      "senal": "Los proveedores de harinas, semillas y otros insumos de Partners pueden recibir cambios de volumen o de especificaciones tras la integración.",
+      "fuente": [
+        "Just Food",
+        "https://www.just-food.com/news/commercial-bakeries-adds-acquisitions-partners/"
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
+      "tipo": "compra",
+      "empresa": "Fine Choice Foods (Summ!) / Power Sustainable Lios",
+      "markets": [
+        "us",
+        "ca"
+      ],
+      "cats": [],
+      "titulo": "Canadá y EE.UU.: Swander Pace Capital vende Fine Choice Foods, dueña de la marca Summ!, a Power Sustainable Lios",
+      "texto": "Swander Pace Capital vendió Fine Choice Foods, que fabrica aperitivos y comidas frescas y congeladas de inspiración asiática (rollitos de primavera, gyozas y bao buns) con la marca Summ!. Fundada en 1986 en Vancouver, abastece a Canadá y EE.UU. desde dos plantas. El comprador es Power Sustainable Lios. No se informó el monto.",
+      "senal": "Un cambio de dueño de fondo de inversión suele traer revisión de proveedores y de costos; conviene hablar con sus compradores antes de la próxima negociación.",
+      "fuente": [
+        "Food Processing",
+        "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55413775/fine-choice-foods-summ-brand-switches-pe-firm-ownership"
+      ]
+    },
+    {
+      "fecha": "2026-10-16",
+      "tipo": "senal",
+      "empresa": "Panzani / Cerealis",
+      "markets": [
+        "es",
+        "ue"
+      ],
+      "cats": [
+        "cereales"
+      ],
+      "titulo": "Europa: Panzani y Cerealis negocian fusionarse en una sola compañía europea",
+      "texto": "Panzani (Francia, con pasta, cuscús y salsas) y Cerealis (Portugal, con pasta, cereales de desayuno, barritas y galletas, además de presencia en España) iniciaron negociaciones exclusivas para fusionarse. El valor empresarial aproximado es de 1.800 millones de euros, con ingresos consolidados de unos 1.000 millones y cerca de 1.800 empleados. La operación sigue siendo una propuesta: requiere consulta a representantes de los trabajadores y aprobación de las autoridades.",
+      "senal": "Si vendes trigo, harinas o ingredientes a cualquiera de las dos, un grupo más grande puede unificar proveedores y especificaciones.",
+      "fuente": [
+        "Food Processing",
+        "https://www.foodprocessing.com/business-of-food-beverage/international/news/55412600/europes-panzani-group-cerealis-explore-proposed-combination"
+      ]
+    }
+  ],
+  "ev": [
+    {
+      "ini": "2026-10-29",
+      "fin": "2026-10-29",
+      "nombre": "Webinar: FDA Proposes Major GRAS Reform, qué podría significar para tu negocio",
+      "lugar": "Online · en inglés · 15:00 a 16:00 hora de Chile",
+      "markets": [
+        "us"
+      ],
+      "tipo": "online",
+      "cats": [
+        "aditivos"
+      ],
+      "texto": "Explica la propuesta de la FDA que haría obligatoria la notificación de sustancias GRAS (comentarios hasta el 9 de diciembre). Es útil si vendes ingredientes o aditivos a EE.UU. El costo de inscripción no está informado en la fuente.",
+      "url": "https://foodindustryexecutive.com/food-industry-webinar/fda-proposes-major-gras-reform-what-it-could-mean-for-your-business/",
+      "fuente": "Food Industry Executive"
+    },
+    {
+      "ini": "2026-10-30",
+      "fin": "2026-10-30",
+      "nombre": "Webinar: Beyond the Swab, cómo armar un monitoreo ambiental de Listeria más inteligente",
+      "lugar": "Online · en inglés · 13:00 a 14:00 hora de Chile",
+      "markets": [
+        "global"
+      ],
+      "tipo": "online",
+      "cats": [
+        "carnes",
+        "lacteos",
+        "frescos"
+      ],
+      "texto": "Sesión sobre cómo diseñar y mejorar un programa de monitoreo ambiental (EMP) de Listeria. Útil para plantas de carnes, lácteos y listos para consumo. El costo de inscripción no está informado en la fuente.",
+      "url": "https://foodindustryexecutive.com/food-industry-webinar/beyond-the-swab-how-to-build-a-smarter-listeria-emp/",
+      "fuente": "Food Industry Executive"
+    },
+    {
+      "ini": "2026-11-03",
+      "fin": "2026-11-03",
+      "nombre": "Cursos online de inocuidad: IFS Food, alérgenos, gestión de proveedores y más",
+      "lugar": "Online · en español · inicio el 3 de noviembre, 4 semanas por curso",
+      "markets": [
+        "global"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Portal de Inocuidad abre cursos de 4 semanas que empiezan el 3 de noviembre: IFS Food (última versión), gestión integral de plagas, no conformidades y acciones correctivas, documentos del sistema de inocuidad, gestión de proveedores y gestión de alérgenos. El costo no figura en la página.",
+      "url": "https://www.portaldeinocuidad.com/web/calendario/",
+      "fuente": "Portal de Inocuidad"
+    },
+    {
+      "ini": "2026-11-05",
+      "fin": "2026-11-05",
+      "nombre": "Seminario FINUT: procesamiento y aditivos alimentarios, segunda jornada",
+      "lugar": "Online · en español · 13:00 hora de Chile (según el conversor de la página)",
+      "markets": [
+        "global"
+      ],
+      "tipo": "online",
+      "cats": [
+        "aditivos"
+      ],
+      "texto": "Ciclo de la Fundación Iberoamericana de Nutrición sobre fundamentos científicos para la seguridad, la regulación y la salud pública de los aditivos. El seminario es gratuito; el certificado de asistencia cuesta 20 euros. La inscripción es por el formulario de FINUT.",
+      "url": "https://www.finut.org/webinars/procesadosyaditivos1/",
+      "fuente": "FINUT"
+    },
+    {
+      "ini": "2026-11-20",
+      "fin": "2026-11-20",
+      "nombre": "Webinar: Navigating the 2026 FDA Food Code, cambios clave y cumplimiento",
+      "lugar": "Online · en inglés · 14:00 hora de Chile",
+      "markets": [
+        "us"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Repasa los cambios del Código de Alimentos de la FDA 2026 y cómo cumplirlos, dentro de la serie FSMA Friday. Útil si vendes a servicios de alimentación o minoristas de EE.UU. El costo de inscripción no está informado en la fuente.",
+      "url": "https://foodindustryexecutive.com/food-industry-webinar/navigating-the-2026-fda-food-code-key-changes-regulatory-impacts-and-practical-compliance/",
+      "fuente": "Food Industry Executive"
+    },
+    {
+      "ini": "2026-10-26",
+      "fin": "2026-10-27",
+      "nombre": "INOFOOD 2026, IX Cumbre de Inocuidad Alimentaria",
+      "lugar": "Santiago, Chile (Le Méridien)",
+      "markets": [
+        "cl"
+      ],
+      "tipo": "inocuidad",
+      "cats": [
+        "carnes",
+        "lacteos",
+        "frescos",
+        "frutos"
+      ],
+      "texto": "Se esperan unos 1.300 participantes. Temas: cambios del Codex en umbrales de alérgenos, reglas de la UE sobre metales pesados y PFAS en envases, detección con metagenómica e IA, diseño higiénico, Salmonella y Listeria, micotoxinas, trazabilidad y pasaporte digital de producto. Hay sesiones por sector: carnes, salmón, fruta, hortalizas, frutos secos, lácteos, huevos y servicios de alimentación.",
+      "url": "https://www.reporteagricola.cl/noticia/eventos/2026/10/inofood-2026-evento-reunira-sector-para-analizar-nuevos-desafios-inocuidad-alimentaria",
+      "fuente": "Reporte Agrícola"
+    },
+    {
+      "ini": "2026-11-09",
+      "fin": "2026-11-11",
+      "nombre": "Cumbre de Banano 2026",
+      "lugar": "Guayaquil, Ecuador (Centro de Convenciones)",
+      "markets": [
+        "ec"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "frescos",
+        "frutos"
+      ],
+      "texto": "Reúne a productores, investigadores y delegaciones de ocho países (Ecuador, Colombia, Costa Rica, Venezuela, Brasil, Chile, España y Países Bajos). Ejes: sanidad y genética, tecnología en campo, normativa internacional y operatividad, con foco en el manejo de plagas y los efectos de El Niño sobre las exportaciones.",
+      "url": "https://www.expreso.ec/guayaquil/cumbre-banano-2026-reune-guayaquil-expertos-ocho-paises-efectos-nino-299645.html",
+      "fuente": "Expreso"
+    },
+    {
+      "ini": "2027-02-03",
+      "fin": "2027-02-05",
+      "nombre": "Fruit Logistica 2027",
+      "lugar": "Berlín, Alemania",
+      "markets": [
+        "ue"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "frescos",
+        "frutos"
+      ],
+      "texto": "Feria internacional de frutas y hortalizas frescas, con exportadores de Latinoamérica y compradores europeos. Es una de las citas del año para reunirse con importadores de la UE.",
+      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+      "fuente": "Serviscomplet (calendario de ferias 2027)"
+    },
+    {
+      "ini": "2027-02-16",
+      "fin": "2027-02-18",
+      "nombre": "Anuga Select Ibérica 2027",
+      "lugar": "Madrid, España (IFEMA)",
+      "markets": [
+        "es"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Primera edición española de Anuga, para el sector de alimentación y bebidas. Se celebra junto con Nutraceuticals Europe (17 y 18 de febrero).",
+      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+      "fuente": "Serviscomplet (calendario de ferias 2027)"
+    },
+    {
+      "ini": "2027-04-20",
+      "fin": "2027-04-22",
+      "nombre": "Seafood Expo Global 2027",
+      "lugar": "Barcelona, España (Fira)",
+      "markets": [
+        "es"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "pescados"
+      ],
+      "texto": "Feria mundial de pescados y mariscos, junto con Seafood Processing Global. Reúne a compradores y proveedores de todo el mundo.",
+      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+      "fuente": "Serviscomplet (calendario de ferias 2027)"
+    },
+    {
+      "ini": "2027-05-18",
+      "fin": "2027-05-20",
+      "nombre": "Vitafoods Europe 2027",
+      "lugar": "Barcelona, España (Fira)",
+      "markets": [
+        "es"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "aditivos"
+      ],
+      "texto": "Feria de ingredientes funcionales, suplementos y nutrición. Útil para proveedores de ingredientes que venden a Europa.",
+      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+      "fuente": "Serviscomplet (calendario de ferias 2027)"
+    },
+    {
+      "ini": "2026-10-30",
+      "fin": "2026-10-30",
+      "nombre": "Webinar AECOC: cómo desarrollar un plan de cultura de seguridad alimentaria",
+      "lugar": "Online · en español · hora según la ficha del webinar",
+      "markets": [
+        "es"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Sesión para armar un plan de cultura de seguridad alimentaria en la empresa. El costo no está informado en la fuente.",
+      "url": "https://www.aecoc.es/webinar/desarrolla-un-plan-de-cultura-de-seguridad-alimentaria-2/",
+      "fuente": "AECOC"
+    },
+    {
+      "ini": "2026-11-04",
+      "fin": "2026-11-04",
+      "nombre": "Webinar AECOC: adaptarse al Reglamento Europeo de Envases y Residuos de Envases",
+      "lugar": "Online · en español · hora según la ficha del webinar",
+      "markets": [
+        "es",
+        "ue"
+      ],
+      "tipo": "online",
+      "cats": [
+        "envases"
+      ],
+      "texto": "Repasa qué exige el nuevo reglamento europeo de envases y cómo prepararse. Útil si vendes en España o la UE. El costo no está informado en la fuente.",
+      "url": "https://www.aecoc.es/webinar/adaptate-al-nuevo-reglamento-europeo-de-envases-y-residuos-de-envases-2/",
+      "fuente": "AECOC"
+    },
+    {
+      "ini": "2026-11-05",
+      "fin": "2026-11-05",
+      "nombre": "Webinar AECOC: requisitos generales de etiquetado de alimentos",
+      "lugar": "Online · en español · hora según la ficha del webinar",
+      "markets": [
+        "es"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Revisa si tu etiqueta cumple los requisitos generales en España. El costo no está informado en la fuente.",
+      "url": "https://www.aecoc.es/webinar/cumples-con-los-requisitos-generales-de-etiquetado-2/",
+      "fuente": "AECOC"
+    },
+    {
+      "ini": "2026-11-13",
+      "fin": "2026-11-13",
+      "nombre": "Webinar AECOC: claves para cumplir con la información nutricional obligatoria",
+      "lugar": "Online · en español · hora según la ficha del webinar",
+      "markets": [
+        "es"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Explica cómo cumplir con la declaración nutricional obligatoria en España. El costo no está informado en la fuente.",
+      "url": "https://www.aecoc.es/webinar/claves-para-cumplir-con-la-informacion-nutricional-obligatoria-2/",
+      "fuente": "AECOC"
+    },
+    {
+      "ini": "2026-11-20",
+      "fin": "2026-11-20",
+      "nombre": "Webinar AECOC: requisitos legales de los claims voluntarios en alimentación",
+      "lugar": "Online · en español · hora según la ficha del webinar",
+      "markets": [
+        "es"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Qué se puede decir y qué no en declaraciones voluntarias del envase, según la normativa en España. El costo no está informado en la fuente.",
+      "url": "https://www.aecoc.es/webinar/requisitos-legales-en-el-uso-de-claims-voluntarios-en-alimentacion-2/",
+      "fuente": "AECOC"
+    },
+    {
+      "ini": "2026-11-05",
+      "fin": "2026-11-05",
+      "nombre": "Webinar: cómo los mandos medios influyen en la cultura de inocuidad y el riesgo",
+      "lugar": "Online · en inglés · 13:00 hora de Chile",
+      "markets": [
+        "global"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Sesión patrocinada sobre el rol de los mandos medios en la cultura de inocuidad. El costo no está informado en la fuente.",
+      "url": "https://www.food-safety.com/events/11587-how-middle-managers-shape-food-safety-culture-and-risk-performance",
+      "fuente": "Food Safety Magazine"
+    },
+    {
+      "ini": "2026-11-12",
+      "fin": "2026-11-12",
+      "nombre": "Webinar: de datos sobrecargados a inteligencia de riesgo en inocuidad",
+      "lugar": "Online · en inglés · 13:00 hora de Chile",
+      "markets": [
+        "global"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Sesión patrocinada sobre cómo convertir datos de inocuidad en decisiones de riesgo. El costo no está informado en la fuente.",
+      "url": "https://www.food-safety.com/events/11588-from-data-overload-to-actionable-food-safety-risk-intelligence",
+      "fuente": "Food Safety Magazine"
+    },
+    {
+      "ini": "2026-11-06",
+      "fin": "2026-11-06",
+      "nombre": "Webinar gratuito: armonizar estándares globales y certificarse en varios a la vez",
+      "lugar": "Online · en inglés · 12:00 hora de Chile · gratuito",
+      "markets": [
+        "global"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Estrategias para ser eficientes cuando una planta mantiene varias certificaciones de inocuidad. Es gratuito, con registro previo.",
+      "url": "https://event.webinarjam.com/3qnw0/register/7r0zmspw",
+      "fuente": "IFSQN"
+    },
+    {
+      "ini": "2026-11-04",
+      "fin": "2026-11-06",
+      "nombre": "XXVI Congreso Internacional de Inocuidad de Alimentos",
+      "lugar": "Puerto Vallarta, Jalisco, México",
+      "markets": [
+        "mx"
+      ],
+      "tipo": "inocuidad",
+      "cats": [],
+      "texto": "Congreso de la Universidad de Guadalajara con respaldo de la ICMSF. Los cursos precongreso son el 4 de noviembre.",
+      "url": "https://www.foodnewslatam.com/paises/85-mexico/18068-puerto-vallarta-ser%C3%A1-sede-de-un-foro-clave-en-inocuidad-alimentaria.html",
+      "fuente": "FoodNewsLatam"
+    },
+    {
+      "ini": "2026-11-10",
+      "fin": "2026-11-13",
+      "nombre": "Expo Agroalimentaria Guanajuato 2026",
+      "lugar": "Irapuato, Guanajuato, México",
+      "markets": [
+        "mx"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria del sector agroalimentario en el Bajío mexicano.",
+      "url": "https://www.foodnewslatam.com/eventos.html",
+      "fuente": "FoodNewsLatam"
+    },
+    {
+      "ini": "2026-11-11",
+      "fin": "2026-11-12",
+      "nombre": "Empack Madrid 2026",
+      "lugar": "Madrid, España",
+      "markets": [
+        "es"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "envases"
+      ],
+      "texto": "Feria de envases y embalaje. Útil para ver proveedores y novedades de materiales en contacto con alimentos.",
+      "url": "https://thefoodtech.com/eventos-de-la-industria/",
+      "fuente": "The Food Tech"
+    },
+    {
+      "ini": "2026-11-12",
+      "fin": "2026-11-15",
+      "nombre": "Expodrinks Caribe 2026",
+      "lugar": "Barranquilla, Colombia",
+      "markets": [
+        "co"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria de bebidas en la costa caribe colombiana.",
+      "url": "https://www.foodnewslatam.com/eventos.html",
+      "fuente": "FoodNewsLatam"
+    },
+    {
+      "ini": "2026-11-17",
+      "fin": "2026-11-19",
+      "nombre": "Fi Europe 2026",
+      "lugar": "Fráncfort, Alemania",
+      "markets": [
+        "ue",
+        "es"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "aditivos"
+      ],
+      "texto": "Feria de ingredientes y aditivos alimentarios, con proveedores y tendencias de formulación.",
+      "url": "https://thefoodtech.com/eventos-de-la-industria/",
+      "fuente": "The Food Tech"
+    },
+    {
+      "ini": "2026-11-18",
+      "fin": "2026-11-20",
+      "nombre": "Congreso ALACCTA 2026",
+      "lugar": "Punta Cana, República Dominicana",
+      "markets": [
+        "do"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Congreso latinoamericano de ciencia y tecnología de alimentos.",
+      "url": "https://thefoodtech.com/eventos-de-la-industria/",
+      "fuente": "The Food Tech"
+    },
+    {
+      "ini": "2026-11-26",
+      "fin": "2026-11-27",
+      "nombre": "Foro Global Agroalimentario 2026",
+      "lugar": "Guadalajara, Jalisco, México",
+      "markets": [
+        "mx"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Foro del sector agroalimentario en México.",
+      "url": "https://thefoodtech.com/eventos-de-la-industria/",
+      "fuente": "The Food Tech"
+    },
+    {
+      "ini": "2027-03-15",
+      "fin": "2027-03-19",
+      "nombre": "Gulfood 2027",
+      "lugar": "Dubái, Emiratos Árabes Unidos",
+      "markets": [
+        "me"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria de alimentos y bebidas para exportadores que apuntan a Medio Oriente.",
+      "url": "https://www.foodingredientsfirst.com/events/gulfood-2027.html",
+      "fuente": "Food Ingredients First"
+    },
+    {
+      "ini": "2027-04-06",
+      "fin": "2027-04-08",
+      "nombre": "Fruit Attraction São Paulo 2027",
+      "lugar": "São Paulo, Brasil",
+      "markets": [
+        "br"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "frescos"
+      ],
+      "texto": "Feria de frutas y hortalizas frescas para Latinoamérica.",
+      "url": "https://www.foodnewslatam.com/eventos.html",
+      "fuente": "FoodNewsLatam"
+    },
+    {
+      "ini": "2026-11-17",
+      "fin": "2026-11-20",
+      "nombre": "International Oat Conference Chile 2026",
+      "lugar": "Pucón, Chile",
+      "markets": [
+        "cl"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "cereales"
+      ],
+      "texto": "Conferencia internacional sobre avena: cultivo, industria y mercado.",
+      "url": "https://thefoodtech.com/eventos-de-la-industria/",
+      "fuente": "The Food Tech"
+    },
+    {
+      "ini": "2027-01-17",
+      "fin": "2027-01-19",
+      "nombre": "Winter FancyFaire 2027 (antes Winter Fancy Food Show)",
+      "lugar": "San Francisco, EE. UU. (Moscone Center)",
+      "markets": [
+        "us"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria de alimentos especiales y gourmet en San Francisco. Útil para exportadores que buscan compradores en EE.UU.",
+      "url": "https://www.marketscale.com/industries/events/winter-fancy-food-show-2027-2027",
+      "fuente": "MarketScale"
+    },
+    {
+      "ini": "2027-02-16",
+      "fin": "2027-02-19",
+      "nombre": "BIOFACH 2027",
+      "lugar": "Núremberg, Alemania",
+      "markets": [
+        "ue"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria mundial de alimentos orgánicos. Útil para exportadores a la Unión Europea que necesitan certificación orgánica.",
+      "url": "https://www.biofach.de/en",
+      "fuente": "BIOFACH"
+    },
+    {
+      "ini": "2027-03-02",
+      "fin": "2027-03-05",
+      "nombre": "Natural Products Expo West 2027",
+      "lugar": "Anaheim, California, EE. UU.",
+      "markets": [
+        "us"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria de alimentos y productos naturales en EE.UU. Salones de exhibición del 3 al 5 de marzo.",
+      "url": "https://www.expowest.com",
+      "fuente": "Expo West"
+    },
+    {
+      "ini": "2027-05-10",
+      "fin": "2027-05-13",
+      "nombre": "Food Safety Summit 2027",
+      "lugar": "Rosemont, Illinois, EE. UU.",
+      "markets": [
+        "us"
+      ],
+      "tipo": "inocuidad",
+      "cats": [],
+      "texto": "Conferencia y exposición de inocuidad alimentaria en EE.UU. Las fechas provienen de un listado de terceros; conviene confirmarlas en el sitio del organizador.",
+      "url": "https://www.luminik.io/events/food-safety-summit/",
+      "fuente": "Luminik"
+    },
+    {
+      "ini": "2027-05-22",
+      "fin": "2027-05-25",
+      "nombre": "The National Restaurant Association Show 2027",
+      "lugar": "Chicago, Illinois, EE. UU. (McCormick Place)",
+      "markets": [
+        "us"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria de la industria de servicios de alimentos y restaurantes en EE.UU.",
+      "url": "https://www.nationalrestaurantshow.com",
+      "fuente": "National Restaurant Association"
+    },
+    {
+      "ini": "2027-07-11",
+      "fin": "2027-07-14",
+      "nombre": "IFT FIRST 2027",
+      "lugar": "Chicago, Illinois, EE. UU.",
+      "markets": [
+        "us"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Evento anual del Institute of Food Technologists con exposición de ingredientes, tecnología y ciencia de alimentos.",
+      "url": "https://www.ift.org/first",
+      "fuente": "IFT"
+    },
+    {
+      "ini": "2027-07-17",
+      "fin": "2027-07-21",
+      "nombre": "IAFP 2027, reunión anual de protección de alimentos",
+      "lugar": "Kansas City, Missouri, EE. UU.",
+      "markets": [
+        "us"
+      ],
+      "tipo": "inocuidad",
+      "cats": [],
+      "texto": "Reunión anual de la Asociación Internacional para la Protección de Alimentos, con trabajos científicos sobre inocuidad.",
+      "url": "https://www.foodprotection.org/annualmeeting/",
+      "fuente": "IAFP"
+    },
+    {
+      "ini": "2026-11-16",
+      "fin": "2026-11-16",
+      "nombre": "Seminario web de la FDA: niveles de acción para cadmio y nuevo borrador sobre peligros químicos",
+      "lugar": "Online · 13:00 a 14:00 en horario de EE.UU. (confirma la zona en la fuente)",
+      "markets": [
+        "us"
+      ],
+      "tipo": "online",
+      "cats": [
+        "cereales",
+        "frescos",
+        "frutos",
+        "cacaocafe"
+      ],
+      "texto": "La FDA explicará el borrador de niveles de acción para cadmio en alimentos para bebés y niños pequeños y el borrador del capítulo de peligros químicos. Es útil si vendes ingredientes o alimentos a EE.UU.",
+      "url": "https://www.afdo.org/federal-register-update-october-23-2026/",
+      "fuente": "AFDO"
+    }
+  ],
+  "plazos": [
+    {
+      "f": "2026-11-17",
+      "lbl": "Alrededor del 17 nov 2026",
+      "m": [
+        "mx"
+      ],
+      "tema": "Aditivos",
+      "tit": "México: entra en vigor el nuevo Acuerdo de aditivos y coadyuvantes, con plazos de transición de 6 a 24 meses",
+      "fu": [
+        "Noticias Gobierno",
+        "https://www.noticiasgobierno.com/acuerdo-aditivos-coadyuvantes-alimentos-bebidas-suplementos-2026/"
+      ]
+    },
+    {
+      "f": "2027-03-17",
+      "lbl": "17 mar 2027",
+      "m": [
+        "cl"
+      ],
+      "tema": "Etiquetado",
+      "tit": "Chile: \"libre de gluten\" solo con resultado de laboratorio de 5 mg/kg o menos",
+      "fu": [
+        "Envapack",
+        "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
+      ]
+    },
+    {
+      "f": "2027-11-06",
+      "lbl": "Noviembre 2027",
+      "m": [
+        "cl"
+      ],
+      "tema": "Etiquetado",
+      "tit": "Chile: los lácteos deberán indicar el país de ordeña en la cara principal",
+      "fu": [
+        "Envapack",
+        "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
+      ]
+    },
+    {
+      "f": "2028-01-01",
+      "lbl": "1 ene 2028",
+      "m": [
+        "mx"
+      ],
+      "tema": "Etiquetado",
+      "tit": "México: Fase 3 de la NOM-051 para el etiquetado frontal",
+      "fu": [
+        "Vinculum",
+        "https://vinculum.mx/2025/12/12/fase-3-de-la-nom-051-scfi-ssa1-2010-cambios-para-2026/"
+      ]
+    }
+  ]
 }
