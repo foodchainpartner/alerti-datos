@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-26",
+  "revisado": "2026-10-27",
   "reg": [
     {
       "fecha": "2026-10-20",
@@ -748,6 +748,24 @@
       "fuente": [
         "Food Processing",
         "https://www.foodprocessing.com/business-of-food-beverage/international/news/55412600/europes-panzani-group-cerealis-explore-proposed-combination"
+      ]
+    },
+    {
+      "fecha": "2026-10-09",
+      "tipo": "compra",
+      "empresa": "McCormick / Fruco (Unilever)",
+      "markets": [
+        "co"
+      ],
+      "cats": [
+        "especias"
+      ],
+      "titulo": "Colombia: la SIC evalúa que McCormick se quede con el negocio de alimentos de Unilever, incluida Fruco",
+      "texto": "La Superintendencia de Industria y Comercio revisa la integración entre un vehículo controlado por McCormick y el negocio de alimentos de Unilever. Fruco fabrica mayonesas, mostazas y salsas, y la SIC señala posibles efectos en salsas picantes, mayonesas, mostazas y salsas líquidas. Abrió hasta el 21 de octubre un periodo para que competidores y ciudadanos aporten información.",
+      "senal": "Cuando una marca de salsas cambia de dueño, suelen revisarse las especificaciones y los proveedores de ingredientes como especias y aderezos.",
+      "fuente": [
+        "Halcones y Palomas",
+        "https://www.halconesypalomas.com/2026/10/09/fruco-negocio-de-alimentos-de-unilever-sera-adquirido-por-una-holding-en-la-que-mccormick-de-e-u-tambien-tendra-participacion-accionaria/"
       ]
     }
   ],
