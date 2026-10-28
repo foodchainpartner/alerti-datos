@@ -901,69 +901,6 @@
       "fuente": "Expreso"
     },
     {
-      "ini": "2027-02-03",
-      "fin": "2027-02-05",
-      "nombre": "Fruit Logistica 2027",
-      "lugar": "Berlín, Alemania",
-      "markets": [
-        "ue"
-      ],
-      "tipo": "sector",
-      "cats": [
-        "frescos",
-        "frutos"
-      ],
-      "texto": "Feria internacional de frutas y hortalizas frescas, con exportadores de Latinoamérica y compradores europeos. Es una de las citas del año para reunirse con importadores de la UE.",
-      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-      "fuente": "Serviscomplet (calendario de ferias 2027)"
-    },
-    {
-      "ini": "2027-02-16",
-      "fin": "2027-02-18",
-      "nombre": "Anuga Select Ibérica 2027",
-      "lugar": "Madrid, España (IFEMA)",
-      "markets": [
-        "es"
-      ],
-      "tipo": "sector",
-      "cats": [],
-      "texto": "Primera edición española de Anuga, para el sector de alimentación y bebidas. Se celebra junto con Nutraceuticals Europe (17 y 18 de febrero).",
-      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-      "fuente": "Serviscomplet (calendario de ferias 2027)"
-    },
-    {
-      "ini": "2027-04-20",
-      "fin": "2027-04-22",
-      "nombre": "Seafood Expo Global 2027",
-      "lugar": "Barcelona, España (Fira)",
-      "markets": [
-        "es"
-      ],
-      "tipo": "sector",
-      "cats": [
-        "pescados"
-      ],
-      "texto": "Feria mundial de pescados y mariscos, junto con Seafood Processing Global. Reúne a compradores y proveedores de todo el mundo.",
-      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-      "fuente": "Serviscomplet (calendario de ferias 2027)"
-    },
-    {
-      "ini": "2027-05-18",
-      "fin": "2027-05-20",
-      "nombre": "Vitafoods Europe 2027",
-      "lugar": "Barcelona, España (Fira)",
-      "markets": [
-        "es"
-      ],
-      "tipo": "sector",
-      "cats": [
-        "aditivos"
-      ],
-      "texto": "Feria de ingredientes funcionales, suplementos y nutrición. Útil para proveedores de ingredientes que venden a Europa.",
-      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-      "fuente": "Serviscomplet (calendario de ferias 2027)"
-    },
-    {
       "ini": "2026-10-30",
       "fin": "2026-10-30",
       "nombre": "Webinar AECOC: cómo desarrollar un plan de cultura de seguridad alimentaria",
@@ -1182,6 +1119,160 @@
       "fuente": "The Food Tech"
     },
     {
+      "ini": "2026-11-17",
+      "fin": "2026-11-20",
+      "nombre": "International Oat Conference Chile 2026",
+      "lugar": "Pucón, Chile",
+      "markets": [
+        "cl"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "cereales"
+      ],
+      "texto": "Conferencia internacional sobre avena: cultivo, industria y mercado.",
+      "url": "https://thefoodtech.com/eventos-de-la-industria/",
+      "fuente": "The Food Tech"
+    },
+    {
+      "ini": "2026-11-16",
+      "fin": "2026-11-16",
+      "nombre": "Seminario web de la FDA: niveles de acción para cadmio y nuevo borrador sobre peligros químicos",
+      "lugar": "Online · 13:00 a 14:00 en horario de EE.UU. (confirma la zona en la fuente)",
+      "markets": [
+        "us"
+      ],
+      "tipo": "online",
+      "cats": [
+        "cereales",
+        "frescos",
+        "frutos",
+        "cacaocafe"
+      ],
+      "texto": "La FDA explicará el borrador de niveles de acción para cadmio en alimentos para bebés y niños pequeños y el borrador del capítulo de peligros químicos. Es útil si vendes ingredientes o alimentos a EE.UU.",
+      "url": "https://www.afdo.org/federal-register-update-october-23-2026/",
+      "fuente": "AFDO"
+    }
+  ],
+  "plazos": [
+    {
+      "f": "2026-11-17",
+      "lbl": "Alrededor del 17 nov 2026",
+      "m": [
+        "mx"
+      ],
+      "tema": "Aditivos",
+      "tit": "México: entra en vigor el nuevo Acuerdo de aditivos y coadyuvantes, con plazos de transición de 6 a 24 meses",
+      "fu": [
+        "Noticias Gobierno",
+        "https://www.noticiasgobierno.com/acuerdo-aditivos-coadyuvantes-alimentos-bebidas-suplementos-2026/"
+      ]
+    },
+    {
+      "f": "2027-03-17",
+      "lbl": "17 mar 2027",
+      "m": [
+        "cl"
+      ],
+      "tema": "Etiquetado",
+      "tit": "Chile: \"libre de gluten\" solo con resultado de laboratorio de 5 mg/kg o menos",
+      "fu": [
+        "Envapack",
+        "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
+      ]
+    },
+    {
+      "f": "2027-11-06",
+      "lbl": "Noviembre 2027",
+      "m": [
+        "cl"
+      ],
+      "tema": "Etiquetado",
+      "tit": "Chile: los lácteos deberán indicar el país de ordeña en la cara principal",
+      "fu": [
+        "Envapack",
+        "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
+      ]
+    },
+    {
+      "f": "2028-01-01",
+      "lbl": "1 ene 2028",
+      "m": [
+        "mx"
+      ],
+      "tema": "Etiquetado",
+      "tit": "México: Fase 3 de la NOM-051 para el etiquetado frontal",
+      "fu": [
+        "Vinculum",
+        "https://vinculum.mx/2025/12/12/fase-3-de-la-nom-051-scfi-ssa1-2010-cambios-para-2026/"
+      ]
+    }
+  ],
+  "ev_futuro": [
+    {
+      "ini": "2027-02-03",
+      "fin": "2027-02-05",
+      "nombre": "Fruit Logistica 2027",
+      "lugar": "Berlín, Alemania",
+      "markets": [
+        "ue"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "frescos",
+        "frutos"
+      ],
+      "texto": "Feria internacional de frutas y hortalizas frescas, con exportadores de Latinoamérica y compradores europeos. Es una de las citas del año para reunirse con importadores de la UE.",
+      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+      "fuente": "Serviscomplet (calendario de ferias 2027)"
+    },
+    {
+      "ini": "2027-02-16",
+      "fin": "2027-02-18",
+      "nombre": "Anuga Select Ibérica 2027",
+      "lugar": "Madrid, España (IFEMA)",
+      "markets": [
+        "es"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Primera edición española de Anuga, para el sector de alimentación y bebidas. Se celebra junto con Nutraceuticals Europe (17 y 18 de febrero).",
+      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+      "fuente": "Serviscomplet (calendario de ferias 2027)"
+    },
+    {
+      "ini": "2027-04-20",
+      "fin": "2027-04-22",
+      "nombre": "Seafood Expo Global 2027",
+      "lugar": "Barcelona, España (Fira)",
+      "markets": [
+        "es"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "pescados"
+      ],
+      "texto": "Feria mundial de pescados y mariscos, junto con Seafood Processing Global. Reúne a compradores y proveedores de todo el mundo.",
+      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+      "fuente": "Serviscomplet (calendario de ferias 2027)"
+    },
+    {
+      "ini": "2027-05-18",
+      "fin": "2027-05-20",
+      "nombre": "Vitafoods Europe 2027",
+      "lugar": "Barcelona, España (Fira)",
+      "markets": [
+        "es"
+      ],
+      "tipo": "sector",
+      "cats": [
+        "aditivos"
+      ],
+      "texto": "Feria de ingredientes funcionales, suplementos y nutrición. Útil para proveedores de ingredientes que venden a Europa.",
+      "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+      "fuente": "Serviscomplet (calendario de ferias 2027)"
+    },
+    {
       "ini": "2027-03-15",
       "fin": "2027-03-19",
       "nombre": "Gulfood 2027",
@@ -1210,22 +1301,6 @@
       "texto": "Feria de frutas y hortalizas frescas para Latinoamérica.",
       "url": "https://www.foodnewslatam.com/eventos.html",
       "fuente": "FoodNewsLatam"
-    },
-    {
-      "ini": "2026-11-17",
-      "fin": "2026-11-20",
-      "nombre": "International Oat Conference Chile 2026",
-      "lugar": "Pucón, Chile",
-      "markets": [
-        "cl"
-      ],
-      "tipo": "sector",
-      "cats": [
-        "cereales"
-      ],
-      "texto": "Conferencia internacional sobre avena: cultivo, industria y mercado.",
-      "url": "https://thefoodtech.com/eventos-de-la-industria/",
-      "fuente": "The Food Tech"
     },
     {
       "ini": "2027-01-17",
@@ -1326,25 +1401,6 @@
       "fuente": "IAFP"
     },
     {
-      "ini": "2026-11-16",
-      "fin": "2026-11-16",
-      "nombre": "Seminario web de la FDA: niveles de acción para cadmio y nuevo borrador sobre peligros químicos",
-      "lugar": "Online · 13:00 a 14:00 en horario de EE.UU. (confirma la zona en la fuente)",
-      "markets": [
-        "us"
-      ],
-      "tipo": "online",
-      "cats": [
-        "cereales",
-        "frescos",
-        "frutos",
-        "cacaocafe"
-      ],
-      "texto": "La FDA explicará el borrador de niveles de acción para cadmio en alimentos para bebés y niños pequeños y el borrador del capítulo de peligros químicos. Es útil si vendes ingredientes o alimentos a EE.UU.",
-      "url": "https://www.afdo.org/federal-register-update-october-23-2026/",
-      "fuente": "AFDO"
-    },
-    {
       "ini": "2027-06-22",
       "fin": "2027-06-25",
       "nombre": "Fispal Tecnologia 2027",
@@ -1357,60 +1413,6 @@
       "texto": "Feria de tecnología para procesamiento y envasado de alimentos y bebidas en Brasil. Útil si fabricas, envasas o compras equipos y soluciones para planta en Sudamérica.",
       "url": "https://www.fispaltecnologia.com.br/en/",
       "fuente": "Fispal Tecnologia"
-    }
-  ],
-  "plazos": [
-    {
-      "f": "2026-11-17",
-      "lbl": "Alrededor del 17 nov 2026",
-      "m": [
-        "mx"
-      ],
-      "tema": "Aditivos",
-      "tit": "México: entra en vigor el nuevo Acuerdo de aditivos y coadyuvantes, con plazos de transición de 6 a 24 meses",
-      "fu": [
-        "Noticias Gobierno",
-        "https://www.noticiasgobierno.com/acuerdo-aditivos-coadyuvantes-alimentos-bebidas-suplementos-2026/"
-      ]
-    },
-    {
-      "f": "2027-03-17",
-      "lbl": "17 mar 2027",
-      "m": [
-        "cl"
-      ],
-      "tema": "Etiquetado",
-      "tit": "Chile: \"libre de gluten\" solo con resultado de laboratorio de 5 mg/kg o menos",
-      "fu": [
-        "Envapack",
-        "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
-      ]
-    },
-    {
-      "f": "2027-11-06",
-      "lbl": "Noviembre 2027",
-      "m": [
-        "cl"
-      ],
-      "tema": "Etiquetado",
-      "tit": "Chile: los lácteos deberán indicar el país de ordeña en la cara principal",
-      "fu": [
-        "Envapack",
-        "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
-      ]
-    },
-    {
-      "f": "2028-01-01",
-      "lbl": "1 ene 2028",
-      "m": [
-        "mx"
-      ],
-      "tema": "Etiquetado",
-      "tit": "México: Fase 3 de la NOM-051 para el etiquetado frontal",
-      "fu": [
-        "Vinculum",
-        "https://vinculum.mx/2025/12/12/fase-3-de-la-nom-051-scfi-ssa1-2010-cambios-para-2026/"
-      ]
     }
   ]
 }
