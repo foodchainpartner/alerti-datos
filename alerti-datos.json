@@ -884,25 +884,6 @@
       "fuente": "Food Industry Executive"
     },
     {
-      "ini": "2026-10-26",
-      "fin": "2026-10-27",
-      "nombre": "INOFOOD 2026, IX Cumbre de Inocuidad Alimentaria",
-      "lugar": "Santiago, Chile (Le Méridien)",
-      "markets": [
-        "cl"
-      ],
-      "tipo": "inocuidad",
-      "cats": [
-        "carnes",
-        "lacteos",
-        "frescos",
-        "frutos"
-      ],
-      "texto": "Se esperan unos 1.300 participantes. Temas: cambios del Codex en umbrales de alérgenos, reglas de la UE sobre metales pesados y PFAS en envases, detección con metagenómica e IA, diseño higiénico, Salmonella y Listeria, micotoxinas, trazabilidad y pasaporte digital de producto. Hay sesiones por sector: carnes, salmón, fruta, hortalizas, frutos secos, lácteos, huevos y servicios de alimentación.",
-      "url": "https://www.reporteagricola.cl/noticia/eventos/2026/10/inofood-2026-evento-reunira-sector-para-analizar-nuevos-desafios-inocuidad-alimentaria",
-      "fuente": "Reporte Agrícola"
-    },
-    {
       "ini": "2026-11-09",
       "fin": "2026-11-11",
       "nombre": "Cumbre de Banano 2026",
@@ -1362,6 +1343,20 @@
       "texto": "La FDA explicará el borrador de niveles de acción para cadmio en alimentos para bebés y niños pequeños y el borrador del capítulo de peligros químicos. Es útil si vendes ingredientes o alimentos a EE.UU.",
       "url": "https://www.afdo.org/federal-register-update-october-23-2026/",
       "fuente": "AFDO"
+    },
+    {
+      "ini": "2027-06-22",
+      "fin": "2027-06-25",
+      "nombre": "Fispal Tecnologia 2027",
+      "lugar": "São Paulo, Brasil (São Paulo Expo)",
+      "markets": [
+        "br"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria de tecnología para procesamiento y envasado de alimentos y bebidas en Brasil. Útil si fabricas, envasas o compras equipos y soluciones para planta en Sudamérica.",
+      "url": "https://www.fispaltecnologia.com.br/en/",
+      "fuente": "Fispal Tecnologia"
     }
   ],
   "plazos": [
