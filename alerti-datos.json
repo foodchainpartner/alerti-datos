@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-27",
+  "revisado": "2026-10-28",
   "reg": [
     {
       "fecha": "2026-10-20",
@@ -526,6 +526,23 @@
         "Food Safety News",
         "https://foodsafetynews.com/2026/10/tomato-use-suspended-as-italy-tackles-salmonella-outbreak"
       ]
+    },
+    {
+      "fecha": "2026-10-28",
+      "titulo": "EE.UU.: una opinión jurídica dice que la FDA puede ampliar lo que divulga en brotes sobre la cadena de suministro",
+      "texto": "La oficina del Attorney General opinó que la FDA puede modificar sus reglas para divulgar más información de la cadena de suministro vinculada a brotes de enfermedades transmitidas por alimentos. La FDA venía citando la ley federal para no hacerla pública. Por ahora es una opinión que habilita el cambio, no una norma modificada.",
+      "revisar": "Si vendes a EE.UU., revisa si puedes reconstruir rápido, por lote, quién te vende y a quién vendes.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [],
+      "fuente": [
+        "Food Safety News",
+        "https://foodsafetynews.com/2026/10/attorney-general-says-fda-can-alter-regs-regarding-release-of-information-related-to-outbreak-investigations"
+      ]
     }
   ],
   "emp": [
@@ -766,6 +783,24 @@
       "fuente": [
         "Halcones y Palomas",
         "https://www.halconesypalomas.com/2026/10/09/fruco-negocio-de-alimentos-de-unilever-sera-adquirido-por-una-holding-en-la-que-mccormick-de-e-u-tambien-tendra-participacion-accionaria/"
+      ]
+    },
+    {
+      "fecha": "2026-10-27",
+      "tipo": "compra",
+      "empresa": "Inversora Juramento / El Quebrachal",
+      "markets": [
+        "ar"
+      ],
+      "cats": [
+        "carnes"
+      ],
+      "titulo": "Argentina: Inversora Juramento compra El Quebrachal y la Estancia Lote 5 para ampliar su carne premium",
+      "texto": "Inversora Juramento adquirió el 100% de El Quebrachal S.A. y la Estancia Lote 5 por US$ 22,8 millones. El campo tiene más de 10.800 hectáreas y un rodeo de cría de 4.000 cabezas Brangus colorado. Apoya sus marcas de carne premium Cabaña Juramento y Bermejo, que exporta desde el Frigorífico Bermejo.",
+      "senal": "Una empresa exportadora de carne asegura más hacienda propia: es un momento para revisar origen, trazabilidad y requisitos de cada mercado destino.",
+      "fuente": [
+        "LexLatin",
+        "https://lexlatin.com/noticias/inversora-juramento-expande-su-negocio-de-carne-premium-tras-comprar-estancia-lote-5-y-el"
       ]
     }
   ],
