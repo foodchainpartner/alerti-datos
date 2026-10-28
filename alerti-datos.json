@@ -1152,6 +1152,20 @@
       "texto": "La FDA explicará el borrador de niveles de acción para cadmio en alimentos para bebés y niños pequeños y el borrador del capítulo de peligros químicos. Es útil si vendes ingredientes o alimentos a EE.UU.",
       "url": "https://www.afdo.org/federal-register-update-october-23-2026/",
       "fuente": "AFDO"
+    },
+    {
+      "ini": "2026-11-17",
+      "fin": "2026-11-19",
+      "nombre": "Argentina Alimenta 2026",
+      "lugar": "Buenos Aires, Argentina (La Rural, Predio Ferial)",
+      "markets": [
+        "ar"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria internacional de alimentos y bebidas con ronda de negocios con compradores extranjeros, el Congreso Argentino COPAL y sesiones de INTA. Útil si vendes o compras alimentos en Argentina o quieres exportar desde allí.",
+      "url": "https://www.ademi.org.ar/argentina-alimenta-2026/",
+      "fuente": "ADEMI"
     }
   ],
   "plazos": [
