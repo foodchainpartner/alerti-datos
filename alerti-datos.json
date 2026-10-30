@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-28",
+  "revisado": "2026-10-30",
   "reg": [
     {
       "fecha": "2026-10-20",
@@ -542,6 +542,45 @@
       "fuente": [
         "Food Safety News",
         "https://foodsafetynews.com/2026/10/attorney-general-says-fda-can-alter-regs-regarding-release-of-information-related-to-outbreak-investigations"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "EE.UU.: HHS y la FDA anuncian la primera gran actualización de los estándares de fórmula infantil en casi 30 años",
+      "texto": "El 29 de octubre se anunció una revisión de los estándares de fórmula infantil. La FDA también creó un panel sobre contaminantes químicos en estas fórmulas y actualizó sus resultados de análisis, con datos por marca de 2026, 2025 y los años fiscales 2023 a 2025. El texto disponible no detalla qué cambiará ni los plazos.",
+      "revisar": "Si vendes ingredientes lácteos, aceites o nutrientes para fórmulas infantiles en EE.UU., revisa qué datos de contaminantes tienes por lote y proveedor.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "lacteos",
+        "aceites"
+      ],
+      "fuente": [
+        "AFDO, actualización del Federal Register del 30 de octubre",
+        "https://www.afdo.org/federal-register-update-october-30-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "EE.UU.: retiran canela molida de la marca Wise Wife por niveles elevados de plomo",
+      "texto": "SLR Food Distribution Inc. retiró canela molida de la marca Wise Wife por posible contaminación con niveles elevados de plomo, según el aviso de la FDA del 29 de octubre.",
+      "revisar": "Si compras o exportas especias a EE.UU., revisa cuántos lotes analizas por metales pesados y con qué método.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "contaminantes"
+      ],
+      "cats": [
+        "especias"
+      ],
+      "fuente": [
+        "AFDO, actualización del Federal Register del 30 de octubre",
+        "https://www.afdo.org/federal-register-update-october-30-2026/"
       ]
     }
   ],
