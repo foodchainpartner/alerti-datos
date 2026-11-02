@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-30",
+  "revisado": "2026-11-02",
   "reg": [
     {
       "fecha": "2026-10-20",
@@ -236,106 +236,6 @@
       ]
     },
     {
-      "fecha": "2026-10-02",
-      "titulo": "EE.UU.: la FDA cierra la investigación de Cyclospora ligada a lechuga de México y anuncia un plan para 2027",
-      "texto": "La FDA cerró su investigación del brote de verano de Cyclospora asociado a lechuga iceberg rallada de México y presentó un plan de prevención de 10 puntos para la temporada 2027: más vigilancia, trabajo con productores e inspecciones más estrictas a proveedores extranjeros.",
-      "revisar": "Si exportas hortalizas de hoja a EE.UU., revisa el agua de riego, la higiene en campo y la trazabilidad por lote.",
-      "markets": [
-        "us",
-        "mx"
-      ],
-      "topics": [
-        "micro"
-      ],
-      "cats": [
-        "frescos"
-      ],
-      "fuente": [
-        "Flavorist, resumen regulatorio de Norteamérica",
-        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-      ]
-    },
-    {
-      "fecha": "2026-10-01",
-      "titulo": "EE.UU.: la FDA revisa su alerta de importación sobre colorantes no autorizados o no declarados",
-      "texto": "Desde el 1 de octubre la alerta de importación 45-02 cubre la detención de alimentos importados con colorantes no autorizados o no declarados. Los importadores deben verificar que cada color, incluso los de mezclas fabricadas en el exterior, esté autorizado y declarado.",
-      "revisar": "Confirma con tus proveedores de mezclas, saborizantes y colorantes que cada color esté autorizado y declarado para EE.UU.",
-      "markets": [
-        "us"
-      ],
-      "topics": [
-        "etiquetado",
-        "limites"
-      ],
-      "cats": [
-        "aditivos"
-      ],
-      "fuente": [
-        "Flavorist, resumen regulatorio de Norteamérica",
-        "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
-      ]
-    },
-    {
-      "fecha": "2026-09-30",
-      "titulo": "Perú: SENASA suspende cinco plaguicidas en cultivos para consumo interno",
-      "texto": "La Resolución D000015-2026, publicada el 30 de septiembre, cumple una sentencia del Tribunal Constitucional y suspende de forma temporal la venta, distribución y uso de productos agrícolas con clorpirifós, metomilo, glifosato, imidacloprid o clotianidina cuando se usan en alimentos de origen vegetal para consumo interno. La medida es precautoria hasta una reevaluación técnica y no cancela los registros. Las oficinas regionales deben reforzar las inspecciones.",
-      "revisar": "Si compras o procesas vegetales en Perú, pide a tus proveedores el registro de los plaguicidas aplicados.",
-      "markets": [
-        "pe"
-      ],
-      "topics": [
-        "limites"
-      ],
-      "cats": [
-        "frescos",
-        "cereales"
-      ],
-      "fuente": [
-        "Flavorist, resumen regulatorio de Sudamérica",
-        "https://www.flavorist.com/south-america-food-flavor-regulatory-update-september-16-30-2026/"
-      ]
-    },
-    {
-      "fecha": "2026-09-16",
-      "titulo": "Chile: tres alertas por Listeria en quesos y fiambres en tres semanas",
-      "texto": "Entre el 28 de agosto y el 16 de septiembre, el Minsal informó alertas por Listeria monocytogenes en queso mantecoso laminado La Rotunda (ampliada al formato de 500 g, lote T3180726), pasta cóctel de jamón Líder (3 de septiembre) y queso mantecoso laminado Matthei (16 de septiembre, lote 2262907 AM). Las muestras salieron de la vigilancia microbiológica nacional. En los tres casos se notificó al fabricante, se inspeccionó la planta y se pidió retirar el producto.",
-      "revisar": "Si produces o distribuyes quesos y fiambres en Chile, revisa tu monitoreo ambiental de Listeria y tu plan de retiro.",
-      "markets": [
-        "cl"
-      ],
-      "topics": [
-        "micro"
-      ],
-      "cats": [
-        "lacteos",
-        "carnes"
-      ],
-      "fuente": [
-        "Minsal",
-        "https://www.minsal.cl/minsal-emite-alerta-alimentaria-por-listeria-en-queso-mantecoso-laminado-marca-matthei/"
-      ]
-    },
-    {
-      "fecha": "2026-08-23",
-      "titulo": "Chile: Minsal retira maní por aflatoxinas y pasas por ocratoxina A",
-      "texto": "El 23 de agosto el Minsal informó una alerta por aflatoxinas en maní tostado sin sal de 300 g (lote 103969), detectadas en el programa nacional de vigilancia de micotoxinas. El 5 de agosto había ordenado retirar pasas morenas de 100 g (lote 104736) por ocratoxina A. Ambos productos son de la misma marca y del mismo envasador, y en los dos casos se abrió un sumario sanitario o se tomaron medidas sanitarias.",
-      "revisar": "Si importas o procesas maní, pasas u otros frutos secos, revisa cuántos lotes analizas por micotoxinas y con qué método.",
-      "markets": [
-        "cl"
-      ],
-      "topics": [
-        "contaminantes",
-        "limites"
-      ],
-      "cats": [
-        "frutos"
-      ],
-      "fuente": [
-        "Minsal",
-        "https://www.minsal.cl/minsal-notifica-alerta-alimentaria-por-deteccion-de-mani-tostado-sin-sal-contaminados-con-aflatoxinas/"
-      ]
-    },
-    {
       "fecha": "2026-10-19",
       "titulo": "EE.UU.: la FDA clasifica como Clase I el retiro de quesos de leche cruda Graziers por E. coli O26",
       "texto": "La FDA clasificó el 19 de octubre como Clase I, su categoría más grave, el retiro voluntario de quesos de leche cruda Graziers de Sierra Nevada Cheese Company (California), anunciado el 28 de septiembre. Alcanza al Monterey Jack, jalapeño jack, cheddar medio y cheddar fuerte, en formatos de venta al detalle, food service y mayoristas, distribuidos en 13 estados. El motivo es la posible presencia de E. coli O26, productora de toxina Shiga. Al 25 de septiembre, los CDC reportaban 13 infecciones en nueve estados, ocho hospitalizaciones y tres casos de síndrome urémico hemolítico, más de la mitad en niños pequeños.",
@@ -371,26 +271,6 @@
       "fuente": [
         "Food Safety News",
         "https://www.foodsafetynews.com/2026/10/usda-to-expand-testing-at-deli-counters/"
-      ]
-    },
-    {
-      "fecha": "2026-10-02",
-      "titulo": "EE.UU.: el FSIS retira snacks con chicharrón fabricados en Colombia, país no habilitado para exportar carne a ese mercado",
-      "texto": "Inexport Logistics LLC, de Miami, retiró unas 189 libras de snacks de la marca Yupi Golpe con Todo sabor BBQ, bolsas de 60 gramos, que contienen chicharrón de cerdo y se fabricaron en Colombia, país que no puede exportar productos cárnicos a EE.UU. Las etiquetas no tienen marca de importación. Se distribuyeron en Arizona, California, Colorado, Florida, Illinois, Kentucky, Minnesota y Texas. El FSIS detectó el producto en un punto de venta durante un control de efectividad de un retiro anterior. No hay reportes de enfermedad.",
-      "revisar": "Si exportas snacks u otros alimentos con ingredientes de origen animal a EE.UU., confirma ante el FSIS que tu país y tu establecimiento sean elegibles antes de embarcar.",
-      "markets": [
-        "us",
-        "co"
-      ],
-      "topics": [
-        "cambios"
-      ],
-      "cats": [
-        "carnes"
-      ],
-      "fuente": [
-        "Food Safety News",
-        "https://www.foodsafetynews.com/2026/10/chips-recalled-because-they-were-made-in-colombia/"
       ]
     },
     {
@@ -582,6 +462,29 @@
         "AFDO, actualización del Federal Register del 30 de octubre",
         "https://www.afdo.org/federal-register-update-october-30-2026/"
       ]
+    },
+    {
+      "fecha": "2026-11-02",
+      "titulo": "Europa: un nuevo ciberataque sube la temperatura de refrigeradores y congeladores en supermercados de varios países",
+      "texto": "Desde la madrugada del 2 de noviembre se reportan tiendas afectadas en Suecia (ICA y Coop), Bélgica y Luxemburgo (Colruyt, Carrefour, Ahold Delhaize) e Irlanda (SuperValu). Algunos congeladores llegaron a 50 °C y hubo que desechar alimentos. Algunas unidades usaban control de temperatura de Danfoss, también afectada en un ataque previo en Francia. Nadie se ha atribuido el hecho y la Comisión Europea lo calificó de intento deliberado de perturbar la cadena alimentaria.",
+      "revisar": "Si tienes cámaras o transporte refrigerado con control remoto, revisa quién puede cambiar las temperaturas, cómo se alarma una desviación y cómo registras y evalúas el producto afectado.",
+      "markets": [
+        "ue",
+        "es"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "carnes",
+        "lacteos",
+        "pescados",
+        "frescos"
+      ],
+      "fuente": [
+        "GV Wire, con información de Reuters",
+        "https://gvwire.com/2026/11/02/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/"
+      ]
     }
   ],
   "emp": [
@@ -697,43 +600,6 @@
       ]
     },
     {
-      "fecha": "2026-09-28",
-      "tipo": "expansion",
-      "empresa": "Traverso",
-      "markets": [
-        "cl",
-        "pe"
-      ],
-      "cats": [
-        "aditivos"
-      ],
-      "titulo": "Chile y Perú: Traverso prepara su ingreso al mercado peruano con vinagres y luego mayonesa",
-      "texto": "La empresa chilena, con más de 130 años de trayectoria, pasará de vender materias primas a fabricar productos terminados y marcas propias para supermercados peruanos, a través de Traverso International Foods. Negocia con una empresa peruana desde hace cuatro o cinco meses y proyecta cerrar el primer negocio en noviembre de 2026. Por ahora la producción seguirá en Chile.",
-      "senal": "Una empresa que exporta por primera vez producto terminado a un país nuevo necesita conocer la normativa de ese país.",
-      "fuente": [
-        "Gestión",
-        "https://gestion.pe/economia/empresas/empresa-chilena-de-alimentos-prepara-su-ingreso-a-peru-empezara-con-vinagres-y-luego-ira-por-mayonesa-noticia/"
-      ]
-    },
-    {
-      "fecha": "2026-10-02",
-      "tipo": "compra",
-      "empresa": "Watkins / Sauer Brands",
-      "markets": [
-        "us"
-      ],
-      "cats": [
-        "especias"
-      ],
-      "titulo": "EE.UU.: Watkins compra el negocio de especias de Sauer Brands",
-      "texto": "Watkins, con sede en Winona (Minnesota), adquirió el negocio de especias de Sauer Brands, respaldada por Advent International. La operación incluye las marcas Kernel Season's, Spice Hunter y Sauer's, las líneas de foodservice y marca privada asociadas, y dos plantas, en Richmond (Virginia) y San Luis Obispo (California). No se informó el monto ni la fecha de cierre.",
-      "senal": "Si vendes especias o hierbas a estas marcas o a sus líneas de marca privada, es un momento típico para revisar especificaciones, límites de residuos y proveedores aprobados con el nuevo dueño.",
-      "fuente": [
-        "Food Processing",
-        "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55409380/watkins-acquires-sauer-brands-spice-business"
-      ]
-    },
-    {
       "fecha": "2026-10-14",
       "tipo": "compra",
       "empresa": "McCall Farms / B&G Foods",
@@ -845,40 +711,6 @@
   ],
   "ev": [
     {
-      "ini": "2026-10-29",
-      "fin": "2026-10-29",
-      "nombre": "Webinar: FDA Proposes Major GRAS Reform, qué podría significar para tu negocio",
-      "lugar": "Online · en inglés · 15:00 a 16:00 hora de Chile",
-      "markets": [
-        "us"
-      ],
-      "tipo": "online",
-      "cats": [
-        "aditivos"
-      ],
-      "texto": "Explica la propuesta de la FDA que haría obligatoria la notificación de sustancias GRAS (comentarios hasta el 9 de diciembre). Es útil si vendes ingredientes o aditivos a EE.UU. El costo de inscripción no está informado en la fuente.",
-      "url": "https://foodindustryexecutive.com/food-industry-webinar/fda-proposes-major-gras-reform-what-it-could-mean-for-your-business/",
-      "fuente": "Food Industry Executive"
-    },
-    {
-      "ini": "2026-10-30",
-      "fin": "2026-10-30",
-      "nombre": "Webinar: Beyond the Swab, cómo armar un monitoreo ambiental de Listeria más inteligente",
-      "lugar": "Online · en inglés · 13:00 a 14:00 hora de Chile",
-      "markets": [
-        "global"
-      ],
-      "tipo": "online",
-      "cats": [
-        "carnes",
-        "lacteos",
-        "frescos"
-      ],
-      "texto": "Sesión sobre cómo diseñar y mejorar un programa de monitoreo ambiental (EMP) de Listeria. Útil para plantas de carnes, lácteos y listos para consumo. El costo de inscripción no está informado en la fuente.",
-      "url": "https://foodindustryexecutive.com/food-industry-webinar/beyond-the-swab-how-to-build-a-smarter-listeria-emp/",
-      "fuente": "Food Industry Executive"
-    },
-    {
       "ini": "2026-11-03",
       "fin": "2026-11-03",
       "nombre": "Cursos online de inocuidad: IFS Food, alérgenos, gestión de proveedores y más",
@@ -938,20 +770,6 @@
       "texto": "Reúne a productores, investigadores y delegaciones de ocho países (Ecuador, Colombia, Costa Rica, Venezuela, Brasil, Chile, España y Países Bajos). Ejes: sanidad y genética, tecnología en campo, normativa internacional y operatividad, con foco en el manejo de plagas y los efectos de El Niño sobre las exportaciones.",
       "url": "https://www.expreso.ec/guayaquil/cumbre-banano-2026-reune-guayaquil-expertos-ocho-paises-efectos-nino-299645.html",
       "fuente": "Expreso"
-    },
-    {
-      "ini": "2026-10-30",
-      "fin": "2026-10-30",
-      "nombre": "Webinar AECOC: cómo desarrollar un plan de cultura de seguridad alimentaria",
-      "lugar": "Online · en español · hora según la ficha del webinar",
-      "markets": [
-        "es"
-      ],
-      "tipo": "online",
-      "cats": [],
-      "texto": "Sesión para armar un plan de cultura de seguridad alimentaria en la empresa. El costo no está informado en la fuente.",
-      "url": "https://www.aecoc.es/webinar/desarrolla-un-plan-de-cultura-de-seguridad-alimentaria-2/",
-      "fuente": "AECOC"
     },
     {
       "ini": "2026-11-04",
@@ -1467,5 +1285,218 @@
       "url": "https://www.fispaltecnologia.com.br/en/",
       "fuente": "Fispal Tecnologia"
     }
-  ]
+  ],
+  "archivo": {
+    "reg": [
+      {
+        "fecha": "2026-10-02",
+        "titulo": "EE.UU.: la FDA cierra la investigación de Cyclospora ligada a lechuga de México y anuncia un plan para 2027",
+        "texto": "La FDA cerró su investigación del brote de verano de Cyclospora asociado a lechuga iceberg rallada de México y presentó un plan de prevención de 10 puntos para la temporada 2027: más vigilancia, trabajo con productores e inspecciones más estrictas a proveedores extranjeros.",
+        "revisar": "Si exportas hortalizas de hoja a EE.UU., revisa el agua de riego, la higiene en campo y la trazabilidad por lote.",
+        "markets": [
+          "us",
+          "mx"
+        ],
+        "topics": [
+          "micro"
+        ],
+        "cats": [
+          "frescos"
+        ],
+        "fuente": [
+          "Flavorist, resumen regulatorio de Norteamérica",
+          "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+        ]
+      },
+      {
+        "fecha": "2026-10-01",
+        "titulo": "EE.UU.: la FDA revisa su alerta de importación sobre colorantes no autorizados o no declarados",
+        "texto": "Desde el 1 de octubre la alerta de importación 45-02 cubre la detención de alimentos importados con colorantes no autorizados o no declarados. Los importadores deben verificar que cada color, incluso los de mezclas fabricadas en el exterior, esté autorizado y declarado.",
+        "revisar": "Confirma con tus proveedores de mezclas, saborizantes y colorantes que cada color esté autorizado y declarado para EE.UU.",
+        "markets": [
+          "us"
+        ],
+        "topics": [
+          "etiquetado",
+          "limites"
+        ],
+        "cats": [
+          "aditivos"
+        ],
+        "fuente": [
+          "Flavorist, resumen regulatorio de Norteamérica",
+          "https://www.flavorist.com/north-america-food-flavor-regulatory-digest-october-1-15-2026/"
+        ]
+      },
+      {
+        "fecha": "2026-09-30",
+        "titulo": "Perú: SENASA suspende cinco plaguicidas en cultivos para consumo interno",
+        "texto": "La Resolución D000015-2026, publicada el 30 de septiembre, cumple una sentencia del Tribunal Constitucional y suspende de forma temporal la venta, distribución y uso de productos agrícolas con clorpirifós, metomilo, glifosato, imidacloprid o clotianidina cuando se usan en alimentos de origen vegetal para consumo interno. La medida es precautoria hasta una reevaluación técnica y no cancela los registros. Las oficinas regionales deben reforzar las inspecciones.",
+        "revisar": "Si compras o procesas vegetales en Perú, pide a tus proveedores el registro de los plaguicidas aplicados.",
+        "markets": [
+          "pe"
+        ],
+        "topics": [
+          "limites"
+        ],
+        "cats": [
+          "frescos",
+          "cereales"
+        ],
+        "fuente": [
+          "Flavorist, resumen regulatorio de Sudamérica",
+          "https://www.flavorist.com/south-america-food-flavor-regulatory-update-september-16-30-2026/"
+        ]
+      },
+      {
+        "fecha": "2026-09-16",
+        "titulo": "Chile: tres alertas por Listeria en quesos y fiambres en tres semanas",
+        "texto": "Entre el 28 de agosto y el 16 de septiembre, el Minsal informó alertas por Listeria monocytogenes en queso mantecoso laminado La Rotunda (ampliada al formato de 500 g, lote T3180726), pasta cóctel de jamón Líder (3 de septiembre) y queso mantecoso laminado Matthei (16 de septiembre, lote 2262907 AM). Las muestras salieron de la vigilancia microbiológica nacional. En los tres casos se notificó al fabricante, se inspeccionó la planta y se pidió retirar el producto.",
+        "revisar": "Si produces o distribuyes quesos y fiambres en Chile, revisa tu monitoreo ambiental de Listeria y tu plan de retiro.",
+        "markets": [
+          "cl"
+        ],
+        "topics": [
+          "micro"
+        ],
+        "cats": [
+          "lacteos",
+          "carnes"
+        ],
+        "fuente": [
+          "Minsal",
+          "https://www.minsal.cl/minsal-emite-alerta-alimentaria-por-listeria-en-queso-mantecoso-laminado-marca-matthei/"
+        ]
+      },
+      {
+        "fecha": "2026-08-23",
+        "titulo": "Chile: Minsal retira maní por aflatoxinas y pasas por ocratoxina A",
+        "texto": "El 23 de agosto el Minsal informó una alerta por aflatoxinas en maní tostado sin sal de 300 g (lote 103969), detectadas en el programa nacional de vigilancia de micotoxinas. El 5 de agosto había ordenado retirar pasas morenas de 100 g (lote 104736) por ocratoxina A. Ambos productos son de la misma marca y del mismo envasador, y en los dos casos se abrió un sumario sanitario o se tomaron medidas sanitarias.",
+        "revisar": "Si importas o procesas maní, pasas u otros frutos secos, revisa cuántos lotes analizas por micotoxinas y con qué método.",
+        "markets": [
+          "cl"
+        ],
+        "topics": [
+          "contaminantes",
+          "limites"
+        ],
+        "cats": [
+          "frutos"
+        ],
+        "fuente": [
+          "Minsal",
+          "https://www.minsal.cl/minsal-notifica-alerta-alimentaria-por-deteccion-de-mani-tostado-sin-sal-contaminados-con-aflatoxinas/"
+        ]
+      },
+      {
+        "fecha": "2026-10-02",
+        "titulo": "EE.UU.: el FSIS retira snacks con chicharrón fabricados en Colombia, país no habilitado para exportar carne a ese mercado",
+        "texto": "Inexport Logistics LLC, de Miami, retiró unas 189 libras de snacks de la marca Yupi Golpe con Todo sabor BBQ, bolsas de 60 gramos, que contienen chicharrón de cerdo y se fabricaron en Colombia, país que no puede exportar productos cárnicos a EE.UU. Las etiquetas no tienen marca de importación. Se distribuyeron en Arizona, California, Colorado, Florida, Illinois, Kentucky, Minnesota y Texas. El FSIS detectó el producto en un punto de venta durante un control de efectividad de un retiro anterior. No hay reportes de enfermedad.",
+        "revisar": "Si exportas snacks u otros alimentos con ingredientes de origen animal a EE.UU., confirma ante el FSIS que tu país y tu establecimiento sean elegibles antes de embarcar.",
+        "markets": [
+          "us",
+          "co"
+        ],
+        "topics": [
+          "cambios"
+        ],
+        "cats": [
+          "carnes"
+        ],
+        "fuente": [
+          "Food Safety News",
+          "https://www.foodsafetynews.com/2026/10/chips-recalled-because-they-were-made-in-colombia/"
+        ]
+      }
+    ],
+    "emp": [
+      {
+        "fecha": "2026-09-28",
+        "tipo": "expansion",
+        "empresa": "Traverso",
+        "markets": [
+          "cl",
+          "pe"
+        ],
+        "cats": [
+          "aditivos"
+        ],
+        "titulo": "Chile y Perú: Traverso prepara su ingreso al mercado peruano con vinagres y luego mayonesa",
+        "texto": "La empresa chilena, con más de 130 años de trayectoria, pasará de vender materias primas a fabricar productos terminados y marcas propias para supermercados peruanos, a través de Traverso International Foods. Negocia con una empresa peruana desde hace cuatro o cinco meses y proyecta cerrar el primer negocio en noviembre de 2026. Por ahora la producción seguirá en Chile.",
+        "senal": "Una empresa que exporta por primera vez producto terminado a un país nuevo necesita conocer la normativa de ese país.",
+        "fuente": [
+          "Gestión",
+          "https://gestion.pe/economia/empresas/empresa-chilena-de-alimentos-prepara-su-ingreso-a-peru-empezara-con-vinagres-y-luego-ira-por-mayonesa-noticia/"
+        ]
+      },
+      {
+        "fecha": "2026-10-02",
+        "tipo": "compra",
+        "empresa": "Watkins / Sauer Brands",
+        "markets": [
+          "us"
+        ],
+        "cats": [
+          "especias"
+        ],
+        "titulo": "EE.UU.: Watkins compra el negocio de especias de Sauer Brands",
+        "texto": "Watkins, con sede en Winona (Minnesota), adquirió el negocio de especias de Sauer Brands, respaldada por Advent International. La operación incluye las marcas Kernel Season's, Spice Hunter y Sauer's, las líneas de foodservice y marca privada asociadas, y dos plantas, en Richmond (Virginia) y San Luis Obispo (California). No se informó el monto ni la fecha de cierre.",
+        "senal": "Si vendes especias o hierbas a estas marcas o a sus líneas de marca privada, es un momento típico para revisar especificaciones, límites de residuos y proveedores aprobados con el nuevo dueño.",
+        "fuente": [
+          "Food Processing",
+          "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55409380/watkins-acquires-sauer-brands-spice-business"
+        ]
+      }
+    ],
+    "ev": [
+      {
+        "ini": "2026-10-29",
+        "fin": "2026-10-29",
+        "nombre": "Webinar: FDA Proposes Major GRAS Reform, qué podría significar para tu negocio",
+        "lugar": "Online · en inglés · 15:00 a 16:00 hora de Chile",
+        "markets": [
+          "us"
+        ],
+        "tipo": "online",
+        "cats": [
+          "aditivos"
+        ],
+        "texto": "Explica la propuesta de la FDA que haría obligatoria la notificación de sustancias GRAS (comentarios hasta el 9 de diciembre). Es útil si vendes ingredientes o aditivos a EE.UU. El costo de inscripción no está informado en la fuente.",
+        "url": "https://foodindustryexecutive.com/food-industry-webinar/fda-proposes-major-gras-reform-what-it-could-mean-for-your-business/",
+        "fuente": "Food Industry Executive"
+      },
+      {
+        "ini": "2026-10-30",
+        "fin": "2026-10-30",
+        "nombre": "Webinar: Beyond the Swab, cómo armar un monitoreo ambiental de Listeria más inteligente",
+        "lugar": "Online · en inglés · 13:00 a 14:00 hora de Chile",
+        "markets": [
+          "global"
+        ],
+        "tipo": "online",
+        "cats": [
+          "carnes",
+          "lacteos",
+          "frescos"
+        ],
+        "texto": "Sesión sobre cómo diseñar y mejorar un programa de monitoreo ambiental (EMP) de Listeria. Útil para plantas de carnes, lácteos y listos para consumo. El costo de inscripción no está informado en la fuente.",
+        "url": "https://foodindustryexecutive.com/food-industry-webinar/beyond-the-swab-how-to-build-a-smarter-listeria-emp/",
+        "fuente": "Food Industry Executive"
+      },
+      {
+        "ini": "2026-10-30",
+        "fin": "2026-10-30",
+        "nombre": "Webinar AECOC: cómo desarrollar un plan de cultura de seguridad alimentaria",
+        "lugar": "Online · en español · hora según la ficha del webinar",
+        "markets": [
+          "es"
+        ],
+        "tipo": "online",
+        "cats": [],
+        "texto": "Sesión para armar un plan de cultura de seguridad alimentaria en la empresa. El costo no está informado en la fuente.",
+        "url": "https://www.aecoc.es/webinar/desarrolla-un-plan-de-cultura-de-seguridad-alimentaria-2/",
+        "fuente": "AECOC"
+      }
+    ]
+  }
 }
