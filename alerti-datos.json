@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-02",
+  "revisado": "2026-11-05",
   "reg": [
     {
       "fecha": "2026-10-20",
@@ -445,9 +445,9 @@
       ]
     },
     {
-      "fecha": "2026-10-29",
-      "titulo": "EE.UU.: retiran canela molida de la marca Wise Wife por niveles elevados de plomo",
-      "texto": "SLR Food Distribution Inc. retiró canela molida de la marca Wise Wife por posible contaminación con niveles elevados de plomo, según el aviso de la FDA del 29 de octubre.",
+      "fecha": "2026-11-04",
+      "titulo": "EE.UU.: la FDA suma una canela molida Wise Wife a su lista de 21 productos con plomo elevado",
+      "texto": "El 4 de noviembre la FDA agregó la canela molida Wise Wife (SLR Food Distribution, Nueva York) a su lista de canelas con niveles altos de plomo, que ya suma 21 productos con entre 2,03 y 7,68 ppm. Es su tercera alerta de salud pública del año sobre canela molida, centrada en bebés y niños pequeños. La FDA seguirá revisando muestras de los estados y actualizará la lista si encuentra más.",
       "revisar": "Si compras o exportas especias a EE.UU., revisa cuántos lotes analizas por metales pesados y con qué método.",
       "markets": [
         "us"
@@ -459,8 +459,8 @@
         "especias"
       ],
       "fuente": [
-        "AFDO, actualización del Federal Register del 30 de octubre",
-        "https://www.afdo.org/federal-register-update-october-30-2026/"
+        "Food Safety News",
+        "https://www.foodsafetynews.com/2026/11/fda-updates-list-of-cinnamon-with-high-lead-levels-to-include-21st-product/"
       ]
     },
     {
@@ -484,6 +484,25 @@
       "fuente": [
         "GV Wire, con información de Reuters",
         "https://gvwire.com/2026/11/02/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/"
+      ]
+    },
+    {
+      "fecha": "2026-11-05",
+      "titulo": "FAO y OMS piden datos sobre aflatoxinas en cereales y productos a base de cereales, incluidos alimentos infantiles",
+      "texto": "La FAO y la OMS abrieron una convocatoria de datos sobre aflatoxinas en cereales y productos derivados, incluidos alimentos para lactantes y niños pequeños. También hay una convocatoria sobre Brucella. El texto disponible no indica el plazo ni a quién se dirige.",
+      "revisar": "Si exportas cereales o productos de cereales, revisa qué resultados de aflatoxinas tienes por lote y año, porque esos datos pueden alimentar límites futuros.",
+      "markets": [
+        "global"
+      ],
+      "topics": [
+        "contaminantes"
+      ],
+      "cats": [
+        "cereales"
+      ],
+      "fuente": [
+        "Food Safety News",
+        "https://www.foodsafetynews.com/2026/11/fao-and-who-ask-for-aflatoxin-and-brucella-data/"
       ]
     }
   ],
@@ -706,6 +725,29 @@
       "fuente": [
         "LexLatin",
         "https://lexlatin.com/noticias/inversora-juramento-expande-su-negocio-de-carne-premium-tras-comprar-estancia-lote-5-y-el"
+      ]
+    },
+    {
+      "fecha": "2026-11-03",
+      "tipo": "compra",
+      "empresa": "Alicorp / Flora Food Group",
+      "markets": [
+        "pe",
+        "cl",
+        "co",
+        "ec",
+        "gt",
+        "do"
+      ],
+      "cats": [
+        "aceites"
+      ],
+      "titulo": "Alicorp cierra la compra del negocio de Flora Food en Latinoamérica por US$ 150,5 millones",
+      "texto": "Alicorp completó la compra del 100% del negocio de Flora Food Group en la región, con filiales en siete países, acuerdos de distribución en unos 30 territorios y una planta en Cali, Colombia. Suma 19 marcas, entre ellas La Danesa, Dorina, Rama, Bonella, La Perfecta y Country Crock, en untables. La firma del contrato se había anunciado en marzo.",
+      "senal": "Cuando cambia el dueño de una marca de untables y se integra una planta, suelen revisarse especificaciones, proveedores de aceites y grasas, y cumplimiento por país.",
+      "fuente": [
+        "Forbes Perú",
+        "https://forbes.pe/negocios/2026-11-03/alicorp-adquiere-flora-food-por-us1505-millones-y-suma-19-marcas-a-su-portafolio-regional/"
       ]
     }
   ],
