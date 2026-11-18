@@ -309,6 +309,27 @@
         "Food Safety News",
         "https://www.foodsafetynews.com/2026/11/fda-investigating-two-new-salmonella-outbreaks/"
       ]
+    },
+    {
+      "fecha": "2026-11-16",
+      "titulo": "Argentina: SENASA unifica las reglas de control fitosanitario para exportar productos de origen vegetal",
+      "texto": "La Resolución 952/2026, publicada el 16 de noviembre en el Boletín Oficial, reúne en un solo texto las modalidades de control fitosanitario de exportación y reexportación de productos y subproductos vegetales, y deroga las resoluciones 141/2014, 260/2014 y 37/2017. Según el caso, se emite un Certificado Fitosanitario o un Certificado de Exportación de Productos Vegetales Procesados, ambos por el sistema Cert-POV. Rige desde su publicación.",
+      "revisar": "Si exportas desde Argentina productos de origen vegetal, revisa qué certificado te corresponde según lo que pida el país de destino.",
+      "markets": [
+        "ar"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "cereales",
+        "frescos",
+        "frutos"
+      ],
+      "fuente": [
+        "Boletín Oficial de Argentina, Resolución 952/2026 de SENASA",
+        "https://www.boletinoficial.gob.ar/detalleAviso/primera/350357/20261116"
+      ]
     }
   ],
   "emp": [
@@ -532,6 +553,24 @@
       "fuente": [
         "Flavorist, resumen de negocios en Sudamérica (16 al 31 de octubre de 2026)",
         "https://www.flavorist.com/south-america-food-flavor-industry-business-news-report-october-16-31-2026/"
+      ]
+    },
+    {
+      "fecha": "2026-11-17",
+      "tipo": "compra",
+      "empresa": "Grupo Tello / Moreno Plaza",
+      "markets": [
+        "es"
+      ],
+      "cats": [
+        "carnes"
+      ],
+      "titulo": "España: Grupo Tello compra la cárnica malagueña Moreno Plaza y llega a 465 millones de euros de facturación",
+      "texto": "Grupo Tello Alimentación completó la compra de Moreno Plaza, empresa de carne fresca de Alhaurín el Grande (Málaga) que factura 55 millones de euros y tiene 157 trabajadores. El grupo combinado llegará a 465 millones de euros y unos 1.600 empleados, y se ubica entre los diez primeros operadores cárnicos de España. El precio no se informó.",
+      "senal": "Cuando dos cárnicas se integran, suelen unificarse especificaciones, auditorías y proveedores, y pueden cambiar los requisitos para quienes les venden.",
+      "fuente": [
+        "FoodRetail",
+        "https://www.foodretail.es/fabricantes/tello-compra-moreno-plaza-para-conformar-un-gigante-carnico-de-465-millones.html"
       ]
     }
   ],
