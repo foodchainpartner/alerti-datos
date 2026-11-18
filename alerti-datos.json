@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-16",
+  "revisado": "2026-11-17",
   "reg": [
     {
       "fecha": "2026-10-20",
@@ -626,25 +626,6 @@
       "fuente": "The Food Tech"
     },
     {
-      "ini": "2026-11-16",
-      "fin": "2026-11-16",
-      "nombre": "Seminario web de la FDA: niveles de acción para cadmio y nuevo borrador sobre peligros químicos",
-      "lugar": "Online · 13:00 a 14:00 en horario de EE.UU. (confirma la zona en la fuente)",
-      "markets": [
-        "us"
-      ],
-      "tipo": "online",
-      "cats": [
-        "cereales",
-        "frescos",
-        "frutos",
-        "cacaocafe"
-      ],
-      "texto": "La FDA explicará el borrador de niveles de acción para cadmio en alimentos para bebés y niños pequeños y el borrador del capítulo de peligros químicos. Es útil si vendes ingredientes o alimentos a EE.UU.",
-      "url": "https://www.afdo.org/federal-register-update-october-23-2026/",
-      "fuente": "AFDO"
-    },
-    {
       "ini": "2026-11-17",
       "fin": "2026-11-19",
       "nombre": "Argentina Alimenta 2026",
@@ -662,16 +643,17 @@
   "plazos": [
     {
       "f": "2026-11-17",
-      "lbl": "Alrededor del 17 nov 2026",
+      "lbl": "17 nov 2026",
       "m": [
         "mx"
       ],
       "tema": "Aditivos",
-      "tit": "México: entra en vigor el nuevo Acuerdo de aditivos y coadyuvantes, con plazos de transición de 6 a 24 meses",
+      "tit": "México: entra en vigor el nuevo Acuerdo de aditivos y coadyuvantes, publicado en el DOF el 21 de agosto, con transición de 6 a 24 meses",
       "fu": [
         "Noticias Gobierno",
         "https://www.noticiasgobierno.com/acuerdo-aditivos-coadyuvantes-alimentos-bebidas-suplementos-2026/"
-      ]
+      ],
+      "pub": "21 ago 2026"
     },
     {
       "f": "2027-03-17",
@@ -680,15 +662,16 @@
         "cl"
       ],
       "tema": "Etiquetado",
-      "tit": "Chile: \"libre de gluten\" solo con resultado de laboratorio de 5 mg/kg o menos",
+      "tit": "Chile: \"libre de gluten\" solo con resultado de laboratorio de 5 mg/kg o menos (otra fuente indica el 18 de marzo)",
       "fu": [
         "Envapack",
         "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
-      ]
+      ],
+      "pub": "4 oct 2026"
     },
     {
-      "f": "2027-11-06",
-      "lbl": "Noviembre 2027",
+      "f": "2027-11-07",
+      "lbl": "7 nov 2027",
       "m": [
         "cl"
       ],
@@ -697,7 +680,8 @@
       "fu": [
         "Envapack",
         "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
-      ]
+      ],
+      "pub": "4 oct 2026"
     },
     {
       "f": "2028-01-01",
@@ -710,7 +694,8 @@
       "fu": [
         "Vinculum",
         "https://vinculum.mx/2025/12/12/fase-3-de-la-nom-051-scfi-ssa1-2010-cambios-para-2026/"
-      ]
+      ],
+      "pub": "17 sep 2026"
     }
   ],
   "ev_futuro": [
