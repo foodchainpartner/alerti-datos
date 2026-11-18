@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-17",
+  "revisado": "2026-11-18",
   "reg": [
     {
       "fecha": "2026-10-20",
@@ -329,6 +329,40 @@
       "fuente": [
         "Boletín Oficial de Argentina, Resolución 952/2026 de SENASA",
         "https://www.boletinoficial.gob.ar/detalleAviso/primera/350357/20261116"
+      ]
+    },
+    {
+      "fecha": "2026-11-06",
+      "titulo": "Chile: el Minsal aplaza 18 meses la entrada en vigencia del decreto de alimentos libres de gluten",
+      "texto": "El Decreto 68 del Ministerio de Salud, publicado en el Diario Oficial el 6 de noviembre, cambia el plazo del decreto 49 de 18 a 36 meses. Ese decreto, publicado en septiembre de 2025, actualiza la definición de libre de gluten, el rotulado y la exhibición en góndolas o espacios exclusivos. Con el cambio, deja de regir en marzo de 2027 y pasa a septiembre de 2028. El gobierno dice que busca tiempo porque la exhibición separada fue difícil de cumplir, sobre todo en locales pequeños, y para tramitar un cambio a la Ley 20.606.",
+      "revisar": "Si vendes productos libres de gluten en Chile, confirma qué fecha usan tu cliente y tu auditor, y no bajes la guardia en el control de contaminación cruzada.",
+      "markets": [
+        "cl"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [],
+      "fuente": [
+        "Diario Oficial de Chile, Decreto 68 del Minsal",
+        "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/06/44592/01/2898984.pdf"
+      ]
+    },
+    {
+      "fecha": "2026-11-17",
+      "titulo": "Panamá aprueba una ley que limita las grasas trans industriales al 2 % de las grasas totales",
+      "texto": "La Ley 564, de fecha 9 de noviembre de 2026, prohíbe los aceites parcialmente hidrogenados y fija un máximo de 2 % de grasas trans industriales sobre el total de grasas. Aplica a alimentos, aceites, ingredientes y materias primas, nacionales e importados. El Ministerio de Salud es la autoridad a cargo. La OPS informó la aprobación el 17 de noviembre; el texto consultado no indica fecha de entrada en vigor.",
+      "revisar": "Si exportas a Panamá, revisa en tus fórmulas si hay aceites parcialmente hidrogenados y pide a tus proveedores el contenido de grasas trans. Confirma la fecha de vigencia en la Gaceta Oficial.",
+      "markets": [
+        "pa"
+      ],
+      "topics": [
+        "limites"
+      ],
+      "cats": [],
+      "fuente": [
+        "OPS/OMS, Panamá aprueba ley para eliminar grasas trans",
+        "https://paho.org/es/noticias/17-11-2026-panama-aprueba-ley-para-eliminar-grasas-trans-produccion-industrial-proteger"
       ]
     }
   ],
@@ -677,6 +711,20 @@
       "texto": "Feria internacional de alimentos y bebidas con ronda de negocios con compradores extranjeros, el Congreso Argentino COPAL y sesiones de INTA. Útil si vendes o compras alimentos en Argentina o quieres exportar desde allí.",
       "url": "https://www.ademi.org.ar/argentina-alimenta-2026/",
       "fuente": "ADEMI"
+    },
+    {
+      "ini": "2027-01-17",
+      "fin": "2027-01-19",
+      "nombre": "Winter FancyFaire 2027 (antes Winter Fancy Food Show)",
+      "lugar": "San Francisco, EE. UU. (Moscone Center)",
+      "markets": [
+        "us"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria de alimentos especiales y gourmet en San Francisco. Útil para exportadores que buscan compradores en EE.UU.",
+      "url": "https://www.marketscale.com/industries/events/winter-fancy-food-show-2027-2027",
+      "fuente": "MarketScale"
     }
   ],
   "plazos": [
@@ -693,20 +741,6 @@
         "https://www.noticiasgobierno.com/acuerdo-aditivos-coadyuvantes-alimentos-bebidas-suplementos-2026/"
       ],
       "pub": "21 ago 2026"
-    },
-    {
-      "f": "2027-03-17",
-      "lbl": "17 mar 2027",
-      "m": [
-        "cl"
-      ],
-      "tema": "Etiquetado",
-      "tit": "Chile: \"libre de gluten\" solo con resultado de laboratorio de 5 mg/kg o menos (otra fuente indica el 18 de marzo)",
-      "fu": [
-        "Envapack",
-        "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
-      ],
-      "pub": "4 oct 2026"
     },
     {
       "f": "2027-11-07",
@@ -735,6 +769,20 @@
         "https://www.envapack.com/2026/09/etiquetado-de-alimentos-en-mexico/"
       ],
       "pub": "17 sep 2026"
+    },
+    {
+      "f": "2028-09-18",
+      "lbl": "Septiembre 2028",
+      "m": [
+        "cl"
+      ],
+      "tema": "Etiquetado",
+      "tit": "Chile: el decreto de alimentos libres de gluten se aplaza de marzo de 2027 a septiembre de 2028 (góndolas exclusivas, rotulado y nueva definición)",
+      "fu": [
+        "Diario Oficial de Chile, Decreto 68 del Minsal",
+        "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/06/44592/01/2898984.pdf"
+      ],
+      "pub": "6 nov 2026"
     }
   ],
   "ev_futuro": [
@@ -830,20 +878,6 @@
       "texto": "Feria de frutas y hortalizas frescas para Latinoamérica.",
       "url": "https://www.foodnewslatam.com/eventos.html",
       "fuente": "FoodNewsLatam"
-    },
-    {
-      "ini": "2027-01-17",
-      "fin": "2027-01-19",
-      "nombre": "Winter FancyFaire 2027 (antes Winter Fancy Food Show)",
-      "lugar": "San Francisco, EE. UU. (Moscone Center)",
-      "markets": [
-        "us"
-      ],
-      "tipo": "sector",
-      "cats": [],
-      "texto": "Feria de alimentos especiales y gourmet en San Francisco. Útil para exportadores que buscan compradores en EE.UU.",
-      "url": "https://www.marketscale.com/industries/events/winter-fancy-food-show-2027-2027",
-      "fuente": "MarketScale"
     },
     {
       "ini": "2027-02-16",
