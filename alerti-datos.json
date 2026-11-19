@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-18",
+  "revisado": "2026-11-19",
   "reg": [
     {
       "fecha": "2026-10-20",
@@ -18,26 +18,6 @@
       "fuente": [
         "InfoAlimentación",
         "https://infoalimentacion.com.ar/2026/10/21/senasa-sigtramites-inscripcion-empaques-frigorificos-vegetales/"
-      ]
-    },
-    {
-      "fecha": "2026-10-19",
-      "titulo": "Brasil: cerró la consulta pública de Anvisa para cambiar el rotulado general de alimentos",
-      "texto": "El 19 de octubre terminó el plazo de la Consulta Pública 1.400/2026, que propone modificar la RDC 727/2022 en tres puntos: cuándo y cómo declarar la cantidad de un ingrediente destacado, la posibilidad de entregar parte de la información obligatoria por medios digitales (como códigos QR) y el rotulado de alimentos irradiados. Sigue el análisis de las contribuciones, una eventual audiencia y la decisión de la directoría colegiada.",
-      "revisar": "Si vendes envasados en Brasil, revisa qué ingredientes destacas en el frente de tus etiquetas y si usas especias o deshidratados irradiados.",
-      "markets": [
-        "br"
-      ],
-      "topics": [
-        "etiquetado",
-        "cambios"
-      ],
-      "cats": [
-        "aditivos"
-      ],
-      "fuente": [
-        "ProcTracker",
-        "https://proctracker.app/blog/anvisa-consulta-publica-1400-rotulagem-alimentos-rdc-727-2026"
       ]
     },
     {
@@ -78,45 +58,6 @@
       "fuente": [
         "AFDO, Federal Register Update",
         "https://www.afdo.org/federal-register-update-october-19-20-2026/"
-      ]
-    },
-    {
-      "fecha": "2026-10-17",
-      "titulo": "EE.UU.: retiro de más de 1,5 millones de libras de carnes listas para consumo por falla de temperatura",
-      "texto": "El USDA-FSIS informó el 17 de octubre el retiro voluntario de Kayem Foods (Chelsea, Massachusetts): más de 100 productos, entre ellos tocino, hot dogs, salchichas, pechuga de pavo y jamón, elaborados entre el 31 de marzo y el 7 de octubre de 2026. El motivo es una posible exposición a temperatura inadecuada por fallas en una cámara de almacenamiento, detectada tras el reporte de un cliente que recibió producto tibio el 1 de octubre. No se mencionan patógenos ni personas enfermas. Se distribuyó en todo EE.UU. y en Hong Kong.",
-      "revisar": "Revisa las alarmas de temperatura de tus cámaras y cómo documentas y evalúas cada desviación.",
-      "markets": [
-        "us"
-      ],
-      "topics": [
-        "micro"
-      ],
-      "cats": [
-        "carnes",
-        "lacteos"
-      ],
-      "fuente": [
-        "Food Safety News",
-        "https://www.foodsafetynews.com/2026/10/more-than-1-5-million-pounds-of-hot-dogs-bacon-sausage-turkey-breasts-and-more-meat-products-of-various-brands-recalled/"
-      ]
-    },
-    {
-      "fecha": "2026-10-19",
-      "titulo": "EE.UU.: la FDA clasifica como Clase I el retiro de quesos de leche cruda Graziers por E. coli O26",
-      "texto": "La FDA clasificó el 19 de octubre como Clase I, su categoría más grave, el retiro voluntario de quesos de leche cruda Graziers de Sierra Nevada Cheese Company (California), anunciado el 28 de septiembre. Alcanza al Monterey Jack, jalapeño jack, cheddar medio y cheddar fuerte, en formatos de venta al detalle, food service y mayoristas, distribuidos en 13 estados. El motivo es la posible presencia de E. coli O26, productora de toxina Shiga. Al 25 de septiembre, los CDC reportaban 13 infecciones en nueve estados, ocho hospitalizaciones y tres casos de síndrome urémico hemolítico, más de la mitad en niños pequeños.",
-      "revisar": "Si exportas o distribuyes quesos de leche cruda o derivados lácteos a EE.UU., revisa tus controles de E. coli productora de toxina Shiga y la trazabilidad por lote.",
-      "markets": [
-        "us"
-      ],
-      "topics": [
-        "micro"
-      ],
-      "cats": [
-        "lacteos"
-      ],
-      "fuente": [
-        "Newsweek",
-        "https://www.newsweek.com/cheese-recall-states-highest-warning-issued-e-coli-12592463"
       ]
     },
     {
@@ -364,6 +305,25 @@
         "OPS/OMS, Panamá aprueba ley para eliminar grasas trans",
         "https://paho.org/es/noticias/17-11-2026-panama-aprueba-ley-para-eliminar-grasas-trans-produccion-industrial-proteger"
       ]
+    },
+    {
+      "fecha": "2026-11-12",
+      "titulo": "EE.UU.: retiran semillas para brotes de dos empresas por posible E. coli y Salmonella",
+      "texto": "Country Creek LLC (marca Country Creek Acres) y Francisco Family Foods retiraron semillas para brotes por posible contaminación con E. coli y Salmonella, según el informe de aplicación de la FDA recogido por Food Safety News el 12 de noviembre. Las entradas del informe no indican lotes, cantidades ni zonas de distribución. El artículo menciona un brote de 16 estados por E. coli y Salmonella que el CDC dio por terminado el 9 de noviembre, pero no aclara si hay relación.",
+      "revisar": "Si importas o procesas brotes o semillas para brotes de origen estadounidense, pregunta a tu proveedor si tiene lotes de estas dos empresas.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "micro"
+      ],
+      "cats": [
+        "frescos"
+      ],
+      "fuente": [
+        "Food Safety News",
+        "https://www.foodsafetynews.com/2026/11/more-sprouting-seeds-recalled-because-of-possible-contamination-with-e-coli-and-salmonella.md"
+      ]
     }
   ],
   "emp": [
@@ -606,6 +566,24 @@
         "FoodRetail",
         "https://www.foodretail.es/fabricantes/tello-compra-moreno-plaza-para-conformar-un-gigante-carnico-de-465-millones.html"
       ]
+    },
+    {
+      "fecha": "2026-11-04",
+      "tipo": "compra",
+      "empresa": "Alicorp / Bonella y Dorina",
+      "markets": [
+        "ec"
+      ],
+      "cats": [
+        "aceites"
+      ],
+      "titulo": "Ecuador: la autoridad de competencia autoriza a Alicorp a quedarse con las margarinas Bonella y Dorina",
+      "texto": "El 4 de noviembre la Superintendencia de Competencia Económica de Ecuador autorizó a Alicorp el control de Florafood Ecuador, que importa y vende las margarinas Bonella y Dorina. Es parte de la compra del negocio de Flora Food Group en unos 30 territorios, por USD 150 millones. Las marcas se suman a 17 que Alicorp ya tiene en el país, y el equipo y la planta se integrarán. La autoridad revisó el acceso de otros fabricantes a la estearina de palma, que provee una empresa del grupo, y no vio efectos importantes en la competencia.",
+      "senal": "Al integrarse marcas y planta, pueden cambiar especificaciones, auditorías y proveedores de aceites y grasas para quienes les venden.",
+      "fuente": [
+        "Vistazo",
+        "https://www.vistazo.com/negocios/empresas/2026-11-04-alicorp-adquiere-bonella-dorina-ecuador-aval-superintendencia-competencia-economica-OD11303159"
+      ]
     }
   ],
   "ev": [
@@ -636,23 +614,6 @@
       "texto": "Qué se puede decir y qué no en declaraciones voluntarias del envase, según la normativa en España. El costo no está informado en la fuente.",
       "url": "https://www.aecoc.es/webinar/requisitos-legales-en-el-uso-de-claims-voluntarios-en-alimentacion-2/",
       "fuente": "AECOC"
-    },
-    {
-      "ini": "2026-11-17",
-      "fin": "2026-11-19",
-      "nombre": "Fi Europe 2026",
-      "lugar": "Fráncfort, Alemania",
-      "markets": [
-        "ue",
-        "es"
-      ],
-      "tipo": "sector",
-      "cats": [
-        "aditivos"
-      ],
-      "texto": "Feria de ingredientes y aditivos alimentarios, con proveedores y tendencias de formulación.",
-      "url": "https://thefoodtech.com/eventos-de-la-industria/",
-      "fuente": "The Food Tech"
     },
     {
       "ini": "2026-11-18",
@@ -699,20 +660,6 @@
       "fuente": "The Food Tech"
     },
     {
-      "ini": "2026-11-17",
-      "fin": "2026-11-19",
-      "nombre": "Argentina Alimenta 2026",
-      "lugar": "Buenos Aires, Argentina (La Rural, Predio Ferial)",
-      "markets": [
-        "ar"
-      ],
-      "tipo": "sector",
-      "cats": [],
-      "texto": "Feria internacional de alimentos y bebidas con ronda de negocios con compradores extranjeros, el Congreso Argentino COPAL y sesiones de INTA. Útil si vendes o compras alimentos en Argentina o quieres exportar desde allí.",
-      "url": "https://www.ademi.org.ar/argentina-alimenta-2026/",
-      "fuente": "ADEMI"
-    },
-    {
       "ini": "2027-01-17",
       "fin": "2027-01-19",
       "nombre": "Winter FancyFaire 2027 (antes Winter Fancy Food Show)",
@@ -728,20 +675,6 @@
     }
   ],
   "plazos": [
-    {
-      "f": "2026-11-17",
-      "lbl": "17 nov 2026",
-      "m": [
-        "mx"
-      ],
-      "tema": "Aditivos",
-      "tit": "México: entra en vigor el nuevo Acuerdo de aditivos y coadyuvantes, publicado en el DOF el 21 de agosto, con transición de 6 a 24 meses",
-      "fu": [
-        "Noticias Gobierno",
-        "https://www.noticiasgobierno.com/acuerdo-aditivos-coadyuvantes-alimentos-bebidas-suplementos-2026/"
-      ],
-      "pub": "21 ago 2026"
-    },
     {
       "f": "2027-11-07",
       "lbl": "7 nov 2027",
@@ -1311,6 +1244,65 @@
           "Eje Central",
           "https://www.ejecentral.com.mx/nuestro-eje/cofepris-publica-nuevas-guias-para-aditivos-y-suplementos-alimenticios-para-que-sirven"
         ]
+      },
+      {
+        "fecha": "2026-10-19",
+        "titulo": "Brasil: cerró la consulta pública de Anvisa para cambiar el rotulado general de alimentos",
+        "texto": "El 19 de octubre terminó el plazo de la Consulta Pública 1.400/2026, que propone modificar la RDC 727/2022 en tres puntos: cuándo y cómo declarar la cantidad de un ingrediente destacado, la posibilidad de entregar parte de la información obligatoria por medios digitales (como códigos QR) y el rotulado de alimentos irradiados. Sigue el análisis de las contribuciones, una eventual audiencia y la decisión de la directoría colegiada.",
+        "revisar": "Si vendes envasados en Brasil, revisa qué ingredientes destacas en el frente de tus etiquetas y si usas especias o deshidratados irradiados.",
+        "markets": [
+          "br"
+        ],
+        "topics": [
+          "etiquetado",
+          "cambios"
+        ],
+        "cats": [
+          "aditivos"
+        ],
+        "fuente": [
+          "ProcTracker",
+          "https://proctracker.app/blog/anvisa-consulta-publica-1400-rotulagem-alimentos-rdc-727-2026"
+        ]
+      },
+      {
+        "fecha": "2026-10-17",
+        "titulo": "EE.UU.: retiro de más de 1,5 millones de libras de carnes listas para consumo por falla de temperatura",
+        "texto": "El USDA-FSIS informó el 17 de octubre el retiro voluntario de Kayem Foods (Chelsea, Massachusetts): más de 100 productos, entre ellos tocino, hot dogs, salchichas, pechuga de pavo y jamón, elaborados entre el 31 de marzo y el 7 de octubre de 2026. El motivo es una posible exposición a temperatura inadecuada por fallas en una cámara de almacenamiento, detectada tras el reporte de un cliente que recibió producto tibio el 1 de octubre. No se mencionan patógenos ni personas enfermas. Se distribuyó en todo EE.UU. y en Hong Kong.",
+        "revisar": "Revisa las alarmas de temperatura de tus cámaras y cómo documentas y evalúas cada desviación.",
+        "markets": [
+          "us"
+        ],
+        "topics": [
+          "micro"
+        ],
+        "cats": [
+          "carnes",
+          "lacteos"
+        ],
+        "fuente": [
+          "Food Safety News",
+          "https://www.foodsafetynews.com/2026/10/more-than-1-5-million-pounds-of-hot-dogs-bacon-sausage-turkey-breasts-and-more-meat-products-of-various-brands-recalled/"
+        ]
+      },
+      {
+        "fecha": "2026-10-19",
+        "titulo": "EE.UU.: la FDA clasifica como Clase I el retiro de quesos de leche cruda Graziers por E. coli O26",
+        "texto": "La FDA clasificó el 19 de octubre como Clase I, su categoría más grave, el retiro voluntario de quesos de leche cruda Graziers de Sierra Nevada Cheese Company (California), anunciado el 28 de septiembre. Alcanza al Monterey Jack, jalapeño jack, cheddar medio y cheddar fuerte, en formatos de venta al detalle, food service y mayoristas, distribuidos en 13 estados. El motivo es la posible presencia de E. coli O26, productora de toxina Shiga. Al 25 de septiembre, los CDC reportaban 13 infecciones en nueve estados, ocho hospitalizaciones y tres casos de síndrome urémico hemolítico, más de la mitad en niños pequeños.",
+        "revisar": "Si exportas o distribuyes quesos de leche cruda o derivados lácteos a EE.UU., revisa tus controles de E. coli productora de toxina Shiga y la trazabilidad por lote.",
+        "markets": [
+          "us"
+        ],
+        "topics": [
+          "micro"
+        ],
+        "cats": [
+          "lacteos"
+        ],
+        "fuente": [
+          "Newsweek",
+          "https://www.newsweek.com/cheese-recall-states-highest-warning-issued-e-coli-12592463"
+        ]
       }
     ],
     "emp": [
@@ -1665,6 +1657,53 @@
         "texto": "Feria de bebidas en la costa caribe colombiana.",
         "url": "https://www.foodnewslatam.com/eventos.html",
         "fuente": "FoodNewsLatam"
+      },
+      {
+        "ini": "2026-11-17",
+        "fin": "2026-11-19",
+        "nombre": "Fi Europe 2026",
+        "lugar": "Fráncfort, Alemania",
+        "markets": [
+          "ue",
+          "es"
+        ],
+        "tipo": "sector",
+        "cats": [
+          "aditivos"
+        ],
+        "texto": "Feria de ingredientes y aditivos alimentarios, con proveedores y tendencias de formulación.",
+        "url": "https://thefoodtech.com/eventos-de-la-industria/",
+        "fuente": "The Food Tech"
+      },
+      {
+        "ini": "2026-11-17",
+        "fin": "2026-11-19",
+        "nombre": "Argentina Alimenta 2026",
+        "lugar": "Buenos Aires, Argentina (La Rural, Predio Ferial)",
+        "markets": [
+          "ar"
+        ],
+        "tipo": "sector",
+        "cats": [],
+        "texto": "Feria internacional de alimentos y bebidas con ronda de negocios con compradores extranjeros, el Congreso Argentino COPAL y sesiones de INTA. Útil si vendes o compras alimentos en Argentina o quieres exportar desde allí.",
+        "url": "https://www.ademi.org.ar/argentina-alimenta-2026/",
+        "fuente": "ADEMI"
+      }
+    ],
+    "plazos": [
+      {
+        "f": "2026-11-17",
+        "lbl": "17 nov 2026",
+        "m": [
+          "mx"
+        ],
+        "tema": "Aditivos",
+        "tit": "México: entra en vigor el nuevo Acuerdo de aditivos y coadyuvantes, publicado en el DOF el 21 de agosto, con transición de 6 a 24 meses",
+        "fu": [
+          "Noticias Gobierno",
+          "https://www.noticiasgobierno.com/acuerdo-aditivos-coadyuvantes-alimentos-bebidas-suplementos-2026/"
+        ],
+        "pub": "21 ago 2026"
       }
     ]
   }
