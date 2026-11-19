@@ -2,178 +2,6 @@
   "revisado": "2026-11-19",
   "reg": [
     {
-      "fecha": "2026-10-20",
-      "titulo": "Argentina: SENASA habilita la inscripción digital de empaques y frigoríficos de frutas y hortalizas",
-      "texto": "SENASA incorporó a SIGTRÁMITES (procedimiento 205) la inscripción de nuevos establecimientos de empaque, molienda y frío de frutas, hortalizas y aromáticas, con autogestión digital. Alcanza empaques, moliendas, frigoríficos y cámaras de frío, de maduración o desverdizado. Se ingresa con clave fiscal de ARCA y requiere croquis con el flujo del proceso, análisis de agua de no más de seis meses y la constancia de habilitación municipal. El arancel es obligatorio y el registro no vence. Es la primera etapa práctica desde que el Decreto 697/2026 pasó el control de alimentos de ANMAT a SENASA.",
-      "revisar": "Si exportas o compras fruta y hortalizas argentinas, confirma que el empaque o frigorífico tenga su inscripción vigente en SENASA y qué número figura.",
-      "markets": [
-        "ar"
-      ],
-      "topics": [
-        "cambios"
-      ],
-      "cats": [
-        "frescos"
-      ],
-      "fuente": [
-        "InfoAlimentación",
-        "https://infoalimentacion.com.ar/2026/10/21/senasa-sigtramites-inscripcion-empaques-frigorificos-vegetales/"
-      ]
-    },
-    {
-      "fecha": "2026-10-21",
-      "titulo": "España: intervienen 30 toneladas de carne blanqueada con agua oxigenada",
-      "texto": "La Guardia Civil informó el 21 de octubre la incautación de 30,5 toneladas de carne en Benaoján (Málaga), tras casi un año de investigación. Según la nota, huesos y espinas de cerdo se remojaban en agua oxigenada industrial al 50 % para que se vieran más blancos y frescos, un uso prohibido en alimentos. También encontraron carne sin refrigeración y sobre suelos sucios. La autoridad sanitaria ordenó cerrar las instalaciones, y el dueño y el jefe de planta están investigados por falsificación de documentos privados y delito contra la salud pública.",
-      "revisar": "Si compras carne o derivados de cerdo con origen en España, revisa cómo verificas la autorización sanitaria de cada proveedor y de su planta.",
-      "markets": [
-        "es"
-      ],
-      "topics": [
-        "fraude",
-        "micro"
-      ],
-      "cats": [
-        "carnes"
-      ],
-      "fuente": [
-        "Que.es",
-        "https://que.es/2026/10/21/alerta-carne-agua-oxigenada-malaga"
-      ]
-    },
-    {
-      "fecha": "2026-10-20",
-      "titulo": "EE.UU.: la FDA publica resultados de muestreo por adulteración en jugo de limón",
-      "texto": "El 20 de octubre la FDA publicó los resultados de su muestreo sobre adulteración por motivación económica (fraude) en jugo de limón, correspondientes a los años fiscales 2023 a 2025.",
-      "revisar": "Si exportas jugos o concentrados cítricos a EE.UU., revisa cómo verificas la autenticidad y el contenido declarado de cada lote.",
-      "markets": [
-        "us"
-      ],
-      "topics": [
-        "fraude"
-      ],
-      "cats": [
-        "jugos",
-        "frescos"
-      ],
-      "fuente": [
-        "AFDO, Federal Register Update",
-        "https://www.afdo.org/federal-register-update-october-19-20-2026/"
-      ]
-    },
-    {
-      "fecha": "2026-10-21",
-      "titulo": "Colombia: el Invima advierte por 14 productos vendidos como suplementos dietarios sin registro sanitario",
-      "texto": "El Invima emitió la Alerta Sanitaria 331-2026 sobre catorce productos ofrecidos como suplementos dietarios para controlar la glucosa, tratar problemas de articulaciones, la próstata o la presión arterial, entre ellos Glyconorm, Diabetna y Carditone. Según la entidad, ninguno tiene registro sanitario vigente ni autorización para comercializarse en Colombia, y los clasificó como fraudulentos. Recomendó suspender su consumo, reportar eventos adversos e informar los puntos de venta, y pidió a las secretarías de salud reforzar la inspección y el retiro.",
-      "revisar": "Si vendes suplementos o alimentos con declaraciones de salud en Colombia, confirma que cada producto tenga registro sanitario vigente y que tus claims coincidan con lo autorizado.",
-      "markets": [
-        "co"
-      ],
-      "topics": [
-        "fraude"
-      ],
-      "cats": [],
-      "fuente": [
-        "Infobae",
-        "https://www.infobae.com/colombia/2026/10/22/invima-advirtio-por-14-suplementos-sin-registro-sanitario-que-se-ofrecen-para-diabetes-articulaciones-y-otros-usos/"
-      ]
-    },
-    {
-      "fecha": "2026-10-23",
-      "titulo": "EE.UU.: la FDA publica borrador de niveles de acción para cadmio en alimentos para bebés y niños pequeños",
-      "texto": "El 23 de octubre la FDA publicó un borrador de guía con niveles de acción para cadmio en alimentos procesados destinados a bebés y niños pequeños, dentro de su iniciativa Closer to Zero. La FDA hará un seminario web sobre el tema el 16 de noviembre.",
-      "revisar": "Si vendes o suministras ingredientes para alimentos infantiles en EE.UU., revisa qué datos de cadmio tienes por lote y proveedor.",
-      "markets": [
-        "us"
-      ],
-      "topics": [
-        "contaminantes"
-      ],
-      "cats": [
-        "cereales",
-        "frescos",
-        "frutos",
-        "cacaocafe"
-      ],
-      "fuente": [
-        "AFDO, actualización del Federal Register del 23 de octubre",
-        "https://www.afdo.org/federal-register-update-october-23-2026/"
-      ]
-    },
-    {
-      "fecha": "2026-10-23",
-      "titulo": "EE.UU.: la FDA publica borrador del capítulo sobre control de peligros químicos en la guía de controles preventivos",
-      "texto": "El 23 de octubre la FDA publicó el borrador del capítulo 12 de su guía de análisis de peligros y controles preventivos basados en riesgo para alimentos humanos, dedicado al control de peligros químicos.",
-      "revisar": "Si exportas alimentos a EE.UU., revisa cómo tu plan de inocuidad identifica y controla los peligros químicos de tus ingredientes.",
-      "markets": [
-        "us"
-      ],
-      "topics": [
-        "cambios"
-      ],
-      "cats": [],
-      "fuente": [
-        "AFDO, actualización del Federal Register del 23 de octubre",
-        "https://www.afdo.org/federal-register-update-october-23-2026/"
-      ]
-    },
-    {
-      "fecha": "2026-10-26",
-      "titulo": "Italia: Emilia-Romagna suspende los tomates cherry crudos en comedores institucionales por un brote de Salmonella",
-      "texto": "Desde julio se han registrado más de 160 infecciones en 10 países europeos, ligadas a tomates cherry y datterini crudos. La cepa se encontró en agua de riego de un productor de Sicilia. Emilia-Romagna prohibió el uso de tomate cherry sin cocinar en comedores de escuelas, hospitales y residencias hasta nuevo aviso.",
-      "revisar": "Si compras o exportas tomate fresco o proveedores europeos de hortalizas, revisa el análisis del agua de riego y la trazabilidad por lote.",
-      "markets": [
-        "ue",
-        "es"
-      ],
-      "topics": [
-        "micro"
-      ],
-      "cats": [
-        "frescos"
-      ],
-      "fuente": [
-        "Food Safety News",
-        "https://foodsafetynews.com/2026/10/tomato-use-suspended-as-italy-tackles-salmonella-outbreak"
-      ]
-    },
-    {
-      "fecha": "2026-10-28",
-      "titulo": "EE.UU.: una opinión jurídica dice que la FDA puede ampliar lo que divulga en brotes sobre la cadena de suministro",
-      "texto": "La oficina del Attorney General opinó que la FDA puede modificar sus reglas para divulgar más información de la cadena de suministro vinculada a brotes de enfermedades transmitidas por alimentos. La FDA venía citando la ley federal para no hacerla pública. Por ahora es una opinión que habilita el cambio, no una norma modificada.",
-      "revisar": "Si vendes a EE.UU., revisa si puedes reconstruir rápido, por lote, quién te vende y a quién vendes.",
-      "markets": [
-        "us"
-      ],
-      "topics": [
-        "cambios"
-      ],
-      "cats": [],
-      "fuente": [
-        "Food Safety News",
-        "https://foodsafetynews.com/2026/10/attorney-general-says-fda-can-alter-regs-regarding-release-of-information-related-to-outbreak-investigations"
-      ]
-    },
-    {
-      "fecha": "2026-10-29",
-      "titulo": "EE.UU.: HHS y la FDA anuncian la primera gran actualización de los estándares de fórmula infantil en casi 30 años",
-      "texto": "El 29 de octubre se anunció una revisión de los estándares de fórmula infantil. La FDA también creó un panel sobre contaminantes químicos en estas fórmulas y actualizó sus resultados de análisis, con datos por marca de 2026, 2025 y los años fiscales 2023 a 2025. El texto disponible no detalla qué cambiará ni los plazos.",
-      "revisar": "Si vendes ingredientes lácteos, aceites o nutrientes para fórmulas infantiles en EE.UU., revisa qué datos de contaminantes tienes por lote y proveedor.",
-      "markets": [
-        "us"
-      ],
-      "topics": [
-        "cambios"
-      ],
-      "cats": [
-        "lacteos",
-        "aceites"
-      ],
-      "fuente": [
-        "AFDO, actualización del Federal Register del 30 de octubre",
-        "https://www.afdo.org/federal-register-update-october-30-2026/"
-      ]
-    },
-    {
       "fecha": "2026-11-04",
       "titulo": "EE.UU.: la FDA suma una canela molida Wise Wife a su lista de 21 productos con plomo elevado",
       "texto": "El 4 de noviembre la FDA agregó la canela molida Wise Wife (SLR Food Distribution, Nueva York) a su lista de canelas con niveles altos de plomo, que ya suma 21 productos con entre 2,03 y 7,68 ppm. Es su tercera alerta de salud pública del año sobre canela molida, centrada en bebés y niños pequeños. La FDA seguirá revisando muestras de los estados y actualizará la lista si encuentra más.",
@@ -324,156 +152,29 @@
         "Food Safety News",
         "https://www.foodsafetynews.com/2026/11/more-sprouting-seeds-recalled-because-of-possible-contamination-with-e-coli-and-salmonella.md"
       ]
+    },
+    {
+      "fecha": "2026-11-14",
+      "titulo": "EE.UU.: galletas (biscuits) con posible Listeria obligan a retirar sándwiches y activan una alerta del USDA por productos cárnicos que las contienen",
+      "texto": "C.H. Guenther & Son retiró galletas por posible Listeria monocytogenes. Fresh & Ready Foods retiró 2.414 sándwiches de salchicha, huevo y queso que las usaban, vendidos en Oregón y Washington entre el 25 de octubre y el 4 de noviembre. El 14 de noviembre el servicio de inspección de carnes del USDA emitió una alerta por productos cárnicos listos para comer que contienen esas galletas, y advierte que pueden identificarse más. No hay enfermedades confirmadas.",
+      "revisar": "Si usas masas, galletas o panificados de un proveedor estadounidense como ingrediente, pregunta si compró a C.H. Guenther y revisa tu trazabilidad por lote.",
+      "markets": [
+        "us"
+      ],
+      "topics": [
+        "micro"
+      ],
+      "cats": [
+        "cereales",
+        "carnes"
+      ],
+      "fuente": [
+        "Food Safety News",
+        "https://www.foodsafetynews.com/2026/11/usda-issues-alert-for-biscuit-and-sausage-gravy-products-because-of-listeria-risk/"
+      ]
     }
   ],
   "emp": [
-    {
-      "fecha": "2026-10-23",
-      "tipo": "compra",
-      "empresa": "Grupo Nutresa / Presto",
-      "markets": [
-        "co"
-      ],
-      "cats": [
-        "carnes",
-        "cereales"
-      ],
-      "titulo": "Colombia: Nutresa firma la compra de la cadena Presto",
-      "texto": "Grupo Nutresa firmó el contrato para comprar Presto, que estaba en liquidación judicial tras incumplir su acuerdo de reorganización. La compra incluye la marca, los puntos de venta, la planta y los centros de producción. Se preservan unos 700 empleos. Nutresa dijo que definirá en las próximas semanas un plan para fortalecer la marca. Presto conservará su identidad dentro del portafolio de Alimentos al Consumidor.",
-      "senal": "Una planta y centros de producción cambian de dueño: es un momento típico para revisar proveedores, especificaciones y sistema de calidad.",
-      "fuente": [
-        "El Heraldo",
-        "https://www.elheraldo.co/economia/2026/10/23/ministro-de-comercio-destaca-compra-de-presto-por-nutresa-y-preservacion-de-700-empleos/"
-      ]
-    },
-    {
-      "fecha": "2026-10-23",
-      "tipo": "senal",
-      "empresa": "Grupo Bimbo",
-      "markets": [
-        "mx"
-      ],
-      "cats": [
-        "cereales"
-      ],
-      "titulo": "México: Bimbo no descarta nuevas adquisiciones y deja proyectos para 2027",
-      "texto": "En la llamada con analistas del tercer trimestre, la directiva de Grupo Bimbo dijo que, si aparece una oportunidad, usará su nivel actual de apalancamiento para una adquisición complementaria o una operación estratégica, sin anunciar ninguna. También trasladó algunos proyectos de inversión a 2027. La inversión prevista para 2026 sigue entre 1.000 y 1.200 millones de dólares.",
-      "senal": "Es una intención declarada, no una operación. Sirve para saber qué empresas están mirando comprar.",
-      "fuente": [
-        "El CEO",
-        "https://elceo.com/negocios/grupo-bimbo-aplaza-proyectos-para-2027-y-no-descarta-nuevas-adquisiciones/"
-      ]
-    },
-    {
-      "fecha": "2026-10-22",
-      "tipo": "compra",
-      "empresa": "Cepêra / Karambi Alimentos",
-      "markets": [
-        "br"
-      ],
-      "cats": [
-        "frescos",
-        "aditivos"
-      ],
-      "titulo": "Brasil: Cepêra compra el control de Karambi Alimentos, dueña de la marca Colonial",
-      "texto": "La empresa brasileña Cepêra, fundada en 1947, compró el control de Karambi Alimentos, que produce salsas, extractos de tomate y condimentos en Itacarambi (Minas Gerais). El contrato está firmado y el cierre se espera entre octubre y noviembre de 2026. El valor no se informó.",
-      "senal": "Tras el cierre se integran plantas y proveedores. Suele abrir revisiones de calidad y de materias primas.",
-      "fuente": [
-        "SuperHiper",
-        "https://www.superhiper.com.br/cepera-compra-o-controle-da-karambi-alimentos/"
-      ]
-    },
-    {
-      "fecha": "2026-10-21",
-      "tipo": "compra",
-      "empresa": "DHS Ventures / Pasco",
-      "markets": [
-        "ar"
-      ],
-      "cats": [
-        "cereales"
-      ],
-      "titulo": "Argentina: un fondo de capital privado anuncia la compra de Pasco por US$ 375 millones",
-      "texto": "DHS Ventures & Holdings, con sede en Washington, anunció la compra de una participación de control en Pasco (pastas, galletitas y bebidas en polvo; marcas Zoo, Hot Cracker y Lamen), a través de Zanca Investimentos. Pasco tiene 3.200 empleados. El acuerdo está anunciado, aún no cerrado, y se espera que termine más adelante este año. La información viene de un comunicado de la propia compradora.",
-      "senal": "Un fondo nuevo en el rubro suele pedir diagnóstico regulatorio y de calidad antes y después del cierre.",
-      "fuente": [
-        "Comunicado de DHS Ventures (techfinancials.co.za)",
-        "https://techfinancials.co.za/2026/10/21/fernando-aguirre-vice-chairman-of-dhs-ventures-announces-expansion-in-south-america-with-375m-acquisition-of-argentinian-company/"
-      ]
-    },
-    {
-      "fecha": "2026-10-20",
-      "tipo": "inversion",
-      "empresa": "Familia Martínez",
-      "markets": [
-        "es"
-      ],
-      "cats": [
-        "carnes",
-        "lacteos"
-      ],
-      "titulo": "España: Familia Martínez invertirá 95 millones más hasta 2030 en platos preparados",
-      "texto": "La empresa de Buñol (Valencia) sumará 95 millones de euros a los 150 millones de su plan 2025-2026. Construirá una planta de asados de unos 17.000 m² con capacidad para 36.000 toneladas al año, en cuatro etapas entre 2027 y 2030, y ampliará su capacidad de gratinados. Creará al menos 100 empleos.",
-      "senal": "Una planta nueva implica nuevos proveedores, nuevas líneas y validaciones.",
-      "fuente": [
-        "Financial Food",
-        "https://financialfood.es/familia-martinez-invertira-95-millones-mas-hasta-2030-para-ampliar-su-capacidad-industrial-en-platos-preparados/"
-      ]
-    },
-    {
-      "fecha": "2026-10-20",
-      "tipo": "compra",
-      "empresa": "Commercial Bakeries / Partners",
-      "markets": [
-        "us",
-        "ca"
-      ],
-      "cats": [
-        "cereales"
-      ],
-      "titulo": "EE.UU. y Canadá: Commercial Bakeries compra al fabricante de galletas saladas Partners",
-      "texto": "Commercial Bakeries, de Toronto, compró Partners, fabricante estadounidense de galletas saladas premium y de perfil saludable, con marca privada, manufactura por contrato y suministro a clientes industriales en Norteamérica. La producción es en una panadería en Des Moines (Washington). No se informaron los términos. Es la tercera adquisición de Commercial Bakeries desde que Graham Partners tomó su propiedad en 2023.",
-      "senal": "Los proveedores de harinas, semillas y otros insumos de Partners pueden recibir cambios de volumen o de especificaciones tras la integración.",
-      "fuente": [
-        "Just Food",
-        "https://www.just-food.com/news/commercial-bakeries-adds-acquisitions-partners/"
-      ]
-    },
-    {
-      "fecha": "2026-10-22",
-      "tipo": "compra",
-      "empresa": "Fine Choice Foods (Summ!) / Power Sustainable Lios",
-      "markets": [
-        "us",
-        "ca"
-      ],
-      "cats": [],
-      "titulo": "Canadá y EE.UU.: Swander Pace Capital vende Fine Choice Foods, dueña de la marca Summ!, a Power Sustainable Lios",
-      "texto": "Swander Pace Capital vendió Fine Choice Foods, que fabrica aperitivos y comidas frescas y congeladas de inspiración asiática (rollitos de primavera, gyozas y bao buns) con la marca Summ!. Fundada en 1986 en Vancouver, abastece a Canadá y EE.UU. desde dos plantas. El comprador es Power Sustainable Lios. No se informó el monto.",
-      "senal": "Un cambio de dueño de fondo de inversión suele traer revisión de proveedores y de costos; conviene hablar con sus compradores antes de la próxima negociación.",
-      "fuente": [
-        "Food Processing",
-        "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55413775/fine-choice-foods-summ-brand-switches-pe-firm-ownership"
-      ]
-    },
-    {
-      "fecha": "2026-10-27",
-      "tipo": "compra",
-      "empresa": "Inversora Juramento / El Quebrachal",
-      "markets": [
-        "ar"
-      ],
-      "cats": [
-        "carnes"
-      ],
-      "titulo": "Argentina: Inversora Juramento compra El Quebrachal y la Estancia Lote 5 para ampliar su carne premium",
-      "texto": "Inversora Juramento adquirió el 100% de El Quebrachal S.A. y la Estancia Lote 5 por US$ 22,8 millones. El campo tiene más de 10.800 hectáreas y un rodeo de cría de 4.000 cabezas Brangus colorado. Apoya sus marcas de carne premium Cabaña Juramento y Bermejo, que exporta desde el Frigorífico Bermejo.",
-      "senal": "Una empresa exportadora de carne asegura más hacienda propia: es un momento para revisar origen, trazabilidad y requisitos de cada mercado destino.",
-      "fuente": [
-        "LexLatin",
-        "https://lexlatin.com/noticias/inversora-juramento-expande-su-negocio-de-carne-premium-tras-comprar-estancia-lote-5-y-el"
-      ]
-    },
     {
       "fecha": "2026-11-03",
       "tipo": "compra",
@@ -495,58 +196,6 @@
       "fuente": [
         "Forbes Perú",
         "https://forbes.pe/negocios/2026-11-03/alicorp-adquiere-flora-food-por-us1505-millones-y-suma-19-marcas-a-su-portafolio-regional/"
-      ]
-    },
-    {
-      "fecha": "2026-10-31",
-      "tipo": "inversion",
-      "empresa": "Holding Arca",
-      "markets": [
-        "cl"
-      ],
-      "cats": [],
-      "titulo": "Chile: Holding Arca proyecta una planta de alimentos de unos US$ 10 millones en Punta Arenas",
-      "texto": "Holding Arca proyecta una planta de alimentos de unos US$ 10 millones en Punta Arenas, con operación prevista en 18 a 24 meses.",
-      "senal": "Una planta nueva en la zona austral suma capacidad regional y proveedores locales, y exige definir proveedores y requisitos desde el inicio.",
-      "fuente": [
-        "Flavorist, resumen de negocios en Sudamérica (16 al 31 de octubre de 2026)",
-        "https://www.flavorist.com/south-america-food-flavor-industry-business-news-report-october-16-31-2026/"
-      ]
-    },
-    {
-      "fecha": "2026-10-21",
-      "tipo": "inversion",
-      "empresa": "SolFrut",
-      "markets": [
-        "ar"
-      ],
-      "cats": [
-        "frutos"
-      ],
-      "titulo": "Argentina: SolFrut invertirá US$ 19,5 millones entre 2026 y 2028 en procesamiento de alimentos y pistacho en San Juan",
-      "texto": "SolFrut anunció una inversión de US$ 19,5 millones entre 2026 y 2028 en procesamiento de alimentos y en pistacho, en la provincia de San Juan.",
-      "senal": "Más producción de frutos secos y su procesamiento suele traer nuevas exigencias de trazabilidad y control de contaminantes como aflatoxinas.",
-      "fuente": [
-        "Flavorist, resumen de negocios en Sudamérica (16 al 31 de octubre de 2026)",
-        "https://www.flavorist.com/south-america-food-flavor-industry-business-news-report-october-16-31-2026/"
-      ]
-    },
-    {
-      "fecha": "2026-10-30",
-      "tipo": "compra",
-      "empresa": "Aurora Coop / Mar & Terra",
-      "markets": [
-        "br"
-      ],
-      "cats": [
-        "pescados"
-      ],
-      "titulo": "Brasil: Aurora Coop compra activos del complejo pesquero Mar & Terra, en Mato Grosso do Sul",
-      "texto": "Aurora Coop adquirió activos del complejo pesquero Mar & Terra, en Mato Grosso do Sul, para ampliar su producción de pescado.",
-      "senal": "Cuando una cooperativa amplía su producción de pescado, suelen revisarse origen, trazabilidad y requisitos sanitarios de los mercados de exportación.",
-      "fuente": [
-        "Flavorist, resumen de negocios en Sudamérica (16 al 31 de octubre de 2026)",
-        "https://www.flavorist.com/south-america-food-flavor-industry-business-news-report-october-16-31-2026/"
       ]
     },
     {
@@ -663,6 +312,20 @@
     }
   ],
   "plazos": [
+    {
+      "f": "2027-04-01",
+      "lbl": "1 abr 2027",
+      "m": [
+        "ec"
+      ],
+      "tema": "Suplementos",
+      "tit": "Ecuador: nuevas reglas para suplementos alimenticios (vitaminas y minerales con al menos 15 % de la ingesta diaria, representante técnico, control de calidad y notificación sanitaria)",
+      "fu": [
+        "Revista Zona Libre, Resolución ARCSA-DE-2026-021-DASP",
+        "https://www.revistazonalibre.ec/2026/11/18/ecuador-cambia-las-reglas-para-los-suplementos-alimenticios-en-pleno-crecimiento-del-consumo/"
+      ],
+      "pub": "1 oct 2026"
+    },
     {
       "f": "2027-11-07",
       "lbl": "7 nov 2027",
@@ -1291,6 +954,178 @@
           "Newsweek",
           "https://www.newsweek.com/cheese-recall-states-highest-warning-issued-e-coli-12592463"
         ]
+      },
+      {
+        "fecha": "2026-10-20",
+        "titulo": "Argentina: SENASA habilita la inscripción digital de empaques y frigoríficos de frutas y hortalizas",
+        "texto": "SENASA incorporó a SIGTRÁMITES (procedimiento 205) la inscripción de nuevos establecimientos de empaque, molienda y frío de frutas, hortalizas y aromáticas, con autogestión digital. Alcanza empaques, moliendas, frigoríficos y cámaras de frío, de maduración o desverdizado. Se ingresa con clave fiscal de ARCA y requiere croquis con el flujo del proceso, análisis de agua de no más de seis meses y la constancia de habilitación municipal. El arancel es obligatorio y el registro no vence. Es la primera etapa práctica desde que el Decreto 697/2026 pasó el control de alimentos de ANMAT a SENASA.",
+        "revisar": "Si exportas o compras fruta y hortalizas argentinas, confirma que el empaque o frigorífico tenga su inscripción vigente en SENASA y qué número figura.",
+        "markets": [
+          "ar"
+        ],
+        "topics": [
+          "cambios"
+        ],
+        "cats": [
+          "frescos"
+        ],
+        "fuente": [
+          "InfoAlimentación",
+          "https://infoalimentacion.com.ar/2026/10/21/senasa-sigtramites-inscripcion-empaques-frigorificos-vegetales/"
+        ]
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "España: intervienen 30 toneladas de carne blanqueada con agua oxigenada",
+        "texto": "La Guardia Civil informó el 21 de octubre la incautación de 30,5 toneladas de carne en Benaoján (Málaga), tras casi un año de investigación. Según la nota, huesos y espinas de cerdo se remojaban en agua oxigenada industrial al 50 % para que se vieran más blancos y frescos, un uso prohibido en alimentos. También encontraron carne sin refrigeración y sobre suelos sucios. La autoridad sanitaria ordenó cerrar las instalaciones, y el dueño y el jefe de planta están investigados por falsificación de documentos privados y delito contra la salud pública.",
+        "revisar": "Si compras carne o derivados de cerdo con origen en España, revisa cómo verificas la autorización sanitaria de cada proveedor y de su planta.",
+        "markets": [
+          "es"
+        ],
+        "topics": [
+          "fraude",
+          "micro"
+        ],
+        "cats": [
+          "carnes"
+        ],
+        "fuente": [
+          "Que.es",
+          "https://que.es/2026/10/21/alerta-carne-agua-oxigenada-malaga"
+        ]
+      },
+      {
+        "fecha": "2026-10-20",
+        "titulo": "EE.UU.: la FDA publica resultados de muestreo por adulteración en jugo de limón",
+        "texto": "El 20 de octubre la FDA publicó los resultados de su muestreo sobre adulteración por motivación económica (fraude) en jugo de limón, correspondientes a los años fiscales 2023 a 2025.",
+        "revisar": "Si exportas jugos o concentrados cítricos a EE.UU., revisa cómo verificas la autenticidad y el contenido declarado de cada lote.",
+        "markets": [
+          "us"
+        ],
+        "topics": [
+          "fraude"
+        ],
+        "cats": [
+          "jugos",
+          "frescos"
+        ],
+        "fuente": [
+          "AFDO, Federal Register Update",
+          "https://www.afdo.org/federal-register-update-october-19-20-2026/"
+        ]
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "Colombia: el Invima advierte por 14 productos vendidos como suplementos dietarios sin registro sanitario",
+        "texto": "El Invima emitió la Alerta Sanitaria 331-2026 sobre catorce productos ofrecidos como suplementos dietarios para controlar la glucosa, tratar problemas de articulaciones, la próstata o la presión arterial, entre ellos Glyconorm, Diabetna y Carditone. Según la entidad, ninguno tiene registro sanitario vigente ni autorización para comercializarse en Colombia, y los clasificó como fraudulentos. Recomendó suspender su consumo, reportar eventos adversos e informar los puntos de venta, y pidió a las secretarías de salud reforzar la inspección y el retiro.",
+        "revisar": "Si vendes suplementos o alimentos con declaraciones de salud en Colombia, confirma que cada producto tenga registro sanitario vigente y que tus claims coincidan con lo autorizado.",
+        "markets": [
+          "co"
+        ],
+        "topics": [
+          "fraude"
+        ],
+        "cats": [],
+        "fuente": [
+          "Infobae",
+          "https://www.infobae.com/colombia/2026/10/22/invima-advirtio-por-14-suplementos-sin-registro-sanitario-que-se-ofrecen-para-diabetes-articulaciones-y-otros-usos/"
+        ]
+      },
+      {
+        "fecha": "2026-10-23",
+        "titulo": "EE.UU.: la FDA publica borrador de niveles de acción para cadmio en alimentos para bebés y niños pequeños",
+        "texto": "El 23 de octubre la FDA publicó un borrador de guía con niveles de acción para cadmio en alimentos procesados destinados a bebés y niños pequeños, dentro de su iniciativa Closer to Zero. La FDA hará un seminario web sobre el tema el 16 de noviembre.",
+        "revisar": "Si vendes o suministras ingredientes para alimentos infantiles en EE.UU., revisa qué datos de cadmio tienes por lote y proveedor.",
+        "markets": [
+          "us"
+        ],
+        "topics": [
+          "contaminantes"
+        ],
+        "cats": [
+          "cereales",
+          "frescos",
+          "frutos",
+          "cacaocafe"
+        ],
+        "fuente": [
+          "AFDO, actualización del Federal Register del 23 de octubre",
+          "https://www.afdo.org/federal-register-update-october-23-2026/"
+        ]
+      },
+      {
+        "fecha": "2026-10-23",
+        "titulo": "EE.UU.: la FDA publica borrador del capítulo sobre control de peligros químicos en la guía de controles preventivos",
+        "texto": "El 23 de octubre la FDA publicó el borrador del capítulo 12 de su guía de análisis de peligros y controles preventivos basados en riesgo para alimentos humanos, dedicado al control de peligros químicos.",
+        "revisar": "Si exportas alimentos a EE.UU., revisa cómo tu plan de inocuidad identifica y controla los peligros químicos de tus ingredientes.",
+        "markets": [
+          "us"
+        ],
+        "topics": [
+          "cambios"
+        ],
+        "cats": [],
+        "fuente": [
+          "AFDO, actualización del Federal Register del 23 de octubre",
+          "https://www.afdo.org/federal-register-update-october-23-2026/"
+        ]
+      },
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Italia: Emilia-Romagna suspende los tomates cherry crudos en comedores institucionales por un brote de Salmonella",
+        "texto": "Desde julio se han registrado más de 160 infecciones en 10 países europeos, ligadas a tomates cherry y datterini crudos. La cepa se encontró en agua de riego de un productor de Sicilia. Emilia-Romagna prohibió el uso de tomate cherry sin cocinar en comedores de escuelas, hospitales y residencias hasta nuevo aviso.",
+        "revisar": "Si compras o exportas tomate fresco o proveedores europeos de hortalizas, revisa el análisis del agua de riego y la trazabilidad por lote.",
+        "markets": [
+          "ue",
+          "es"
+        ],
+        "topics": [
+          "micro"
+        ],
+        "cats": [
+          "frescos"
+        ],
+        "fuente": [
+          "Food Safety News",
+          "https://foodsafetynews.com/2026/10/tomato-use-suspended-as-italy-tackles-salmonella-outbreak"
+        ]
+      },
+      {
+        "fecha": "2026-10-28",
+        "titulo": "EE.UU.: una opinión jurídica dice que la FDA puede ampliar lo que divulga en brotes sobre la cadena de suministro",
+        "texto": "La oficina del Attorney General opinó que la FDA puede modificar sus reglas para divulgar más información de la cadena de suministro vinculada a brotes de enfermedades transmitidas por alimentos. La FDA venía citando la ley federal para no hacerla pública. Por ahora es una opinión que habilita el cambio, no una norma modificada.",
+        "revisar": "Si vendes a EE.UU., revisa si puedes reconstruir rápido, por lote, quién te vende y a quién vendes.",
+        "markets": [
+          "us"
+        ],
+        "topics": [
+          "cambios"
+        ],
+        "cats": [],
+        "fuente": [
+          "Food Safety News",
+          "https://foodsafetynews.com/2026/10/attorney-general-says-fda-can-alter-regs-regarding-release-of-information-related-to-outbreak-investigations"
+        ]
+      },
+      {
+        "fecha": "2026-10-29",
+        "titulo": "EE.UU.: HHS y la FDA anuncian la primera gran actualización de los estándares de fórmula infantil en casi 30 años",
+        "texto": "El 29 de octubre se anunció una revisión de los estándares de fórmula infantil. La FDA también creó un panel sobre contaminantes químicos en estas fórmulas y actualizó sus resultados de análisis, con datos por marca de 2026, 2025 y los años fiscales 2023 a 2025. El texto disponible no detalla qué cambiará ni los plazos.",
+        "revisar": "Si vendes ingredientes lácteos, aceites o nutrientes para fórmulas infantiles en EE.UU., revisa qué datos de contaminantes tienes por lote y proveedor.",
+        "markets": [
+          "us"
+        ],
+        "topics": [
+          "cambios"
+        ],
+        "cats": [
+          "lacteos",
+          "aceites"
+        ],
+        "fuente": [
+          "AFDO, actualización del Federal Register del 30 de octubre",
+          "https://www.afdo.org/federal-register-update-october-30-2026/"
+        ]
       }
     ],
     "emp": [
@@ -1402,6 +1237,205 @@
         "fuente": [
           "Halcones y Palomas",
           "https://www.halconesypalomas.com/2026/10/09/fruco-negocio-de-alimentos-de-unilever-sera-adquirido-por-una-holding-en-la-que-mccormick-de-e-u-tambien-tendra-participacion-accionaria/"
+        ]
+      },
+      {
+        "fecha": "2026-10-23",
+        "tipo": "compra",
+        "empresa": "Grupo Nutresa / Presto",
+        "markets": [
+          "co"
+        ],
+        "cats": [
+          "carnes",
+          "cereales"
+        ],
+        "titulo": "Colombia: Nutresa firma la compra de la cadena Presto",
+        "texto": "Grupo Nutresa firmó el contrato para comprar Presto, que estaba en liquidación judicial tras incumplir su acuerdo de reorganización. La compra incluye la marca, los puntos de venta, la planta y los centros de producción. Se preservan unos 700 empleos. Nutresa dijo que definirá en las próximas semanas un plan para fortalecer la marca. Presto conservará su identidad dentro del portafolio de Alimentos al Consumidor.",
+        "senal": "Una planta y centros de producción cambian de dueño: es un momento típico para revisar proveedores, especificaciones y sistema de calidad.",
+        "fuente": [
+          "El Heraldo",
+          "https://www.elheraldo.co/economia/2026/10/23/ministro-de-comercio-destaca-compra-de-presto-por-nutresa-y-preservacion-de-700-empleos/"
+        ]
+      },
+      {
+        "fecha": "2026-10-23",
+        "tipo": "senal",
+        "empresa": "Grupo Bimbo",
+        "markets": [
+          "mx"
+        ],
+        "cats": [
+          "cereales"
+        ],
+        "titulo": "México: Bimbo no descarta nuevas adquisiciones y deja proyectos para 2027",
+        "texto": "En la llamada con analistas del tercer trimestre, la directiva de Grupo Bimbo dijo que, si aparece una oportunidad, usará su nivel actual de apalancamiento para una adquisición complementaria o una operación estratégica, sin anunciar ninguna. También trasladó algunos proyectos de inversión a 2027. La inversión prevista para 2026 sigue entre 1.000 y 1.200 millones de dólares.",
+        "senal": "Es una intención declarada, no una operación. Sirve para saber qué empresas están mirando comprar.",
+        "fuente": [
+          "El CEO",
+          "https://elceo.com/negocios/grupo-bimbo-aplaza-proyectos-para-2027-y-no-descarta-nuevas-adquisiciones/"
+        ]
+      },
+      {
+        "fecha": "2026-10-22",
+        "tipo": "compra",
+        "empresa": "Cepêra / Karambi Alimentos",
+        "markets": [
+          "br"
+        ],
+        "cats": [
+          "frescos",
+          "aditivos"
+        ],
+        "titulo": "Brasil: Cepêra compra el control de Karambi Alimentos, dueña de la marca Colonial",
+        "texto": "La empresa brasileña Cepêra, fundada en 1947, compró el control de Karambi Alimentos, que produce salsas, extractos de tomate y condimentos en Itacarambi (Minas Gerais). El contrato está firmado y el cierre se espera entre octubre y noviembre de 2026. El valor no se informó.",
+        "senal": "Tras el cierre se integran plantas y proveedores. Suele abrir revisiones de calidad y de materias primas.",
+        "fuente": [
+          "SuperHiper",
+          "https://www.superhiper.com.br/cepera-compra-o-controle-da-karambi-alimentos/"
+        ]
+      },
+      {
+        "fecha": "2026-10-21",
+        "tipo": "compra",
+        "empresa": "DHS Ventures / Pasco",
+        "markets": [
+          "ar"
+        ],
+        "cats": [
+          "cereales"
+        ],
+        "titulo": "Argentina: un fondo de capital privado anuncia la compra de Pasco por US$ 375 millones",
+        "texto": "DHS Ventures & Holdings, con sede en Washington, anunció la compra de una participación de control en Pasco (pastas, galletitas y bebidas en polvo; marcas Zoo, Hot Cracker y Lamen), a través de Zanca Investimentos. Pasco tiene 3.200 empleados. El acuerdo está anunciado, aún no cerrado, y se espera que termine más adelante este año. La información viene de un comunicado de la propia compradora.",
+        "senal": "Un fondo nuevo en el rubro suele pedir diagnóstico regulatorio y de calidad antes y después del cierre.",
+        "fuente": [
+          "Comunicado de DHS Ventures (techfinancials.co.za)",
+          "https://techfinancials.co.za/2026/10/21/fernando-aguirre-vice-chairman-of-dhs-ventures-announces-expansion-in-south-america-with-375m-acquisition-of-argentinian-company/"
+        ]
+      },
+      {
+        "fecha": "2026-10-20",
+        "tipo": "inversion",
+        "empresa": "Familia Martínez",
+        "markets": [
+          "es"
+        ],
+        "cats": [
+          "carnes",
+          "lacteos"
+        ],
+        "titulo": "España: Familia Martínez invertirá 95 millones más hasta 2030 en platos preparados",
+        "texto": "La empresa de Buñol (Valencia) sumará 95 millones de euros a los 150 millones de su plan 2025-2026. Construirá una planta de asados de unos 17.000 m² con capacidad para 36.000 toneladas al año, en cuatro etapas entre 2027 y 2030, y ampliará su capacidad de gratinados. Creará al menos 100 empleos.",
+        "senal": "Una planta nueva implica nuevos proveedores, nuevas líneas y validaciones.",
+        "fuente": [
+          "Financial Food",
+          "https://financialfood.es/familia-martinez-invertira-95-millones-mas-hasta-2030-para-ampliar-su-capacidad-industrial-en-platos-preparados/"
+        ]
+      },
+      {
+        "fecha": "2026-10-20",
+        "tipo": "compra",
+        "empresa": "Commercial Bakeries / Partners",
+        "markets": [
+          "us",
+          "ca"
+        ],
+        "cats": [
+          "cereales"
+        ],
+        "titulo": "EE.UU. y Canadá: Commercial Bakeries compra al fabricante de galletas saladas Partners",
+        "texto": "Commercial Bakeries, de Toronto, compró Partners, fabricante estadounidense de galletas saladas premium y de perfil saludable, con marca privada, manufactura por contrato y suministro a clientes industriales en Norteamérica. La producción es en una panadería en Des Moines (Washington). No se informaron los términos. Es la tercera adquisición de Commercial Bakeries desde que Graham Partners tomó su propiedad en 2023.",
+        "senal": "Los proveedores de harinas, semillas y otros insumos de Partners pueden recibir cambios de volumen o de especificaciones tras la integración.",
+        "fuente": [
+          "Just Food",
+          "https://www.just-food.com/news/commercial-bakeries-adds-acquisitions-partners/"
+        ]
+      },
+      {
+        "fecha": "2026-10-22",
+        "tipo": "compra",
+        "empresa": "Fine Choice Foods (Summ!) / Power Sustainable Lios",
+        "markets": [
+          "us",
+          "ca"
+        ],
+        "cats": [],
+        "titulo": "Canadá y EE.UU.: Swander Pace Capital vende Fine Choice Foods, dueña de la marca Summ!, a Power Sustainable Lios",
+        "texto": "Swander Pace Capital vendió Fine Choice Foods, que fabrica aperitivos y comidas frescas y congeladas de inspiración asiática (rollitos de primavera, gyozas y bao buns) con la marca Summ!. Fundada en 1986 en Vancouver, abastece a Canadá y EE.UU. desde dos plantas. El comprador es Power Sustainable Lios. No se informó el monto.",
+        "senal": "Un cambio de dueño de fondo de inversión suele traer revisión de proveedores y de costos; conviene hablar con sus compradores antes de la próxima negociación.",
+        "fuente": [
+          "Food Processing",
+          "https://www.foodprocessing.com/business-of-food-beverage/mergers-acquisitions/news/55413775/fine-choice-foods-summ-brand-switches-pe-firm-ownership"
+        ]
+      },
+      {
+        "fecha": "2026-10-27",
+        "tipo": "compra",
+        "empresa": "Inversora Juramento / El Quebrachal",
+        "markets": [
+          "ar"
+        ],
+        "cats": [
+          "carnes"
+        ],
+        "titulo": "Argentina: Inversora Juramento compra El Quebrachal y la Estancia Lote 5 para ampliar su carne premium",
+        "texto": "Inversora Juramento adquirió el 100% de El Quebrachal S.A. y la Estancia Lote 5 por US$ 22,8 millones. El campo tiene más de 10.800 hectáreas y un rodeo de cría de 4.000 cabezas Brangus colorado. Apoya sus marcas de carne premium Cabaña Juramento y Bermejo, que exporta desde el Frigorífico Bermejo.",
+        "senal": "Una empresa exportadora de carne asegura más hacienda propia: es un momento para revisar origen, trazabilidad y requisitos de cada mercado destino.",
+        "fuente": [
+          "LexLatin",
+          "https://lexlatin.com/noticias/inversora-juramento-expande-su-negocio-de-carne-premium-tras-comprar-estancia-lote-5-y-el"
+        ]
+      },
+      {
+        "fecha": "2026-10-31",
+        "tipo": "inversion",
+        "empresa": "Holding Arca",
+        "markets": [
+          "cl"
+        ],
+        "cats": [],
+        "titulo": "Chile: Holding Arca proyecta una planta de alimentos de unos US$ 10 millones en Punta Arenas",
+        "texto": "Holding Arca proyecta una planta de alimentos de unos US$ 10 millones en Punta Arenas, con operación prevista en 18 a 24 meses.",
+        "senal": "Una planta nueva en la zona austral suma capacidad regional y proveedores locales, y exige definir proveedores y requisitos desde el inicio.",
+        "fuente": [
+          "Flavorist, resumen de negocios en Sudamérica (16 al 31 de octubre de 2026)",
+          "https://www.flavorist.com/south-america-food-flavor-industry-business-news-report-october-16-31-2026/"
+        ]
+      },
+      {
+        "fecha": "2026-10-21",
+        "tipo": "inversion",
+        "empresa": "SolFrut",
+        "markets": [
+          "ar"
+        ],
+        "cats": [
+          "frutos"
+        ],
+        "titulo": "Argentina: SolFrut invertirá US$ 19,5 millones entre 2026 y 2028 en procesamiento de alimentos y pistacho en San Juan",
+        "texto": "SolFrut anunció una inversión de US$ 19,5 millones entre 2026 y 2028 en procesamiento de alimentos y en pistacho, en la provincia de San Juan.",
+        "senal": "Más producción de frutos secos y su procesamiento suele traer nuevas exigencias de trazabilidad y control de contaminantes como aflatoxinas.",
+        "fuente": [
+          "Flavorist, resumen de negocios en Sudamérica (16 al 31 de octubre de 2026)",
+          "https://www.flavorist.com/south-america-food-flavor-industry-business-news-report-october-16-31-2026/"
+        ]
+      },
+      {
+        "fecha": "2026-10-30",
+        "tipo": "compra",
+        "empresa": "Aurora Coop / Mar & Terra",
+        "markets": [
+          "br"
+        ],
+        "cats": [
+          "pescados"
+        ],
+        "titulo": "Brasil: Aurora Coop compra activos del complejo pesquero Mar & Terra, en Mato Grosso do Sul",
+        "texto": "Aurora Coop adquirió activos del complejo pesquero Mar & Terra, en Mato Grosso do Sul, para ampliar su producción de pescado.",
+        "senal": "Cuando una cooperativa amplía su producción de pescado, suelen revisarse origen, trazabilidad y requisitos sanitarios de los mercados de exportación.",
+        "fuente": [
+          "Flavorist, resumen de negocios en Sudamérica (16 al 31 de octubre de 2026)",
+          "https://www.flavorist.com/south-america-food-flavor-industry-business-news-report-october-16-31-2026/"
         ]
       }
     ],
