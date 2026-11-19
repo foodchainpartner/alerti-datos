@@ -588,34 +588,6 @@
   ],
   "ev": [
     {
-      "ini": "2026-11-20",
-      "fin": "2026-11-20",
-      "nombre": "Webinar: Navigating the 2026 FDA Food Code, cambios clave y cumplimiento",
-      "lugar": "Online · en inglés · 14:00 hora de Chile",
-      "markets": [
-        "us"
-      ],
-      "tipo": "online",
-      "cats": [],
-      "texto": "Repasa los cambios del Código de Alimentos de la FDA 2026 y cómo cumplirlos, dentro de la serie FSMA Friday. Útil si vendes a servicios de alimentación o minoristas de EE.UU. El costo de inscripción no está informado en la fuente.",
-      "url": "https://foodindustryexecutive.com/food-industry-webinar/navigating-the-2026-fda-food-code-key-changes-regulatory-impacts-and-practical-compliance/",
-      "fuente": "Food Industry Executive"
-    },
-    {
-      "ini": "2026-11-20",
-      "fin": "2026-11-20",
-      "nombre": "Webinar AECOC: requisitos legales de los claims voluntarios en alimentación",
-      "lugar": "Online · en español · hora según la ficha del webinar",
-      "markets": [
-        "es"
-      ],
-      "tipo": "online",
-      "cats": [],
-      "texto": "Qué se puede decir y qué no en declaraciones voluntarias del envase, según la normativa en España. El costo no está informado en la fuente.",
-      "url": "https://www.aecoc.es/webinar/requisitos-legales-en-el-uso-de-claims-voluntarios-en-alimentacion-2/",
-      "fuente": "AECOC"
-    },
-    {
       "ini": "2026-11-26",
       "fin": "2026-11-27",
       "nombre": "Foro Global Agroalimentario 2026",
@@ -628,6 +600,52 @@
       "texto": "Foro del sector agroalimentario en México.",
       "url": "https://thefoodtech.com/eventos-de-la-industria/",
       "fuente": "The Food Tech"
+    },
+    {
+      "ini": "2026-12-02",
+      "fin": "2026-12-02",
+      "nombre": "Webinar CRN: regulaciones de la UE para ingredientes y envases",
+      "lugar": "Online, 9:00 hora de Nueva York",
+      "markets": [
+        "ue",
+        "us"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Webinar gratuito de 60 minutos con preguntas en vivo. Trata los ingredientes en evaluación en la UE y lo que podrían significar las próximas evaluaciones de EFSA, cómo se aplica en la práctica el reglamento de envases y residuos de envases (PPWR), y los criterios de declaraciones ambientales en envases.",
+      "url": "https://crnusa.org/node/7821",
+      "fuente": "CRN"
+    },
+    {
+      "ini": "2026-12-03",
+      "fin": "2026-12-03",
+      "nombre": "13.º Seminario Gestión de la Inocuidad en la Industria Alimentaria",
+      "lugar": "Online en vivo, 9:00 a 13:00, Argentina",
+      "markets": [
+        "ar"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Seminario remoto con transmisión en vivo de la Universidad Nacional de Quilmes, el Consejo Profesional de Ingeniería Agronómica y Tasker Consultores. Es la edición número 13.",
+      "url": "https://www.unq.edu.ar/noticias/se-realizara-la-13-edicion-del-seminario-gestion-de-la-inocuidad-en-la-industria-alimentaria/",
+      "fuente": "Universidad Nacional de Quilmes"
+    },
+    {
+      "ini": "2026-12-09",
+      "fin": "2026-12-09",
+      "nombre": "Webinar: guía global de cumplimiento del etiquetado frontal (EE. UU., Canadá, México, Singapur, ANZ)",
+      "lugar": "Online, 16:00 hora de Singapur (en inglés)",
+      "markets": [
+        "us",
+        "ca",
+        "mx",
+        "global"
+      ],
+      "tipo": "online",
+      "cats": [],
+      "texto": "Webinar gratuito de REACH24H en inglés con preguntas en vivo. Repasa las tendencias del etiquetado frontal, los símbolos obligatorios de Canadá, la dirección de la FDA, los sellos de advertencia de la NOM-051 en México, Nutri-Grade en Singapur y Health Star Rating en Australia y Nueva Zelanda. Las diapositivas y la grabación son solo para miembros premium.",
+      "url": "https://en.reach24h.com/events/webinar/global-front-of-pack-fop-labeling-compliance-playbook-us-canada-mexico-singapore-anz",
+      "fuente": "REACH24H"
     },
     {
       "ini": "2027-01-17",
@@ -1688,6 +1706,34 @@
         "texto": "Conferencia internacional sobre avena: cultivo, industria y mercado.",
         "url": "https://thefoodtech.com/eventos-de-la-industria/",
         "fuente": "The Food Tech"
+      },
+      {
+        "ini": "2026-11-20",
+        "fin": "2026-11-20",
+        "nombre": "Webinar: Navigating the 2026 FDA Food Code, cambios clave y cumplimiento",
+        "lugar": "Online · en inglés · 14:00 hora de Chile",
+        "markets": [
+          "us"
+        ],
+        "tipo": "online",
+        "cats": [],
+        "texto": "Repasa los cambios del Código de Alimentos de la FDA 2026 y cómo cumplirlos, dentro de la serie FSMA Friday. Útil si vendes a servicios de alimentación o minoristas de EE.UU. El costo de inscripción no está informado en la fuente.",
+        "url": "https://foodindustryexecutive.com/food-industry-webinar/navigating-the-2026-fda-food-code-key-changes-regulatory-impacts-and-practical-compliance/",
+        "fuente": "Food Industry Executive"
+      },
+      {
+        "ini": "2026-11-20",
+        "fin": "2026-11-20",
+        "nombre": "Webinar AECOC: requisitos legales de los claims voluntarios en alimentación",
+        "lugar": "Online · en español · hora según la ficha del webinar",
+        "markets": [
+          "es"
+        ],
+        "tipo": "online",
+        "cats": [],
+        "texto": "Qué se puede decir y qué no en declaraciones voluntarias del envase, según la normativa en España. El costo no está informado en la fuente.",
+        "url": "https://www.aecoc.es/webinar/requisitos-legales-en-el-uso-de-claims-voluntarios-en-alimentacion-2/",
+        "fuente": "AECOC"
       }
     ],
     "plazos": [
