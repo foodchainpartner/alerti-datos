@@ -616,20 +616,6 @@
       "fuente": "AECOC"
     },
     {
-      "ini": "2026-11-18",
-      "fin": "2026-11-20",
-      "nombre": "Congreso ALACCTA 2026",
-      "lugar": "Punta Cana, República Dominicana",
-      "markets": [
-        "do"
-      ],
-      "tipo": "sector",
-      "cats": [],
-      "texto": "Congreso latinoamericano de ciencia y tecnología de alimentos.",
-      "url": "https://thefoodtech.com/eventos-de-la-industria/",
-      "fuente": "The Food Tech"
-    },
-    {
       "ini": "2026-11-26",
       "fin": "2026-11-27",
       "nombre": "Foro Global Agroalimentario 2026",
@@ -640,22 +626,6 @@
       "tipo": "sector",
       "cats": [],
       "texto": "Foro del sector agroalimentario en México.",
-      "url": "https://thefoodtech.com/eventos-de-la-industria/",
-      "fuente": "The Food Tech"
-    },
-    {
-      "ini": "2026-11-17",
-      "fin": "2026-11-20",
-      "nombre": "International Oat Conference Chile 2026",
-      "lugar": "Pucón, Chile",
-      "markets": [
-        "cl"
-      ],
-      "tipo": "sector",
-      "cats": [
-        "cereales"
-      ],
-      "texto": "Conferencia internacional sobre avena: cultivo, industria y mercado.",
       "url": "https://thefoodtech.com/eventos-de-la-industria/",
       "fuente": "The Food Tech"
     },
@@ -1688,6 +1658,36 @@
         "texto": "Feria internacional de alimentos y bebidas con ronda de negocios con compradores extranjeros, el Congreso Argentino COPAL y sesiones de INTA. Útil si vendes o compras alimentos en Argentina o quieres exportar desde allí.",
         "url": "https://www.ademi.org.ar/argentina-alimenta-2026/",
         "fuente": "ADEMI"
+      },
+      {
+        "ini": "2026-11-18",
+        "fin": "2026-11-20",
+        "nombre": "Congreso ALACCTA 2026",
+        "lugar": "Punta Cana, República Dominicana",
+        "markets": [
+          "do"
+        ],
+        "tipo": "sector",
+        "cats": [],
+        "texto": "Congreso latinoamericano de ciencia y tecnología de alimentos.",
+        "url": "https://thefoodtech.com/eventos-de-la-industria/",
+        "fuente": "The Food Tech"
+      },
+      {
+        "ini": "2026-11-17",
+        "fin": "2026-11-20",
+        "nombre": "International Oat Conference Chile 2026",
+        "lugar": "Pucón, Chile",
+        "markets": [
+          "cl"
+        ],
+        "tipo": "sector",
+        "cats": [
+          "cereales"
+        ],
+        "texto": "Conferencia internacional sobre avena: cultivo, industria y mercado.",
+        "url": "https://thefoodtech.com/eventos-de-la-industria/",
+        "fuente": "The Food Tech"
       }
     ],
     "plazos": [
