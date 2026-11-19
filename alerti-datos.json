@@ -2,67 +2,6 @@
   "revisado": "2026-11-19",
   "reg": [
     {
-      "fecha": "2026-11-04",
-      "titulo": "EE.UU.: la FDA suma una canela molida Wise Wife a su lista de 21 productos con plomo elevado",
-      "texto": "El 4 de noviembre la FDA agregó la canela molida Wise Wife (SLR Food Distribution, Nueva York) a su lista de canelas con niveles altos de plomo, que ya suma 21 productos con entre 2,03 y 7,68 ppm. Es su tercera alerta de salud pública del año sobre canela molida, centrada en bebés y niños pequeños. La FDA seguirá revisando muestras de los estados y actualizará la lista si encuentra más.",
-      "revisar": "Si compras o exportas especias a EE.UU., revisa cuántos lotes analizas por metales pesados y con qué método.",
-      "markets": [
-        "us"
-      ],
-      "topics": [
-        "contaminantes"
-      ],
-      "cats": [
-        "especias"
-      ],
-      "fuente": [
-        "Food Safety News",
-        "https://www.foodsafetynews.com/2026/11/fda-updates-list-of-cinnamon-with-high-lead-levels-to-include-21st-product/"
-      ]
-    },
-    {
-      "fecha": "2026-11-02",
-      "titulo": "Europa: un nuevo ciberataque sube la temperatura de refrigeradores y congeladores en supermercados de varios países",
-      "texto": "Desde la madrugada del 2 de noviembre se reportan tiendas afectadas en Suecia (ICA y Coop), Bélgica y Luxemburgo (Colruyt, Carrefour, Ahold Delhaize) e Irlanda (SuperValu). Algunos congeladores llegaron a 50 °C y hubo que desechar alimentos. Algunas unidades usaban control de temperatura de Danfoss, también afectada en un ataque previo en Francia. Nadie se ha atribuido el hecho y la Comisión Europea lo calificó de intento deliberado de perturbar la cadena alimentaria.",
-      "revisar": "Si tienes cámaras o transporte refrigerado con control remoto, revisa quién puede cambiar las temperaturas, cómo se alarma una desviación y cómo registras y evalúas el producto afectado.",
-      "markets": [
-        "ue",
-        "es"
-      ],
-      "topics": [
-        "cambios"
-      ],
-      "cats": [
-        "carnes",
-        "lacteos",
-        "pescados",
-        "frescos"
-      ],
-      "fuente": [
-        "GV Wire, con información de Reuters",
-        "https://gvwire.com/2026/11/02/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/"
-      ]
-    },
-    {
-      "fecha": "2026-11-05",
-      "titulo": "FAO y OMS piden datos sobre aflatoxinas en cereales y productos a base de cereales, incluidos alimentos infantiles",
-      "texto": "La FAO y la OMS abrieron una convocatoria de datos sobre aflatoxinas en cereales y productos derivados, incluidos alimentos para lactantes y niños pequeños. También hay una convocatoria sobre Brucella. El texto disponible no indica el plazo ni a quién se dirige.",
-      "revisar": "Si exportas cereales o productos de cereales, revisa qué resultados de aflatoxinas tienes por lote y año, porque esos datos pueden alimentar límites futuros.",
-      "markets": [
-        "global"
-      ],
-      "topics": [
-        "contaminantes"
-      ],
-      "cats": [
-        "cereales"
-      ],
-      "fuente": [
-        "Food Safety News",
-        "https://www.foodsafetynews.com/2026/11/fao-and-who-ask-for-aflatoxin-and-brucella-data/"
-      ]
-    },
-    {
       "fecha": "2026-11-16",
       "titulo": "EE.UU.: la FDA investiga dos nuevos brotes de Salmonella Enteritidis y uno de Salmonella Javiana que ya suma 70 casos",
       "texto": "La FDA investiga dos brotes nuevos de Salmonella Enteritidis, con 31 y 14 personas enfermas, y sin alimento identificado: solo se inició el rastreo. El brote de Salmonella Javiana, publicado el 28 de octubre con 59 casos, subió a 70 y ya tiene inspección y toma de muestras, sin que se haya identificado el alimento.",
@@ -98,23 +37,6 @@
       "fuente": [
         "Boletín Oficial de Argentina, Resolución 952/2026 de SENASA",
         "https://www.boletinoficial.gob.ar/detalleAviso/primera/350357/20261116"
-      ]
-    },
-    {
-      "fecha": "2026-11-06",
-      "titulo": "Chile: el Minsal aplaza 18 meses la entrada en vigencia del decreto de alimentos libres de gluten",
-      "texto": "El Decreto 68 del Ministerio de Salud, publicado en el Diario Oficial el 6 de noviembre, cambia el plazo del decreto 49 de 18 a 36 meses. Ese decreto, publicado en septiembre de 2025, actualiza la definición de libre de gluten, el rotulado y la exhibición en góndolas o espacios exclusivos. Con el cambio, deja de regir en marzo de 2027 y pasa a septiembre de 2028. El gobierno dice que busca tiempo porque la exhibición separada fue difícil de cumplir, sobre todo en locales pequeños, y para tramitar un cambio a la Ley 20.606.",
-      "revisar": "Si vendes productos libres de gluten en Chile, confirma qué fecha usan tu cliente y tu auditor, y no bajes la guardia en el control de contaminación cruzada.",
-      "markets": [
-        "cl"
-      ],
-      "topics": [
-        "cambios"
-      ],
-      "cats": [],
-      "fuente": [
-        "Diario Oficial de Chile, Decreto 68 del Minsal",
-        "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/06/44592/01/2898984.pdf"
       ]
     },
     {
@@ -176,29 +98,6 @@
   ],
   "emp": [
     {
-      "fecha": "2026-11-03",
-      "tipo": "compra",
-      "empresa": "Alicorp / Flora Food Group",
-      "markets": [
-        "pe",
-        "cl",
-        "co",
-        "ec",
-        "gt",
-        "do"
-      ],
-      "cats": [
-        "aceites"
-      ],
-      "titulo": "Alicorp cierra la compra del negocio de Flora Food en Latinoamérica por US$ 150,5 millones",
-      "texto": "Alicorp completó la compra del 100% del negocio de Flora Food Group en la región, con filiales en siete países, acuerdos de distribución en unos 30 territorios y una planta en Cali, Colombia. Suma 19 marcas, entre ellas La Danesa, Dorina, Rama, Bonella, La Perfecta y Country Crock, en untables. La firma del contrato se había anunciado en marzo.",
-      "senal": "Cuando cambia el dueño de una marca de untables y se integra una planta, suelen revisarse especificaciones, proveedores de aceites y grasas, y cumplimiento por país.",
-      "fuente": [
-        "Forbes Perú",
-        "https://forbes.pe/negocios/2026-11-03/alicorp-adquiere-flora-food-por-us1505-millones-y-suma-19-marcas-a-su-portafolio-regional/"
-      ]
-    },
-    {
       "fecha": "2026-11-17",
       "tipo": "compra",
       "empresa": "Grupo Tello / Moreno Plaza",
@@ -214,24 +113,6 @@
       "fuente": [
         "FoodRetail",
         "https://www.foodretail.es/fabricantes/tello-compra-moreno-plaza-para-conformar-un-gigante-carnico-de-465-millones.html"
-      ]
-    },
-    {
-      "fecha": "2026-11-04",
-      "tipo": "compra",
-      "empresa": "Alicorp / Bonella y Dorina",
-      "markets": [
-        "ec"
-      ],
-      "cats": [
-        "aceites"
-      ],
-      "titulo": "Ecuador: la autoridad de competencia autoriza a Alicorp a quedarse con las margarinas Bonella y Dorina",
-      "texto": "El 4 de noviembre la Superintendencia de Competencia Económica de Ecuador autorizó a Alicorp el control de Florafood Ecuador, que importa y vende las margarinas Bonella y Dorina. Es parte de la compra del negocio de Flora Food Group en unos 30 territorios, por USD 150 millones. Las marcas se suman a 17 que Alicorp ya tiene en el país, y el equipo y la planta se integrarán. La autoridad revisó el acceso de otros fabricantes a la estearina de palma, que provee una empresa del grupo, y no vio efectos importantes en la competencia.",
-      "senal": "Al integrarse marcas y planta, pueden cambiar especificaciones, auditorías y proveedores de aceites y grasas para quienes les venden.",
-      "fuente": [
-        "Vistazo",
-        "https://www.vistazo.com/negocios/empresas/2026-11-04-alicorp-adquiere-bonella-dorina-ecuador-aval-superintendencia-competencia-economica-OD11303159"
       ]
     }
   ],
@@ -1126,6 +1007,84 @@
           "AFDO, actualización del Federal Register del 30 de octubre",
           "https://www.afdo.org/federal-register-update-october-30-2026/"
         ]
+      },
+      {
+        "fecha": "2026-11-04",
+        "titulo": "EE.UU.: la FDA suma una canela molida Wise Wife a su lista de 21 productos con plomo elevado",
+        "texto": "El 4 de noviembre la FDA agregó la canela molida Wise Wife (SLR Food Distribution, Nueva York) a su lista de canelas con niveles altos de plomo, que ya suma 21 productos con entre 2,03 y 7,68 ppm. Es su tercera alerta de salud pública del año sobre canela molida, centrada en bebés y niños pequeños. La FDA seguirá revisando muestras de los estados y actualizará la lista si encuentra más.",
+        "revisar": "Si compras o exportas especias a EE.UU., revisa cuántos lotes analizas por metales pesados y con qué método.",
+        "markets": [
+          "us"
+        ],
+        "topics": [
+          "contaminantes"
+        ],
+        "cats": [
+          "especias"
+        ],
+        "fuente": [
+          "Food Safety News",
+          "https://www.foodsafetynews.com/2026/11/fda-updates-list-of-cinnamon-with-high-lead-levels-to-include-21st-product/"
+        ]
+      },
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Europa: un nuevo ciberataque sube la temperatura de refrigeradores y congeladores en supermercados de varios países",
+        "texto": "Desde la madrugada del 2 de noviembre se reportan tiendas afectadas en Suecia (ICA y Coop), Bélgica y Luxemburgo (Colruyt, Carrefour, Ahold Delhaize) e Irlanda (SuperValu). Algunos congeladores llegaron a 50 °C y hubo que desechar alimentos. Algunas unidades usaban control de temperatura de Danfoss, también afectada en un ataque previo en Francia. Nadie se ha atribuido el hecho y la Comisión Europea lo calificó de intento deliberado de perturbar la cadena alimentaria.",
+        "revisar": "Si tienes cámaras o transporte refrigerado con control remoto, revisa quién puede cambiar las temperaturas, cómo se alarma una desviación y cómo registras y evalúas el producto afectado.",
+        "markets": [
+          "ue",
+          "es"
+        ],
+        "topics": [
+          "cambios"
+        ],
+        "cats": [
+          "carnes",
+          "lacteos",
+          "pescados",
+          "frescos"
+        ],
+        "fuente": [
+          "GV Wire, con información de Reuters",
+          "https://gvwire.com/2026/11/02/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/"
+        ]
+      },
+      {
+        "fecha": "2026-11-05",
+        "titulo": "FAO y OMS piden datos sobre aflatoxinas en cereales y productos a base de cereales, incluidos alimentos infantiles",
+        "texto": "La FAO y la OMS abrieron una convocatoria de datos sobre aflatoxinas en cereales y productos derivados, incluidos alimentos para lactantes y niños pequeños. También hay una convocatoria sobre Brucella. El texto disponible no indica el plazo ni a quién se dirige.",
+        "revisar": "Si exportas cereales o productos de cereales, revisa qué resultados de aflatoxinas tienes por lote y año, porque esos datos pueden alimentar límites futuros.",
+        "markets": [
+          "global"
+        ],
+        "topics": [
+          "contaminantes"
+        ],
+        "cats": [
+          "cereales"
+        ],
+        "fuente": [
+          "Food Safety News",
+          "https://www.foodsafetynews.com/2026/11/fao-and-who-ask-for-aflatoxin-and-brucella-data/"
+        ]
+      },
+      {
+        "fecha": "2026-11-06",
+        "titulo": "Chile: el Minsal aplaza 18 meses la entrada en vigencia del decreto de alimentos libres de gluten",
+        "texto": "El Decreto 68 del Ministerio de Salud, publicado en el Diario Oficial el 6 de noviembre, cambia el plazo del decreto 49 de 18 a 36 meses. Ese decreto, publicado en septiembre de 2025, actualiza la definición de libre de gluten, el rotulado y la exhibición en góndolas o espacios exclusivos. Con el cambio, deja de regir en marzo de 2027 y pasa a septiembre de 2028. El gobierno dice que busca tiempo porque la exhibición separada fue difícil de cumplir, sobre todo en locales pequeños, y para tramitar un cambio a la Ley 20.606.",
+        "revisar": "Si vendes productos libres de gluten en Chile, confirma qué fecha usan tu cliente y tu auditor, y no bajes la guardia en el control de contaminación cruzada.",
+        "markets": [
+          "cl"
+        ],
+        "topics": [
+          "cambios"
+        ],
+        "cats": [],
+        "fuente": [
+          "Diario Oficial de Chile, Decreto 68 del Minsal",
+          "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/06/44592/01/2898984.pdf"
+        ]
       }
     ],
     "emp": [
@@ -1436,6 +1395,47 @@
         "fuente": [
           "Flavorist, resumen de negocios en Sudamérica (16 al 31 de octubre de 2026)",
           "https://www.flavorist.com/south-america-food-flavor-industry-business-news-report-october-16-31-2026/"
+        ]
+      },
+      {
+        "fecha": "2026-11-03",
+        "tipo": "compra",
+        "empresa": "Alicorp / Flora Food Group",
+        "markets": [
+          "pe",
+          "cl",
+          "co",
+          "ec",
+          "gt",
+          "do"
+        ],
+        "cats": [
+          "aceites"
+        ],
+        "titulo": "Alicorp cierra la compra del negocio de Flora Food en Latinoamérica por US$ 150,5 millones",
+        "texto": "Alicorp completó la compra del 100% del negocio de Flora Food Group en la región, con filiales en siete países, acuerdos de distribución en unos 30 territorios y una planta en Cali, Colombia. Suma 19 marcas, entre ellas La Danesa, Dorina, Rama, Bonella, La Perfecta y Country Crock, en untables. La firma del contrato se había anunciado en marzo.",
+        "senal": "Cuando cambia el dueño de una marca de untables y se integra una planta, suelen revisarse especificaciones, proveedores de aceites y grasas, y cumplimiento por país.",
+        "fuente": [
+          "Forbes Perú",
+          "https://forbes.pe/negocios/2026-11-03/alicorp-adquiere-flora-food-por-us1505-millones-y-suma-19-marcas-a-su-portafolio-regional/"
+        ]
+      },
+      {
+        "fecha": "2026-11-04",
+        "tipo": "compra",
+        "empresa": "Alicorp / Bonella y Dorina",
+        "markets": [
+          "ec"
+        ],
+        "cats": [
+          "aceites"
+        ],
+        "titulo": "Ecuador: la autoridad de competencia autoriza a Alicorp a quedarse con las margarinas Bonella y Dorina",
+        "texto": "El 4 de noviembre la Superintendencia de Competencia Económica de Ecuador autorizó a Alicorp el control de Florafood Ecuador, que importa y vende las margarinas Bonella y Dorina. Es parte de la compra del negocio de Flora Food Group en unos 30 territorios, por USD 150 millones. Las marcas se suman a 17 que Alicorp ya tiene en el país, y el equipo y la planta se integrarán. La autoridad revisó el acceso de otros fabricantes a la estearina de palma, que provee una empresa del grupo, y no vio efectos importantes en la competencia.",
+        "senal": "Al integrarse marcas y planta, pueden cambiar especificaciones, auditorías y proveedores de aceites y grasas para quienes les venden.",
+        "fuente": [
+          "Vistazo",
+          "https://www.vistazo.com/negocios/empresas/2026-11-04-alicorp-adquiere-bonella-dorina-ecuador-aval-superintendencia-competencia-economica-OD11303159"
         ]
       }
     ],
