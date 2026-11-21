@@ -16,7 +16,12 @@
       "fuente": [
         "Food Safety News",
         "https://www.foodsafetynews.com/2026/11/fda-investigating-two-new-salmonella-outbreaks/"
-      ]
+      ],
+      "en": {
+        "titulo": "US: FDA investigates two new Salmonella Enteritidis outbreaks and a Salmonella Javiana outbreak that has reached 70 cases",
+        "texto": "The FDA is investigating two new Salmonella Enteritidis outbreaks, with 31 and 14 people ill and no food identified yet: only traceback has started. The Salmonella Javiana outbreak, first reported on 28 October with 59 cases, has risen to 70 and now has inspection and sampling under way, still without an identified food.",
+        "revisar": "If you sell fresh or ready-to-eat products to the US, check that you can trace each lot backwards and forwards."
+      }
     },
     {
       "fecha": "2026-11-16",
@@ -37,7 +42,12 @@
       "fuente": [
         "Boletín Oficial de Argentina, Resolución 952/2026 de SENASA",
         "https://www.boletinoficial.gob.ar/detalleAviso/primera/350357/20261116"
-      ]
+      ],
+      "en": {
+        "titulo": "Argentina: SENASA unifies the phytosanitary control rules for exporting plant-origin products",
+        "texto": "Resolution 952/2026, published in the Official Gazette on 16 November, brings the phytosanitary control procedures for the export and re-export of plant products and by-products into a single text, and repeals resolutions 141/2014, 260/2014 and 37/2017. Depending on the case, either a Phytosanitary Certificate or an Export Certificate for Processed Plant Products is issued, both through the Cert-POV system. It applies from publication.",
+        "revisar": "If you export plant-origin products from Argentina, check which certificate applies according to what the destination country requires."
+      }
     },
     {
       "fecha": "2026-11-17",
@@ -54,7 +64,12 @@
       "fuente": [
         "OPS/OMS, Panamá aprueba ley para eliminar grasas trans",
         "https://paho.org/es/noticias/17-11-2026-panama-aprueba-ley-para-eliminar-grasas-trans-produccion-industrial-proteger"
-      ]
+      ],
+      "en": {
+        "titulo": "Panama passes a law limiting industrial trans fats to 2 % of total fat",
+        "texto": "Law 564, dated 9 November 2026, bans partially hydrogenated oils and sets a maximum of 2 % industrial trans fat of total fat. It applies to foods, oils, ingredients and raw materials, whether domestic or imported. The Ministry of Health is the responsible authority. PAHO reported the approval on 17 November; the text consulted does not give an entry-into-force date.",
+        "revisar": "If you export to Panama, check your formulations for partially hydrogenated oils and ask your suppliers for their trans fat content. Confirm the effective date in the Official Gazette."
+      }
     },
     {
       "fecha": "2026-11-12",
@@ -73,7 +88,12 @@
       "fuente": [
         "Food Safety News",
         "https://www.foodsafetynews.com/2026/11/more-sprouting-seeds-recalled-because-of-possible-contamination-with-e-coli-and-salmonella.md"
-      ]
+      ],
+      "en": {
+        "titulo": "US: two companies recall sprouting seeds over possible E. coli and Salmonella",
+        "texto": "Country Creek LLC (Country Creek Acres brand) and Francisco Family Foods recalled sprouting seeds over possible E. coli and Salmonella contamination, according to the FDA enforcement report cited by Food Safety News on 12 November. The report entries do not give lots, quantities or distribution areas. The article mentions a 16-state E. coli and Salmonella outbreak that the CDC declared over on 9 November, but does not say whether the two are linked.",
+        "revisar": "If you import or process sprouts or sprouting seeds from the US, ask your supplier whether it holds lots from these two companies."
+      }
     },
     {
       "fecha": "2026-11-14",
@@ -93,7 +113,12 @@
       "fuente": [
         "Food Safety News",
         "https://www.foodsafetynews.com/2026/11/usda-issues-alert-for-biscuit-and-sausage-gravy-products-because-of-listeria-risk/"
-      ]
+      ],
+      "en": {
+        "titulo": "US: biscuits with possible Listeria force sandwich recall and trigger a USDA alert for meat products that contain them",
+        "texto": "C.H. Guenther & Son recalled biscuits over possible Listeria monocytogenes. Fresh & Ready Foods recalled 2,414 sausage, egg and cheese sandwiches that used them, sold in Oregon and Washington between 25 October and 4 November. On 14 November the USDA meat inspection service issued an alert for ready-to-eat meat products containing those biscuits and warned that more may be identified. No illnesses have been confirmed.",
+        "revisar": "If you use dough, biscuits or bakery products from a US supplier as an ingredient, ask whether it bought from C.H. Guenther and check your lot traceability."
+      }
     }
   ],
   "emp": [
@@ -113,7 +138,12 @@
       "fuente": [
         "FoodRetail",
         "https://www.foodretail.es/fabricantes/tello-compra-moreno-plaza-para-conformar-un-gigante-carnico-de-465-millones.html"
-      ]
+      ],
+      "en": {
+        "titulo": "Spain: Grupo Tello buys Málaga meat processor Moreno Plaza and reaches €465 million in revenue",
+        "texto": "Grupo Tello Alimentación has completed the purchase of Moreno Plaza, a fresh meat company in Alhaurín el Grande (Málaga) with €55 million in revenue and 157 employees. The combined group will reach €465 million and around 1,600 staff, and ranks among the top ten meat operators in Spain. The price was not disclosed.",
+        "senal": "When two meat companies merge, specifications, audits and suppliers are often unified, and requirements can change for the businesses that sell to them."
+      }
     }
   ],
   "ev": [
@@ -129,7 +159,12 @@
       "cats": [],
       "texto": "Foro del sector agroalimentario en México.",
       "url": "https://thefoodtech.com/eventos-de-la-industria/",
-      "fuente": "The Food Tech"
+      "fuente": "The Food Tech",
+      "en": {
+        "nombre": "Global Agrifood Forum 2026",
+        "lugar": "Guadalajara, Jalisco, Mexico",
+        "texto": "Agrifood industry forum in Mexico."
+      }
     },
     {
       "ini": "2026-12-02",
@@ -144,7 +179,12 @@
       "cats": [],
       "texto": "Webinar gratuito de 60 minutos con preguntas en vivo. Trata los ingredientes en evaluación en la UE y lo que podrían significar las próximas evaluaciones de EFSA, cómo se aplica en la práctica el reglamento de envases y residuos de envases (PPWR), y los criterios de declaraciones ambientales en envases.",
       "url": "https://crnusa.org/node/7821",
-      "fuente": "CRN"
+      "fuente": "CRN",
+      "en": {
+        "nombre": "CRN webinar: EU regulations for ingredients and packaging",
+        "lugar": "Online, 9:00 New York time",
+        "texto": "Free 60-minute webinar with live questions. It covers ingredients under review in the EU and what upcoming EFSA assessments could mean, how the Packaging and Packaging Waste Regulation (PPWR) works in practice, and the criteria for environmental claims on packaging."
+      }
     },
     {
       "ini": "2026-12-03",
@@ -158,7 +198,12 @@
       "cats": [],
       "texto": "Seminario remoto con transmisión en vivo de la Universidad Nacional de Quilmes, el Consejo Profesional de Ingeniería Agronómica y Tasker Consultores. Es la edición número 13.",
       "url": "https://www.unq.edu.ar/noticias/se-realizara-la-13-edicion-del-seminario-gestion-de-la-inocuidad-en-la-industria-alimentaria/",
-      "fuente": "Universidad Nacional de Quilmes"
+      "fuente": "Universidad Nacional de Quilmes",
+      "en": {
+        "nombre": "13th Seminar on Food Safety Management in the Food Industry",
+        "lugar": "Live online, 9:00 to 13:00, Argentina",
+        "texto": "Remote seminar with live streaming from the National University of Quilmes, the Professional Council of Agronomic Engineering and Tasker Consultores. This is the 13th edition."
+      }
     },
     {
       "ini": "2026-12-09",
@@ -175,7 +220,12 @@
       "cats": [],
       "texto": "Webinar gratuito de REACH24H en inglés con preguntas en vivo. Repasa las tendencias del etiquetado frontal, los símbolos obligatorios de Canadá, la dirección de la FDA, los sellos de advertencia de la NOM-051 en México, Nutri-Grade en Singapur y Health Star Rating en Australia y Nueva Zelanda. Las diapositivas y la grabación son solo para miembros premium.",
       "url": "https://en.reach24h.com/events/webinar/global-front-of-pack-fop-labeling-compliance-playbook-us-canada-mexico-singapore-anz",
-      "fuente": "REACH24H"
+      "fuente": "REACH24H",
+      "en": {
+        "nombre": "Webinar: global front-of-pack labelling compliance playbook (US, Canada, Mexico, Singapore, ANZ)",
+        "lugar": "Online, 16:00 Singapore time",
+        "texto": "Free REACH24H webinar in English with live questions. It reviews front-of-pack labelling trends, Canada's mandatory symbols, the FDA's direction, the NOM-051 warning labels in Mexico, Nutri-Grade in Singapore and the Health Star Rating in Australia and New Zealand. Slides and the recording are for premium members only."
+      }
     },
     {
       "ini": "2027-01-17",
@@ -189,7 +239,12 @@
       "cats": [],
       "texto": "Feria de alimentos especiales y gourmet en San Francisco. Útil para exportadores que buscan compradores en EE.UU.",
       "url": "https://www.marketscale.com/industries/events/winter-fancy-food-show-2027-2027",
-      "fuente": "MarketScale"
+      "fuente": "MarketScale",
+      "en": {
+        "nombre": "Winter FancyFaire 2027 (formerly Winter Fancy Food Show)",
+        "lugar": "San Francisco, US (Moscone Center)",
+        "texto": "Specialty and gourmet food trade show in San Francisco. Useful for exporters looking for buyers in the US."
+      }
     }
   ],
   "plazos": [
@@ -205,7 +260,13 @@
         "Revista Zona Libre, Resolución ARCSA-DE-2026-021-DASP",
         "https://www.revistazonalibre.ec/2026/11/18/ecuador-cambia-las-reglas-para-los-suplementos-alimenticios-en-pleno-crecimiento-del-consumo/"
       ],
-      "pub": "1 oct 2026"
+      "pub": "1 oct 2026",
+      "en": {
+        "lbl": "1 Apr 2027",
+        "tema": "Supplements",
+        "pub": "1 Oct 2026",
+        "tit": "Ecuador: new rules for food supplements (vitamins and minerals at no less than 15 % of the daily reference intake, technical representative, quality control and health notification)"
+      }
     },
     {
       "f": "2027-11-07",
@@ -219,7 +280,13 @@
         "Envapack",
         "https://www.envapack.com/2026/10/etiquetado-de-alimentos-en-chile/"
       ],
-      "pub": "4 oct 2026"
+      "pub": "4 oct 2026",
+      "en": {
+        "lbl": "7 Nov 2027",
+        "tema": "Labelling",
+        "pub": "4 Oct 2026",
+        "tit": "Chile: dairy products must state the country of milking on the front panel"
+      }
     },
     {
       "f": "2028-01-01",
@@ -233,7 +300,13 @@
         "Envapack",
         "https://www.envapack.com/2026/09/etiquetado-de-alimentos-en-mexico/"
       ],
-      "pub": "17 sep 2026"
+      "pub": "17 sep 2026",
+      "en": {
+        "lbl": "1 Jan 2028",
+        "tema": "Labelling",
+        "pub": "17 Sep 2026",
+        "tit": "Mexico: Phase 3 of NOM-051 for front-of-pack labelling"
+      }
     },
     {
       "f": "2028-09-18",
@@ -247,7 +320,13 @@
         "Diario Oficial de Chile, Decreto 68 del Minsal",
         "https://www.diariooficial.interior.gob.cl/publicaciones/2026/11/06/44592/01/2898984.pdf"
       ],
-      "pub": "6 nov 2026"
+      "pub": "6 nov 2026",
+      "en": {
+        "lbl": "September 2028",
+        "tema": "Labelling",
+        "pub": "6 Nov 2026",
+        "tit": "Chile: the gluten-free foods decree is postponed from March 2027 to September 2028 (dedicated shelving, labelling and new definition)"
+      }
     }
   ],
   "ev_futuro": [
