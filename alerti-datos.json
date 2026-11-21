@@ -167,6 +167,27 @@
       }
     },
     {
+      "ini": "2026-12-01",
+      "fin": "2026-12-02",
+      "nombre": "Curso en línea: Regla de Trazabilidad de Alimentos de la FDA (FSMA 204)",
+      "lugar": "Online en vivo (Zoom), EE. UU.",
+      "markets": [
+        "us"
+      ],
+      "tipo": "online",
+      "cats": [
+        "frescos"
+      ],
+      "texto": "Curso de dos días de Food Safety & Quality Services, con certificado de la alianza FSPCA. Cubre si la empresa o sus productos están sujetos a la regla, la Lista de Alimentos con Trazabilidad, los eventos críticos de seguimiento y los elementos clave de datos, y cómo armar un plan de trazabilidad. Cuesta USD 750 por persona. La página muestra cupos y un aviso de agotado a la vez, así que conviene confirmar disponibilidad.",
+      "url": "https://fsqservices.com/events/fda-traceability-rule-online-dec-01-2026/",
+      "fuente": "Food Safety & Quality Services",
+      "en": {
+        "nombre": "Online course: FDA Food Traceability Rule (FSMA 204)",
+        "lugar": "Live online (Zoom), US",
+        "texto": "Two-day course from Food Safety & Quality Services, with an FSPCA certificate. It covers whether a company or its products are subject to the rule, the Food Traceability List, critical tracking events and key data elements, and how to build a traceability plan. It costs USD 750 per person. The page shows available seats and a sold-out notice at the same time, so confirm availability."
+      }
+    },
+    {
       "ini": "2026-12-02",
       "fin": "2026-12-02",
       "nombre": "Webinar CRN: regulaciones de la UE para ingredientes y envases",
@@ -225,6 +246,63 @@
         "nombre": "Webinar: global front-of-pack labelling compliance playbook (US, Canada, Mexico, Singapore, ANZ)",
         "lugar": "Online, 16:00 Singapore time",
         "texto": "Free REACH24H webinar in English with live questions. It reviews front-of-pack labelling trends, Canada's mandatory symbols, the FDA's direction, the NOM-051 warning labels in Mexico, Nutri-Grade in Singapore and the Health Star Rating in Australia and New Zealand. Slides and the recording are for premium members only."
+      }
+    },
+    {
+      "ini": "2027-01-06",
+      "fin": "2027-01-08",
+      "nombre": "Indusfood Manufacturing 2027",
+      "lugar": "Nueva Delhi, India (Yashobhoomi)",
+      "markets": [
+        "in"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Sexta edición de la feria de procesamiento de alimentos, empaques, ingredientes y tecnologías afines, organizada por el Consejo de Promoción Comercial de India. Incluye cumbres de manufactura alimentaria, tecnología alimentaria y procesamiento lácteo.",
+      "url": "https://www.foodtechbiz.com/events-list/indusfood-manufacturing-2027-6th-edition-6-to-8-january-new-delhi",
+      "fuente": "Food Tech Biz",
+      "en": {
+        "nombre": "Indusfood Manufacturing 2027",
+        "lugar": "New Delhi, India (Yashobhoomi)",
+        "texto": "Sixth edition of the trade show for food processing, packaging, ingredients and allied technologies, organised by the Trade Promotion Council of India. It includes summits on food manufacturing, food technology and dairy processing."
+      }
+    },
+    {
+      "ini": "2027-01-11",
+      "fin": "2027-01-14",
+      "nombre": "Horecava 2027",
+      "lugar": "Ámsterdam, Países Bajos (RAI)",
+      "markets": [
+        "ue"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria de la industria de servicios de alimentación: alimentos, bebidas, tecnología y servicios. En su edición número 70. La organización cita unos 60.000 visitantes.",
+      "url": "https://www.horecava.nl/en/",
+      "fuente": "Horecava",
+      "en": {
+        "nombre": "Horecava 2027",
+        "lugar": "Amsterdam, Netherlands (RAI)",
+        "texto": "Trade fair for the foodservice industry: food, drink, technology and services. This is the 70th edition. The organiser cites about 60,000 visitors."
+      }
+    },
+    {
+      "ini": "2027-01-15",
+      "fin": "2027-01-24",
+      "nombre": "Internationale Grüne Woche 2027",
+      "lugar": "Berlín, Alemania (Messe Berlin)",
+      "markets": [
+        "ue"
+      ],
+      "tipo": "sector",
+      "cats": [],
+      "texto": "Feria internacional de alimentación, agricultura y horticultura en el recinto ferial de Berlín.",
+      "url": "https://www.gruenewoche.de/en/exhibit/preparation/termine-und-logistik",
+      "fuente": "Internationale Grüne Woche",
+      "en": {
+        "nombre": "International Green Week 2027",
+        "lugar": "Berlin, Germany (Messe Berlin)",
+        "texto": "International trade fair for food, agriculture and horticulture at the Berlin exhibition grounds."
       }
     },
     {
