@@ -119,6 +119,111 @@
         "texto": "C.H. Guenther & Son recalled biscuits over possible Listeria monocytogenes. Fresh & Ready Foods recalled 2,414 sausage, egg and cheese sandwiches that used them, sold in Oregon and Washington between 25 October and 4 November. On 14 November the USDA meat inspection service issued an alert for ready-to-eat meat products containing those biscuits and warned that more may be identified. No illnesses have been confirmed.",
         "revisar": "If you use dough, biscuits or bakery products from a US supplier as an ingredient, ask whether it bought from C.H. Guenther and check your lot traceability."
       }
+    },
+    {
+      "fecha": "2026-11-18",
+      "titulo": "Argentina: el SENASA prohíbe los promotores de crecimiento con betaagonistas, como la ractopamina en cerdos",
+      "texto": "La Resolución 956/2026, publicada el 18 de noviembre en el Boletín Oficial, prohíbe en todo el país el uso y la venta de productos veterinarios promotores de crecimiento que contengan sustancias betaagonistas o de acción tirostática. Elimina la excepción que permitía la ractopamina en cerdos y deroga la Resolución 148/2006. Rige desde su publicación. Según Urgente24, el cambio busca cumplir exigencias de la Unión Europea en el marco del acuerdo con el Mercosur.",
+      "revisar": "Si exportas carne de cerdo u otras carnes desde Argentina, revisa con tus proveedores de animales que no se use ractopamina ni otros betaagonistas, y cómo separas lotes.",
+      "markets": [
+        "ar",
+        "mercosur",
+        "ue"
+      ],
+      "topics": [
+        "limites"
+      ],
+      "cats": [
+        "carnes"
+      ],
+      "fuente": [
+        "Boletín Oficial de Argentina, Resolución 956/2026 de SENASA",
+        "https://www.boletinoficial.gob.ar/detalleAviso/primera/350501/20261118"
+      ],
+      "en": {
+        "titulo": "Argentina: SENASA bans growth promoters containing beta-agonists, such as ractopamine in pigs",
+        "texto": "Resolution 956/2026, published in the Official Gazette on 18 November, bans nationwide the use and sale of veterinary growth promoter products that contain beta-agonist or thyrostatic substances. It removes the exception that allowed ractopamine in pigs and repeals Resolution 148/2006. It applies from publication. According to Urgente24, the change aims to meet European Union requirements under the agreement with Mercosur.",
+        "revisar": "If you export pork or other meat from Argentina, check with your animal suppliers that ractopamine and other beta-agonists are not used, and how you separate lots."
+      }
+    },
+    {
+      "fecha": "2026-11-18",
+      "titulo": "Argentina: el SENASA prohíbe fumigar granos durante la carga y el transporte y endurece los requisitos de exportación",
+      "texto": "La Resolución 955/2026 del SENASA, aprobada el 17 de noviembre y vigente desde el 18, prohíbe aplicar fumigantes durante la carga de granos en camiones y vagones y durante el transporte al destino, salvo ciertos contenedores herméticos sellados por Aduana. En bodegas de barcos solo se permite fosfuro de aluminio o de magnesio, y queda prohibido el bromuro de metilo. Las empresas que hacen el tratamiento oficial deben cumplir condiciones sobre directores técnicos, operadores autorizados y equipos de medición calibrados. Datos de Saladillo Campo; el texto completo está en el Boletín Oficial.",
+      "revisar": "Si exportas granos desde Argentina, revisa con tu empresa fumigadora y tu terminal cómo cambian los tratamientos, la documentación y los tiempos de embarque.",
+      "markets": [
+        "ar",
+        "mercosur"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "cereales"
+      ],
+      "fuente": [
+        "Saladillo Campo",
+        "https://saladillocampo.com.ar/blog/2026/11/19/senasa-endurece-los-controles-para-exportar-granos-que-cambia-y-como-impacta-en-el-negocio/"
+      ],
+      "en": {
+        "titulo": "Argentina: SENASA bans fumigating grain during loading and transport and tightens export requirements",
+        "texto": "SENASA Resolution 955/2026, approved on 17 November and in force from the 18th, bans applying fumigants while grain is loaded into trucks and wagons and during transport to destination, except for certain hermetic containers sealed by Customs. In ship holds only aluminium or magnesium phosphide is allowed, and methyl bromide is prohibited. Companies carrying out the official treatment must meet conditions on technical directors, authorised operators and calibrated measuring equipment. Details from Saladillo Campo; the full text is in the Official Gazette.",
+        "revisar": "If you export grain from Argentina, check with your fumigation company and port terminal how treatments, paperwork and loading times change."
+      }
+    },
+    {
+      "fecha": "2026-11-20",
+      "titulo": "Argentina: nuevas reglas para la carne de la cuota 481 a la Unión Europea y vigilancia de empaques de ajo que exportan a Brasil",
+      "texto": "Según Bichos de Campo, el Boletín Oficial publicó el 20 de noviembre la Resolución 2003/2026 para la carne de la cuota 481 de la UE y la Resolución 957/2026 del SENASA para el ajo a Brasil. En la cuota 481, los animales se faenan primero y por tropa, las medias reses y los cortes se mantienen separados, el producto se identifica con la letra W y puede quedar excluido de la cuota si se incumple. En el ajo, el SENASA clasifica cada empaque por riesgo, exige el sistema SIG-APP, envases con información en portugués y vigila a quienes acumulen tres rechazos de Brasil. La nota no indica desde cuándo rigen.",
+      "revisar": "Si exportas carne a la UE por la cuota 481 o ajo a Brasil, confirma en el Boletín Oficial la fecha de vigencia y revisa la separación de lotes, el etiquetado y tu historial de rechazos.",
+      "markets": [
+        "ar",
+        "ue",
+        "br",
+        "mercosur"
+      ],
+      "topics": [
+        "cambios"
+      ],
+      "cats": [
+        "carnes",
+        "frescos"
+      ],
+      "fuente": [
+        "Bichos de Campo",
+        "https://bichosdecampo.com/una-de-carne-y-otra-de-ajo-el-gobierno-refuerza-la-trazabilidad-de-la-cuota-481-y-pone-bajo-vigilancia-a-los-empaques-que-exportan-a-brasil/"
+      ],
+      "en": {
+        "titulo": "Argentina: new rules for beef under EU quota 481 and tighter oversight of garlic packers exporting to Brazil",
+        "texto": "According to Bichos de Campo, the Official Gazette published Resolution 2003/2026 for beef under EU quota 481 and SENASA Resolution 957/2026 for garlic to Brazil on 20 November. Under quota 481, animals are slaughtered first and by lot, carcasses and cuts are kept separate, product is marked with the letter W, and non-compliance can exclude it from the quota. For garlic, SENASA classifies each packing house by risk, requires the SIG-APP system and packaging information in Portuguese, and monitors packers with three rejections from Brazil. The article does not say when they take effect.",
+        "revisar": "If you export beef to the EU under quota 481 or garlic to Brazil, confirm the effective date in the Official Gazette and review lot separation, labelling and your rejection record."
+      }
+    },
+    {
+      "fecha": "2026-11-18",
+      "titulo": "UE: el Tribunal de Cuentas Europeo dice que los límites de PFAS en alimentos cubren solo cuatro sustancias y piden actualizarlos",
+      "texto": "Una auditoría del Tribunal de Cuentas Europeo, publicada por Euronews el 18 de noviembre, concluye que los límites de la UE en alimentos cubren solo cuatro PFAS en ciertos productos, aunque se han detectado más de 50 en alimentos. Un tercio de los Estados miembros no hizo controles dirigidos de PFAS entre 2020 y 2025. Recomienda acelerar la restricción general de PFAS con una decisión en 2027, reforzar los controles nacionales y actualizar los límites de alimentos y agua cuando la evidencia lo justifique. Es una recomendación, no una norma nueva.",
+      "revisar": "Si exportas pescado, huevos o carne a la UE, ten presente que los controles y los límites de PFAS pueden endurecerse, y pregunta a tus proveedores por análisis de PFAS.",
+      "markets": [
+        "ue"
+      ],
+      "topics": [
+        "contaminantes"
+      ],
+      "cats": [
+        "pescados",
+        "huevos",
+        "carnes"
+      ],
+      "fuente": [
+        "Euronews",
+        "https://www.euronews.com/2026/11/18/eu-has-failed-to-curb-harmful-forever-chemicals-auditors-warn"
+      ],
+      "en": {
+        "titulo": "EU: Court of Auditors says EU food limits for PFAS cover only four substances and calls for them to be updated",
+        "texto": "An audit by the European Court of Auditors, reported by Euronews on 18 November, finds that EU food limits cover only four PFAS in certain products, although more than 50 have been detected in food. A third of member states carried out no targeted PFAS checks between 2020 and 2025. It recommends speeding up the universal PFAS restriction with a decision in 2027, strengthening national enforcement and updating food and drinking-water limits where the evidence supports it. These are recommendations, not new rules.",
+        "revisar": "If you export fish, eggs or meat to the EU, keep in mind that PFAS controls and limits may tighten, and ask your suppliers about PFAS testing."
+      }
     }
   ],
   "emp": [
