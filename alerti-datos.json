@@ -1,6 +1,29 @@
 {
- "revisado": "2026-11-21",
+ "revisado": "2026-11-22",
  "reg": [
+  {
+   "fecha": "2026-11-21",
+   "titulo": "UE y Reino Unido cierran un pacto sanitario y fitosanitario que reduciría los controles en frontera desde marzo de 2028",
+   "texto": "La UE y el Reino Unido concluyeron la negociación de tres acuerdos, entre ellos el pacto sanitario y fitosanitario para el comercio agroalimentario, según Prensa Mercosur (21 de noviembre). Permitiría reducir los controles fronterizos de alimentos a partir del 1 de marzo de 2028. Las partes prevén firmar los tres acuerdos a la vez, pero aún no hay calendario de entrada en vigor.",
+   "revisar": "Si exportas alimentos de origen animal o vegetal al Reino Unido o a la UE, sigue este pacto: podría cambiar certificados y controles en frontera.",
+   "markets": [
+    "eu",
+    "uk"
+   ],
+   "topics": [
+    "cambios"
+   ],
+   "cats": [],
+   "fuente": [
+    "Prensa Mercosur",
+    "https://prensamercosur.org/2026/11/21/reino-unido-ue-y-reino-unido-acuerdan-facilitar-comercio-agroalimentario-y-movilidad-juvenil/"
+   ],
+   "en": {
+    "titulo": "EU and UK conclude a sanitary and phytosanitary pact that would cut border checks from March 2028",
+    "texto": "The EU and the UK concluded negotiations on three agreements, including the sanitary and phytosanitary pact for agri-food trade, according to Prensa Mercosur (21 November). It would allow border checks on food to be reduced from 1 March 2028. The parties plan to sign all three agreements together, but there is no entry-into-force date yet.",
+    "revisar": "If you export food of animal or plant origin to the UK or the EU, follow this pact: it could change certificates and border checks."
+   }
+  },
   {
    "fecha": "2026-11-20",
    "titulo": "Argentina: nuevas reglas para la carne de la cuota 481 a la Unión Europea y vigilancia de empaques de ajo que exportan a Brasil",
@@ -102,6 +125,34 @@
     "titulo": "US: Fresh & Ready expands biscuit sandwich recall over Listeria across seven states",
     "texto": "Fresh & Ready Foods expanded on 20 November its 8 November recall, following the expansion of the C.H. Guenther & Son recall. It adds the sausage, egg and cheese biscuit sandwich (5.7 oz) and the biscuit with sausage gravy (9.5 oz), made in Longview, Texas and distributed between 15 October and 11 November in Alabama, Arkansas, Louisiana, Mississippi, Oklahoma, Tennessee and Texas. No illnesses have been reported to date.",
     "revisar": "If you buy bakery items or ready dough from US suppliers, ask for their list of biscuit suppliers and check lot traceability."
+   }
+  },
+  {
+   "fecha": "2026-11-20",
+   "titulo": "México y UE: productores de EE.UU. reclaman por los nombres de quesos protegidos en el acuerdo con México",
+   "texto": "Según Expansión (20 de noviembre), productores lácteos estadounidenses llevaron a la revisión del T-MEC sus reclamos contra las indicaciones geográficas que la UE negoció con México, como feta, asiago y gruyere. La UE busca proteger 568 indicaciones geográficas, 336 de ellas de alimentos y bebidas. El acuerdo modernizado UE-México se firmó el 22 de mayo de 2026 y aún no entra en vigor. Términos como cheddar, gouda y mozzarella seguirán permitidos en México.",
+   "revisar": "Si vendes quesos o lácteos a México, revisa si el nombre de tu producto estará protegido y si tendrías que cambiar etiqueta o denominación.",
+   "markets": [
+    "mx",
+    "eu",
+    "us",
+    "tmec"
+   ],
+   "topics": [
+    "etiquetado",
+    "cambios"
+   ],
+   "cats": [
+    "lacteos"
+   ],
+   "fuente": [
+    "Expansión",
+    "https://expansion.mx/economia/2026/11/20/disputa-quesos-mexico-union-europea-tmec"
+   ],
+   "en": {
+    "titulo": "Mexico and EU: US producers object to cheese names protected in the EU-Mexico agreement",
+    "texto": "According to Expansión (20 November), US dairy producers took their objections to the geographical indications the EU negotiated with Mexico, such as feta, asiago and gruyere, to the USMCA review. The EU seeks to protect 568 geographical indications, 336 of them for food and drink. The modernised EU-Mexico agreement was signed on 22 May 2026 and is not yet in force. Terms such as cheddar, gouda and mozzarella will remain allowed in Mexico.",
+    "revisar": "If you sell cheese or dairy to Mexico, check whether your product name will be protected and whether you would need to change the label or name."
    }
   },
   {
@@ -249,31 +300,6 @@
     "titulo": "Argentina: SENASA unifies the phytosanitary control rules for exporting plant-origin products",
     "texto": "Resolution 952/2026, published in the Official Gazette on 16 November, brings the phytosanitary control procedures for the export and re-export of plant products and by-products into a single text, and repeals resolutions 141/2014, 260/2014 and 37/2017. Depending on the case, either a Phytosanitary Certificate or an Export Certificate for Processed Plant Products is issued, both through the Cert-POV system. It applies from publication.",
     "revisar": "If you export plant-origin products from Argentina, check which certificate applies according to what the destination country requires."
-   }
-  },
-  {
-   "fecha": "2026-11-14",
-   "titulo": "EE.UU.: galletas (biscuits) con posible Listeria obligan a retirar sándwiches y activan una alerta del USDA por productos cárnicos que las contienen",
-   "texto": "C.H. Guenther & Son retiró galletas por posible Listeria monocytogenes. Fresh & Ready Foods retiró 2.414 sándwiches de salchicha, huevo y queso que las usaban, vendidos en Oregón y Washington entre el 25 de octubre y el 4 de noviembre. El 14 de noviembre el servicio de inspección de carnes del USDA emitió una alerta por productos cárnicos listos para comer que contienen esas galletas, y advierte que pueden identificarse más. No hay enfermedades confirmadas.",
-   "revisar": "Si usas masas, galletas o panificados de un proveedor estadounidense como ingrediente, pregunta si compró a C.H. Guenther y revisa tu trazabilidad por lote.",
-   "markets": [
-    "us"
-   ],
-   "topics": [
-    "micro"
-   ],
-   "cats": [
-    "cereales",
-    "carnes"
-   ],
-   "fuente": [
-    "Food Safety News",
-    "https://www.foodsafetynews.com/2026/11/usda-issues-alert-for-biscuit-and-sausage-gravy-products-because-of-listeria-risk/"
-   ],
-   "en": {
-    "titulo": "US: biscuits with possible Listeria force sandwich recall and trigger a USDA alert for meat products that contain them",
-    "texto": "C.H. Guenther & Son recalled biscuits over possible Listeria monocytogenes. Fresh & Ready Foods recalled 2,414 sausage, egg and cheese sandwiches that used them, sold in Oregon and Washington between 25 October and 4 November. On 14 November the USDA meat inspection service issued an alert for ready-to-eat meat products containing those biscuits and warned that more may be identified. No illnesses have been confirmed.",
-    "revisar": "If you use dough, biscuits or bakery products from a US supplier as an ingredient, ask whether it bought from C.H. Guenther and check your lot traceability."
    }
   }
  ],
@@ -1421,6 +1447,31 @@
      "titulo": "US: two companies recall sprouting seeds over possible E. coli and Salmonella",
      "texto": "Country Creek LLC (Country Creek Acres brand) and Francisco Family Foods recalled sprouting seeds over possible E. coli and Salmonella contamination, according to the FDA enforcement report cited by Food Safety News on 12 November. The report entries do not give lots, quantities or distribution areas. The article mentions a 16-state E. coli and Salmonella outbreak that the CDC declared over on 9 November, but does not say whether the two are linked.",
      "revisar": "If you import or process sprouts or sprouting seeds from the US, ask your supplier whether it holds lots from these two companies."
+    }
+   },
+   {
+    "fecha": "2026-11-14",
+    "titulo": "EE.UU.: galletas (biscuits) con posible Listeria obligan a retirar sándwiches y activan una alerta del USDA por productos cárnicos que las contienen",
+    "texto": "C.H. Guenther & Son retiró galletas por posible Listeria monocytogenes. Fresh & Ready Foods retiró 2.414 sándwiches de salchicha, huevo y queso que las usaban, vendidos en Oregón y Washington entre el 25 de octubre y el 4 de noviembre. El 14 de noviembre el servicio de inspección de carnes del USDA emitió una alerta por productos cárnicos listos para comer que contienen esas galletas, y advierte que pueden identificarse más. No hay enfermedades confirmadas.",
+    "revisar": "Si usas masas, galletas o panificados de un proveedor estadounidense como ingrediente, pregunta si compró a C.H. Guenther y revisa tu trazabilidad por lote.",
+    "markets": [
+     "us"
+    ],
+    "topics": [
+     "micro"
+    ],
+    "cats": [
+     "cereales",
+     "carnes"
+    ],
+    "fuente": [
+     "Food Safety News",
+     "https://www.foodsafetynews.com/2026/11/usda-issues-alert-for-biscuit-and-sausage-gravy-products-because-of-listeria-risk/"
+    ],
+    "en": {
+     "titulo": "US: biscuits with possible Listeria force sandwich recall and trigger a USDA alert for meat products that contain them",
+     "texto": "C.H. Guenther & Son recalled biscuits over possible Listeria monocytogenes. Fresh & Ready Foods recalled 2,414 sausage, egg and cheese sandwiches that used them, sold in Oregon and Washington between 25 October and 4 November. On 14 November the USDA meat inspection service issued an alert for ready-to-eat meat products containing those biscuits and warned that more may be identified. No illnesses have been confirmed.",
+     "revisar": "If you use dough, biscuits or bakery products from a US supplier as an ingredient, ask whether it bought from C.H. Guenther and check your lot traceability."
     }
    }
   ],
