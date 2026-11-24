@@ -308,6 +308,27 @@
  ],
  "ev": [
   {
+   "ini": "2026-11-30",
+   "fin": "2026-12-01",
+   "nombre": "World Bulk Wine Exhibition (WBWE) 2026",
+   "lugar": "Ámsterdam, Países Bajos",
+   "markets": [
+    "ue"
+   ],
+   "tipo": "sector",
+   "cats": [
+    "alcohol"
+   ],
+   "texto": "Feria de vino a granel, con compradores y productores de varios países. Abre el primer día de la próxima semana.",
+   "url": "https://worldbulkwine.com/newfront",
+   "fuente": "Vinexposium",
+   "en": {
+    "nombre": "World Bulk Wine Exhibition (WBWE) 2026",
+    "lugar": "Amsterdam, Netherlands",
+    "texto": "Bulk wine trade fair with buyers and producers from several countries. It opens on the first day of next week."
+   }
+  },
+  {
    "ini": "2026-12-01",
    "fin": "2026-12-02",
    "nombre": "Curso en línea: Regla de Trazabilidad de Alimentos de la FDA (FSMA 204)",
@@ -326,6 +347,27 @@
     "nombre": "Online course: FDA Food Traceability Rule (FSMA 204)",
     "lugar": "Live online (Zoom), US",
     "texto": "Two-day course from Food Safety & Quality Services, with an FSPCA certificate. It covers whether a company or its products are subject to the rule, the Food Traceability List, critical tracking events and key data elements, and how to build a traceability plan. It costs USD 750 per person. The page shows available seats and a sold-out notice at the same time, so confirm availability."
+   }
+  },
+  {
+   "ini": "2026-12-01",
+   "fin": "2026-12-01",
+   "nombre": "Taller RAPS en línea: cumplimiento de los PRRC bajo MDR/IVDR",
+   "lugar": "En línea",
+   "markets": [
+    "ue"
+   ],
+   "tipo": "online",
+   "cats": [
+    "farmacia"
+   ],
+   "texto": "Taller sobre los retos de cumplimiento de la persona responsable del cumplimiento normativo (PRRC) bajo los reglamentos europeos de dispositivos médicos (MDR) y de diagnóstico in vitro (IVDR).",
+   "url": "https://www.raps.org/learn-develop/events/raps-workshop-prrc-perspectives-tackling-compliance-challenges-under-mdr-ivdr.html",
+   "fuente": "RAPS",
+   "en": {
+    "nombre": "RAPS online workshop: PRRC compliance challenges under MDR/IVDR",
+    "lugar": "Online",
+    "texto": "Workshop on the compliance challenges faced by the person responsible for regulatory compliance (PRRC) under the EU medical device (MDR) and in vitro diagnostic (IVDR) regulations."
    }
   },
   {
@@ -368,6 +410,27 @@
    }
   },
   {
+   "ini": "2026-12-03",
+   "fin": "2026-12-03",
+   "nombre": "Webinar NutraIngredients: diversificación de fuentes de omega-3",
+   "lugar": "En línea",
+   "markets": [
+    "global"
+   ],
+   "tipo": "online",
+   "cats": [
+    "suplementos"
+   ],
+   "texto": "Webinar patrocinado por Aker sobre cómo diversificar las fuentes de omega-3 para suplementos y alimentos.",
+   "url": "https://tinyurl.com/AkerEventlisting",
+   "fuente": "NutraIngredients",
+   "en": {
+    "nombre": "NutraIngredients webinar: diversifying omega-3 sources",
+    "lugar": "Online",
+    "texto": "Webinar sponsored by Aker on how to diversify omega-3 sources for supplements and food."
+   }
+  },
+  {
    "ini": "2026-12-09",
    "fin": "2026-12-09",
    "nombre": "Webinar: guía global de cumplimiento del etiquetado frontal (EE. UU., Canadá, México, Singapur, ANZ)",
@@ -387,6 +450,49 @@
     "nombre": "Webinar: global front-of-pack labelling compliance playbook (US, Canada, Mexico, Singapore, ANZ)",
     "lugar": "Online, 16:00 Singapore time",
     "texto": "Free REACH24H webinar in English with live questions. It reviews front-of-pack labelling trends, Canada's mandatory symbols, the FDA's direction, the NOM-051 warning labels in Mexico, Nutri-Grade in Singapore and the Health Star Rating in Australia and New Zealand. Slides and the recording are for premium members only."
+   }
+  },
+  {
+   "ini": "2026-12-09",
+   "fin": "2026-12-11",
+   "nombre": "DIA/RAPS: fundamentos de productos combinados (EE. UU., UE y otros)",
+   "lugar": "En línea",
+   "markets": [
+    "us",
+    "ue"
+   ],
+   "tipo": "online",
+   "cats": [
+    "farmacia"
+   ],
+   "texto": "Curso en línea sobre los fundamentos regulatorios de los productos combinados (medicamento y dispositivo) en EE. UU., la UE y otros mercados.",
+   "url": "https://www.raps.org/learn-develop/events/dia-raps-fundamentals-of-combination-products-regulatory-and-practical-insights-from-the-us-the-eu-and-beyond.html",
+   "fuente": "RAPS",
+   "en": {
+    "nombre": "DIA/RAPS: fundamentals of combination products (US, EU and beyond)",
+    "lugar": "Online",
+    "texto": "Online course on the regulatory fundamentals of combination products (drug and device) in the US, the EU and other markets."
+   }
+  },
+  {
+   "ini": "2026-12-15",
+   "fin": "2026-12-15",
+   "nombre": "Taller RAPS en línea: estudios de desempeño bajo IVDR",
+   "lugar": "En línea",
+   "markets": [
+    "ue"
+   ],
+   "tipo": "online",
+   "cats": [
+    "farmacia"
+   ],
+   "texto": "Guía práctica sobre los estudios de desempeño bajo el reglamento europeo de diagnóstico in vitro (IVDR), para equipos de farmacéuticas y biotecnología.",
+   "url": "https://www.raps.org/learn-develop/events/raps-workshop-understanding-performance-studies-under-ivdr-a-practical-guide-for-pharma-biotech-teams.html",
+   "fuente": "RAPS",
+   "en": {
+    "nombre": "RAPS online workshop: performance studies under IVDR",
+    "lugar": "Online",
+    "texto": "Practical guide to performance studies under the EU in vitro diagnostic regulation (IVDR), for pharma and biotech teams."
    }
   },
   {
@@ -556,6 +662,48 @@
  ],
  "ev_futuro": [
   {
+   "ini": "2027-01-25",
+   "fin": "2027-01-27",
+   "nombre": "Combination Products in the EU 2027 (RAPS)",
+   "lugar": "Bruselas, Bélgica",
+   "markets": [
+    "ue"
+   ],
+   "tipo": "sector",
+   "cats": [
+    "farmacia"
+   ],
+   "texto": "Curso presencial sobre productos combinados en la UE.",
+   "url": "https://www.raps.org/learn-develop/events/2027-combination-products-in-the-eu.html",
+   "fuente": "RAPS",
+   "en": {
+    "nombre": "Combination Products in the EU 2027 (RAPS)",
+    "lugar": "Brussels, Belgium",
+    "texto": "In-person course on combination products in the EU."
+   }
+  },
+  {
+   "ini": "2027-01-26",
+   "fin": "2027-01-28",
+   "nombre": "International Feed Expo 2027 y Pet Food Conference",
+   "lugar": "Atlanta, EE. UU.",
+   "markets": [
+    "us"
+   ],
+   "tipo": "sector",
+   "cats": [
+    "animal"
+   ],
+   "texto": "Feria de alimentación animal de la AFIA, con la conferencia de alimento para mascotas el 26 de enero.",
+   "url": "https://www.afia.org/events/calendar/2027-international-feed-expo/",
+   "fuente": "AFIA",
+   "en": {
+    "nombre": "International Feed Expo 2027 and Pet Food Conference",
+    "lugar": "Atlanta, USA",
+    "texto": "AFIA animal feed expo, with the pet food conference on 26 January."
+   }
+  },
+  {
    "ini": "2027-02-03",
    "fin": "2027-02-05",
    "nombre": "Fruit Logistica 2027",
@@ -573,6 +721,27 @@
    "fuente": "Serviscomplet (calendario de ferias 2027)"
   },
   {
+   "ini": "2027-02-15",
+   "fin": "2027-02-17",
+   "nombre": "Wine Paris y Be Spirits 2027",
+   "lugar": "París, Francia",
+   "markets": [
+    "ue"
+   ],
+   "tipo": "sector",
+   "cats": [
+    "alcohol"
+   ],
+   "texto": "Feria de vinos y destilados de Vinexposium.",
+   "url": "https://wineparis.com/newfront",
+   "fuente": "Vinexposium",
+   "en": {
+    "nombre": "Wine Paris and Be Spirits 2027",
+    "lugar": "Paris, France",
+    "texto": "Vinexposium wine and spirits fair."
+   }
+  },
+  {
    "ini": "2027-02-16",
    "fin": "2027-02-18",
    "nombre": "Anuga Select Ibérica 2027",
@@ -587,36 +756,54 @@
    "fuente": "Serviscomplet (calendario de ferias 2027)"
   },
   {
-   "ini": "2027-04-20",
-   "fin": "2027-04-22",
-   "nombre": "Seafood Expo Global 2027",
-   "lugar": "Barcelona, España (Fira)",
+   "ini": "2027-02-16",
+   "fin": "2027-02-19",
+   "nombre": "BIOFACH 2027",
+   "lugar": "Núremberg, Alemania",
    "markets": [
-    "es"
+    "ue"
    ],
    "tipo": "sector",
-   "cats": [
-    "pescados"
-   ],
-   "texto": "Feria mundial de pescados y mariscos, junto con Seafood Processing Global. Reúne a compradores y proveedores de todo el mundo.",
-   "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-   "fuente": "Serviscomplet (calendario de ferias 2027)"
+   "cats": [],
+   "texto": "Feria mundial de alimentos orgánicos. Útil para exportadores a la Unión Europea que necesitan certificación orgánica.",
+   "url": "https://www.biofach.de/en",
+   "fuente": "BIOFACH"
   },
   {
-   "ini": "2027-05-18",
-   "fin": "2027-05-20",
-   "nombre": "Vitafoods Europe 2027",
-   "lugar": "Barcelona, España (Fira)",
+   "ini": "2027-02-17",
+   "fin": "2027-02-18",
+   "nombre": "Nutraceuticals Europe 2027",
+   "lugar": "Madrid, España",
    "markets": [
-    "es"
+    "es",
+    "ue"
    ],
    "tipo": "sector",
    "cats": [
-    "aditivos"
+    "suplementos"
    ],
-   "texto": "Feria de ingredientes funcionales, suplementos y nutrición. Útil para proveedores de ingredientes que venden a Europa.",
-   "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
-   "fuente": "Serviscomplet (calendario de ferias 2027)"
+   "texto": "Feria y cumbre de nutracéuticos en el Pabellón 1 de IFEMA Madrid, organizada por Feria Valencia.",
+   "url": "https://www.nutrasalud.es/noticias/20260616/nutraceuticals-europe-fija-su-proxima-cita-en-ifema-madrid-febrero-2027",
+   "fuente": "Nutrasalud",
+   "en": {
+    "nombre": "Nutraceuticals Europe 2027",
+    "lugar": "Madrid, Spain",
+    "texto": "Nutraceuticals fair and summit at IFEMA Madrid Hall 1, organised by Feria Valencia."
+   }
+  },
+  {
+   "ini": "2027-03-02",
+   "fin": "2027-03-05",
+   "nombre": "Natural Products Expo West 2027",
+   "lugar": "Anaheim, California, EE. UU.",
+   "markets": [
+    "us"
+   ],
+   "tipo": "sector",
+   "cats": [],
+   "texto": "Feria de alimentos y productos naturales en EE.UU. Salones de exhibición del 3 al 5 de marzo.",
+   "url": "https://www.expowest.com",
+   "fuente": "Expo West"
   },
   {
    "ini": "2027-03-15",
@@ -649,32 +836,20 @@
    "fuente": "FoodNewsLatam"
   },
   {
-   "ini": "2027-02-16",
-   "fin": "2027-02-19",
-   "nombre": "BIOFACH 2027",
-   "lugar": "Núremberg, Alemania",
+   "ini": "2027-04-20",
+   "fin": "2027-04-22",
+   "nombre": "Seafood Expo Global 2027",
+   "lugar": "Barcelona, España (Fira)",
    "markets": [
-    "ue"
+    "es"
    ],
    "tipo": "sector",
-   "cats": [],
-   "texto": "Feria mundial de alimentos orgánicos. Útil para exportadores a la Unión Europea que necesitan certificación orgánica.",
-   "url": "https://www.biofach.de/en",
-   "fuente": "BIOFACH"
-  },
-  {
-   "ini": "2027-03-02",
-   "fin": "2027-03-05",
-   "nombre": "Natural Products Expo West 2027",
-   "lugar": "Anaheim, California, EE. UU.",
-   "markets": [
-    "us"
+   "cats": [
+    "pescados"
    ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Feria de alimentos y productos naturales en EE.UU. Salones de exhibición del 3 al 5 de marzo.",
-   "url": "https://www.expowest.com",
-   "fuente": "Expo West"
+   "texto": "Feria mundial de pescados y mariscos, junto con Seafood Processing Global. Reúne a compradores y proveedores de todo el mundo.",
+   "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+   "fuente": "Serviscomplet (calendario de ferias 2027)"
   },
   {
    "ini": "2027-05-10",
@@ -691,6 +866,22 @@
    "fuente": "Luminik"
   },
   {
+   "ini": "2027-05-18",
+   "fin": "2027-05-20",
+   "nombre": "Vitafoods Europe 2027",
+   "lugar": "Barcelona, España (Fira)",
+   "markets": [
+    "es"
+   ],
+   "tipo": "sector",
+   "cats": [
+    "aditivos"
+   ],
+   "texto": "Feria de ingredientes funcionales, suplementos y nutrición. Útil para proveedores de ingredientes que venden a Europa.",
+   "url": "https://www.serviscomplet.com/info-ferias/informacion/ferias-de-alimentacion-2027/",
+   "fuente": "Serviscomplet (calendario de ferias 2027)"
+  },
+  {
    "ini": "2027-05-22",
    "fin": "2027-05-25",
    "nombre": "The National Restaurant Association Show 2027",
@@ -703,6 +894,20 @@
    "texto": "Feria de la industria de servicios de alimentos y restaurantes en EE.UU.",
    "url": "https://www.nationalrestaurantshow.com",
    "fuente": "National Restaurant Association"
+  },
+  {
+   "ini": "2027-06-22",
+   "fin": "2027-06-25",
+   "nombre": "Fispal Tecnologia 2027",
+   "lugar": "São Paulo, Brasil (São Paulo Expo)",
+   "markets": [
+    "br"
+   ],
+   "tipo": "sector",
+   "cats": [],
+   "texto": "Feria de tecnología para procesamiento y envasado de alimentos y bebidas en Brasil. Útil si fabricas, envasas o compras equipos y soluciones para planta en Sudamérica.",
+   "url": "https://www.fispaltecnologia.com.br/en/",
+   "fuente": "Fispal Tecnologia"
   },
   {
    "ini": "2027-07-11",
@@ -731,20 +936,6 @@
    "texto": "Reunión anual de la Asociación Internacional para la Protección de Alimentos, con trabajos científicos sobre inocuidad.",
    "url": "https://www.foodprotection.org/annualmeeting/",
    "fuente": "IAFP"
-  },
-  {
-   "ini": "2027-06-22",
-   "fin": "2027-06-25",
-   "nombre": "Fispal Tecnologia 2027",
-   "lugar": "São Paulo, Brasil (São Paulo Expo)",
-   "markets": [
-    "br"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Feria de tecnología para procesamiento y envasado de alimentos y bebidas en Brasil. Útil si fabricas, envasas o compras equipos y soluciones para planta en Sudamérica.",
-   "url": "https://www.fispaltecnologia.com.br/en/",
-   "fuente": "Fispal Tecnologia"
   }
  ],
  "archivo": {
