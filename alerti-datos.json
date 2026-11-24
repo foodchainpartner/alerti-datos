@@ -1,5 +1,5 @@
 {
- "revisado": "2026-11-22",
+ "revisado": "2026-11-24",
  "reg": [
   {
    "fecha": "2026-11-21",
@@ -255,51 +255,29 @@
    }
   },
   {
-   "fecha": "2026-11-16",
-   "titulo": "EE.UU.: la FDA investiga dos nuevos brotes de Salmonella Enteritidis y uno de Salmonella Javiana que ya suma 70 casos",
-   "texto": "La FDA investiga dos brotes nuevos de Salmonella Enteritidis, con 31 y 14 personas enfermas, y sin alimento identificado: solo se inició el rastreo. El brote de Salmonella Javiana, publicado el 28 de octubre con 59 casos, subió a 70 y ya tiene inspección y toma de muestras, sin que se haya identificado el alimento.",
-   "revisar": "Si vendes productos frescos o listos para consumo a EE.UU., revisa que puedas rastrear cada lote hacia atrás y adelante.",
+   "fecha": "2026-11-17",
+   "titulo": "Brasil: Anvisa suspende y manda retirar suplementos de tres empresas",
+   "texto": "Anvisa suspendió el 17 de noviembre la venta de Melatonina Spray de Norvy (sin evaluación de seguridad para uso sublingual y con publicidad no autorizada), de todos los suplementos de Nutrymed (la inspección en Goiânia encontró materias primas vencidas, mala conservación y falta de control de calidad) y de las cápsulas Nutri Bluwey y Nutri AN-T de Morbach (documentación insuficiente, ingredientes no permitidos para su función y calcio bajo el mínimo). Ordenó el retiro y prohibió fabricar, importar, distribuir y anunciar los productos.",
+   "revisar": "Si fabricas o importas suplementos para Brasil, revisa que cada ingrediente esté permitido para la función que declaras y que tengas documentación de calidad por producto.",
    "markets": [
-    "us"
+    "br",
+    "mercosur"
    ],
    "topics": [
-    "micro"
-   ],
-   "cats": [],
-   "fuente": [
-    "Food Safety News",
-    "https://www.foodsafetynews.com/2026/11/fda-investigating-two-new-salmonella-outbreaks/"
-   ],
-   "en": {
-    "titulo": "US: FDA investigates two new Salmonella Enteritidis outbreaks and a Salmonella Javiana outbreak that has reached 70 cases",
-    "texto": "The FDA is investigating two new Salmonella Enteritidis outbreaks, with 31 and 14 people ill and no food identified yet: only traceback has started. The Salmonella Javiana outbreak, first reported on 28 October with 59 cases, has risen to 70 and now has inspection and sampling under way, still without an identified food.",
-    "revisar": "If you sell fresh or ready-to-eat products to the US, check that you can trace each lot backwards and forwards."
-   }
-  },
-  {
-   "fecha": "2026-11-16",
-   "titulo": "Argentina: SENASA unifica las reglas de control fitosanitario para exportar productos de origen vegetal",
-   "texto": "La Resolución 952/2026, publicada el 16 de noviembre en el Boletín Oficial, reúne en un solo texto las modalidades de control fitosanitario de exportación y reexportación de productos y subproductos vegetales, y deroga las resoluciones 141/2014, 260/2014 y 37/2017. Según el caso, se emite un Certificado Fitosanitario o un Certificado de Exportación de Productos Vegetales Procesados, ambos por el sistema Cert-POV. Rige desde su publicación.",
-   "revisar": "Si exportas desde Argentina productos de origen vegetal, revisa qué certificado te corresponde según lo que pida el país de destino.",
-   "markets": [
-    "ar"
-   ],
-   "topics": [
-    "cambios"
+    "limites",
+    "etiquetado"
    ],
    "cats": [
-    "cereales",
-    "frescos",
-    "frutos"
+    "suplementos"
    ],
    "fuente": [
-    "Boletín Oficial de Argentina, Resolución 952/2026 de SENASA",
-    "https://www.boletinoficial.gob.ar/detalleAviso/primera/350357/20261116"
+    "Prensa Mercosur",
+    "https://prensamercosur.org/2026/11/18/brasil-anvisa-suspende-venda-de-suplementos-alimentares-apos-identificar-irregularidades-saiba-quais-sao/"
    ],
    "en": {
-    "titulo": "Argentina: SENASA unifies the phytosanitary control rules for exporting plant-origin products",
-    "texto": "Resolution 952/2026, published in the Official Gazette on 16 November, brings the phytosanitary control procedures for the export and re-export of plant products and by-products into a single text, and repeals resolutions 141/2014, 260/2014 and 37/2017. Depending on the case, either a Phytosanitary Certificate or an Export Certificate for Processed Plant Products is issued, both through the Cert-POV system. It applies from publication.",
-    "revisar": "If you export plant-origin products from Argentina, check which certificate applies according to what the destination country requires."
+    "titulo": "Brazil: Anvisa suspends and recalls supplements from three companies",
+    "texto": "On 17 November Anvisa suspended sales of Norvy melatonin spray (no safety assessment for sublingual use and unauthorised advertising), all supplements from Nutrymed (the Goiânia inspection found expired raw materials, poor storage and no quality control) and the Nutri Bluwey and Nutri AN-T capsules from Morbach (insufficient documentation, ingredients not permitted for their function and calcium below the minimum). It ordered a recall and banned manufacture, import, distribution and advertising of the products.",
+    "revisar": "If you make or import supplements for Brazil, check that every ingredient is permitted for the function you claim and that you hold quality documentation for each product."
    }
   }
  ],
@@ -329,25 +307,6 @@
   }
  ],
  "ev": [
-  {
-   "ini": "2026-11-26",
-   "fin": "2026-11-27",
-   "nombre": "Foro Global Agroalimentario 2026",
-   "lugar": "Guadalajara, Jalisco, México",
-   "markets": [
-    "mx"
-   ],
-   "tipo": "sector",
-   "cats": [],
-   "texto": "Foro del sector agroalimentario en México.",
-   "url": "https://thefoodtech.com/eventos-de-la-industria/",
-   "fuente": "The Food Tech",
-   "en": {
-    "nombre": "Global Agrifood Forum 2026",
-    "lugar": "Guadalajara, Jalisco, Mexico",
-    "texto": "Agrifood industry forum in Mexico."
-   }
-  },
   {
    "ini": "2026-12-01",
    "fin": "2026-12-02",
@@ -1473,6 +1432,54 @@
      "texto": "C.H. Guenther & Son recalled biscuits over possible Listeria monocytogenes. Fresh & Ready Foods recalled 2,414 sausage, egg and cheese sandwiches that used them, sold in Oregon and Washington between 25 October and 4 November. On 14 November the USDA meat inspection service issued an alert for ready-to-eat meat products containing those biscuits and warned that more may be identified. No illnesses have been confirmed.",
      "revisar": "If you use dough, biscuits or bakery products from a US supplier as an ingredient, ask whether it bought from C.H. Guenther and check your lot traceability."
     }
+   },
+   {
+    "fecha": "2026-11-16",
+    "titulo": "EE.UU.: la FDA investiga dos nuevos brotes de Salmonella Enteritidis y uno de Salmonella Javiana que ya suma 70 casos",
+    "texto": "La FDA investiga dos brotes nuevos de Salmonella Enteritidis, con 31 y 14 personas enfermas, y sin alimento identificado: solo se inició el rastreo. El brote de Salmonella Javiana, publicado el 28 de octubre con 59 casos, subió a 70 y ya tiene inspección y toma de muestras, sin que se haya identificado el alimento.",
+    "revisar": "Si vendes productos frescos o listos para consumo a EE.UU., revisa que puedas rastrear cada lote hacia atrás y adelante.",
+    "markets": [
+     "us"
+    ],
+    "topics": [
+     "micro"
+    ],
+    "cats": [],
+    "fuente": [
+     "Food Safety News",
+     "https://www.foodsafetynews.com/2026/11/fda-investigating-two-new-salmonella-outbreaks/"
+    ],
+    "en": {
+     "titulo": "US: FDA investigates two new Salmonella Enteritidis outbreaks and a Salmonella Javiana outbreak that has reached 70 cases",
+     "texto": "The FDA is investigating two new Salmonella Enteritidis outbreaks, with 31 and 14 people ill and no food identified yet: only traceback has started. The Salmonella Javiana outbreak, first reported on 28 October with 59 cases, has risen to 70 and now has inspection and sampling under way, still without an identified food.",
+     "revisar": "If you sell fresh or ready-to-eat products to the US, check that you can trace each lot backwards and forwards."
+    }
+   },
+   {
+    "fecha": "2026-11-16",
+    "titulo": "Argentina: SENASA unifica las reglas de control fitosanitario para exportar productos de origen vegetal",
+    "texto": "La Resolución 952/2026, publicada el 16 de noviembre en el Boletín Oficial, reúne en un solo texto las modalidades de control fitosanitario de exportación y reexportación de productos y subproductos vegetales, y deroga las resoluciones 141/2014, 260/2014 y 37/2017. Según el caso, se emite un Certificado Fitosanitario o un Certificado de Exportación de Productos Vegetales Procesados, ambos por el sistema Cert-POV. Rige desde su publicación.",
+    "revisar": "Si exportas desde Argentina productos de origen vegetal, revisa qué certificado te corresponde según lo que pida el país de destino.",
+    "markets": [
+     "ar"
+    ],
+    "topics": [
+     "cambios"
+    ],
+    "cats": [
+     "cereales",
+     "frescos",
+     "frutos"
+    ],
+    "fuente": [
+     "Boletín Oficial de Argentina, Resolución 952/2026 de SENASA",
+     "https://www.boletinoficial.gob.ar/detalleAviso/primera/350357/20261116"
+    ],
+    "en": {
+     "titulo": "Argentina: SENASA unifies the phytosanitary control rules for exporting plant-origin products",
+     "texto": "Resolution 952/2026, published in the Official Gazette on 16 November, brings the phytosanitary control procedures for the export and re-export of plant products and by-products into a single text, and repeals resolutions 141/2014, 260/2014 and 37/2017. Depending on the case, either a Phytosanitary Certificate or an Export Certificate for Processed Plant Products is issued, both through the Cert-POV system. It applies from publication.",
+     "revisar": "If you export plant-origin products from Argentina, check which certificate applies according to what the destination country requires."
+    }
    }
   ],
   "emp": [
@@ -2156,6 +2163,25 @@
     "texto": "Qué se puede decir y qué no en declaraciones voluntarias del envase, según la normativa en España. El costo no está informado en la fuente.",
     "url": "https://www.aecoc.es/webinar/requisitos-legales-en-el-uso-de-claims-voluntarios-en-alimentacion-2/",
     "fuente": "AECOC"
+   },
+   {
+    "ini": "2026-11-26",
+    "fin": "2026-11-27",
+    "nombre": "Foro Global Agroalimentario 2026",
+    "lugar": "Guadalajara, Jalisco, México",
+    "markets": [
+     "mx"
+    ],
+    "tipo": "sector",
+    "cats": [],
+    "texto": "Foro del sector agroalimentario en México.",
+    "url": "https://thefoodtech.com/eventos-de-la-industria/",
+    "fuente": "The Food Tech",
+    "en": {
+     "nombre": "Global Agrifood Forum 2026",
+     "lugar": "Guadalajara, Jalisco, Mexico",
+     "texto": "Agrifood industry forum in Mexico."
+    }
    }
   ],
   "plazos": [
