@@ -485,7 +485,10 @@
     "tema": "Supplements",
     "pub": "1 Oct 2026",
     "tit": "Ecuador: new rules for food supplements (vitamins and minerals at no less than 15 % of the daily reference intake, technical representative, quality control and health notification)"
-   }
+   },
+   "cats": [
+    "suplementos"
+   ]
   },
   {
    "f": "2027-11-07",
@@ -505,7 +508,10 @@
     "tema": "Labelling",
     "pub": "4 Oct 2026",
     "tit": "Chile: dairy products must state the country of milking on the front panel"
-   }
+   },
+   "cats": [
+    "lacteos"
+   ]
   },
   {
    "f": "2028-01-01",
