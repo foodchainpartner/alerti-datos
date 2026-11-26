@@ -1,6 +1,63 @@
 {
- "revisado": "2026-11-24",
+ "revisado": "2026-11-25",
  "reg": [
+  {
+   "fecha": "2026-11-25",
+   "titulo": "España: la AESAN alerta por fragmentos de vidrio en frutos secos y pipas de varias marcas",
+   "texto": "La AESAN publicó el 25 de noviembre una alerta (ref. ES2026/712) por posible presencia de fragmentos de vidrio en mezclas de frutos secos y pipas de girasol de Auchan, El Corte Inglés, Lidl, Borges, Alipende, Carrefour y Medina. La notificó Cataluña por el sistema SCIRI, a partir del autocontrol de la empresa. La distribución inicial cubre casi toda España y los productos se retiran de la venta.",
+   "revisar": "Si compras o envasas frutos secos y semillas, pide a tu proveedor los lotes afectados y revisa los controles de cuerpos extraños, como detectores y revisión de envases de vidrio.",
+   "markets": [
+    "es",
+    "eu"
+   ],
+   "topics": [
+    "contaminantes"
+   ],
+   "cats": [
+    "frutos"
+   ],
+   "fuente": [
+    "AESAN",
+    "https://www.aesan.gob.es/alertas/2026_88"
+   ],
+   "en": {
+    "titulo": "Spain: AESAN warns of glass fragments in nuts and sunflower seeds from several brands",
+    "texto": "AESAN published an alert on 25 November (ref. ES2026/712) over possible glass fragments in nut mixes and sunflower seeds from Auchan, El Corte Inglés, Lidl, Borges, Alipende, Carrefour and Medina. Catalonia notified it through the SCIRI system, based on the company's own checks. Initial distribution covers most of Spain and the products are being withdrawn from sale.",
+    "revisar": "If you buy or pack nuts and seeds, ask your supplier for the affected lots and review your foreign-body controls, such as detectors and checks on glass containers."
+   }
+  },
+  {
+   "fecha": "2026-11-23",
+   "titulo": "Mercosur y UE: primer balance del acuerdo interino a seis meses, con el reparto de la cuota de carne sin resolver",
+   "texto": "El Comité de Comercio del Acuerdo Interino se reunió en Montevideo, según Noticias Agropecuarias (23 de noviembre). Entre mayo y septiembre, Brasil exportó a la UE US$ 12.210 millones en productos agropecuarios (+14,8%), con el complejo cárnico +103,5% en valor. Uruguay envió US$ 860 millones, pero solo US$ 38 millones con preferencias del acuerdo. La cuota de carne vacuna de 99.000 toneladas al 7,5% sigue sin reparto: Paraguay propone partes iguales y Argentina, Brasil y Uruguay, un criterio proporcional. Siguen pendientes las exigencias sanitarias y ambientales de la UE, como trazabilidad y el reglamento contra la deforestación. La próxima reunión, con ministros, es el 3 de diciembre en Montevideo.",
+   "revisar": "Si exportas carne, miel, arroz, soya o pescado a la UE, revisa si tu producto usa la preferencia del acuerdo y qué trazabilidad te piden.",
+   "markets": [
+    "mercosur",
+    "ar",
+    "br",
+    "uy",
+    "py",
+    "eu"
+   ],
+   "topics": [
+    "cambios"
+   ],
+   "cats": [
+    "carnes",
+    "miel",
+    "cereales",
+    "pescados"
+   ],
+   "fuente": [
+    "Noticias Agropecuarias",
+    "https://www.noticiasagropecuarias.com/2026/11/23/mercosur-ue-los-primeros-6-meses-del-acuerdo-mostraron-avances-comerciales-y-diferencias-por-los-cupos-de-carne/"
+   ],
+   "en": {
+    "titulo": "Mercosur and EU: first six-month review of the interim agreement, with the beef quota split still unresolved",
+    "texto": "The Trade Committee of the Interim Agreement met in Montevideo, according to Noticias Agropecuarias (23 November). Between May and September, Brazil exported US$12.21 billion of agricultural products to the EU (+14.8%), with the meat complex up 103.5% in value. Uruguay shipped US$860 million, but only US$38 million used the agreement's preferences. The 99,000-tonne beef quota at 7.5% has no split yet: Paraguay proposes equal shares, while Argentina, Brazil and Uruguay want a proportional criterion. EU sanitary and environmental requirements, such as traceability and the deforestation regulation, are still pending. The next meeting, with ministers, is on 3 December in Montevideo.",
+    "revisar": "If you export meat, honey, rice, soy or fish to the EU, check whether your product uses the agreement's preference and what traceability you are asked for."
+   }
+  },
   {
    "fecha": "2026-11-21",
    "titulo": "UE y Reino Unido cierran un pacto sanitario y fitosanitario que reduciría los controles en frontera desde marzo de 2028",
@@ -233,79 +290,32 @@
    }
   },
   {
-   "fecha": "2026-11-17",
-   "titulo": "Panamá aprueba una ley que limita las grasas trans industriales al 2 % de las grasas totales",
-   "texto": "La Ley 564, de fecha 9 de noviembre de 2026, prohíbe los aceites parcialmente hidrogenados y fija un máximo de 2 % de grasas trans industriales sobre el total de grasas. Aplica a alimentos, aceites, ingredientes y materias primas, nacionales e importados. El Ministerio de Salud es la autoridad a cargo. La OPS informó la aprobación el 17 de noviembre; el texto consultado no indica fecha de entrada en vigor.",
-   "revisar": "Si exportas a Panamá, revisa en tus fórmulas si hay aceites parcialmente hidrogenados y pide a tus proveedores el contenido de grasas trans. Confirma la fecha de vigencia en la Gaceta Oficial.",
+   "fecha": "2026-11-18",
+   "titulo": "Argentina: la ANMAT prohíbe un gel Sanicol por contaminación con Burkholderia cepacia",
+   "texto": "La ANMAT publicó el 18 de noviembre en el Boletín Oficial la Disposición 7368/2026, firmada el 13 de noviembre. Prohíbe el uso, la venta, la publicidad y la distribución en todo el país del gel neutro Sanicol, de Alcofrac SA, en todos sus lotes. Cinco lotes tenían recuentos sobre los límites y Burkholderia cepacia. Estaba inscripto como cosmético, pero se vendía como gel para ultrasonido, un uso médico no autorizado para esa categoría. La inspección también halló incumplimientos de buenas prácticas de fabricación y se abrió un sumario a la empresa.",
+   "revisar": "Si fabricas o importas cosméticos para Argentina, revisa que el rótulo no declare usos médicos y que tu control microbiológico cubra cada lote.",
    "markets": [
-    "pa"
+    "ar"
    ],
    "topics": [
-    "limites"
-   ],
-   "cats": [],
-   "fuente": [
-    "OPS/OMS, Panamá aprueba ley para eliminar grasas trans",
-    "https://paho.org/es/noticias/17-11-2026-panama-aprueba-ley-para-eliminar-grasas-trans-produccion-industrial-proteger"
-   ],
-   "en": {
-    "titulo": "Panama passes a law limiting industrial trans fats to 2 % of total fat",
-    "texto": "Law 564, dated 9 November 2026, bans partially hydrogenated oils and sets a maximum of 2 % industrial trans fat of total fat. It applies to foods, oils, ingredients and raw materials, whether domestic or imported. The Ministry of Health is the responsible authority. PAHO reported the approval on 17 November; the text consulted does not give an entry-into-force date.",
-    "revisar": "If you export to Panama, check your formulations for partially hydrogenated oils and ask your suppliers for their trans fat content. Confirm the effective date in the Official Gazette."
-   }
-  },
-  {
-   "fecha": "2026-11-17",
-   "titulo": "Brasil: Anvisa suspende y manda retirar suplementos de tres empresas",
-   "texto": "Anvisa suspendió el 17 de noviembre la venta de Melatonina Spray de Norvy (sin evaluación de seguridad para uso sublingual y con publicidad no autorizada), de todos los suplementos de Nutrymed (la inspección en Goiânia encontró materias primas vencidas, mala conservación y falta de control de calidad) y de las cápsulas Nutri Bluwey y Nutri AN-T de Morbach (documentación insuficiente, ingredientes no permitidos para su función y calcio bajo el mínimo). Ordenó el retiro y prohibió fabricar, importar, distribuir y anunciar los productos.",
-   "revisar": "Si fabricas o importas suplementos para Brasil, revisa que cada ingrediente esté permitido para la función que declaras y que tengas documentación de calidad por producto.",
-   "markets": [
-    "br",
-    "mercosur"
-   ],
-   "topics": [
-    "limites",
+    "micro",
     "etiquetado"
    ],
    "cats": [
-    "suplementos"
+    "cosmeticos"
    ],
    "fuente": [
-    "Prensa Mercosur",
-    "https://prensamercosur.org/2026/11/18/brasil-anvisa-suspende-venda-de-suplementos-alimentares-apos-identificar-irregularidades-saiba-quais-sao/"
+    "Boletín Oficial",
+    "https://www.boletinoficial.gob.ar/detalleAviso/primera/350507/20261118"
    ],
    "en": {
-    "titulo": "Brazil: Anvisa suspends and recalls supplements from three companies",
-    "texto": "On 17 November Anvisa suspended sales of Norvy melatonin spray (no safety assessment for sublingual use and unauthorised advertising), all supplements from Nutrymed (the Goiânia inspection found expired raw materials, poor storage and no quality control) and the Nutri Bluwey and Nutri AN-T capsules from Morbach (insufficient documentation, ingredients not permitted for their function and calcium below the minimum). It ordered a recall and banned manufacture, import, distribution and advertising of the products.",
-    "revisar": "If you make or import supplements for Brazil, check that every ingredient is permitted for the function you claim and that you hold quality documentation for each product."
+    "titulo": "Argentina: ANMAT bans a Sanicol gel over Burkholderia cepacia contamination",
+    "texto": "On 18 November ANMAT published Disposition 7368/2026 in the Official Gazette, signed on 13 November. It bans the use, sale, advertising and distribution nationwide of Sanicol neutral gel from Alcofrac SA, across all lots. Five lots had counts above the limits and Burkholderia cepacia. It was registered as a cosmetic but sold as an ultrasound gel, a medical use not allowed for that category. The inspection also found good manufacturing practice failures and a proceeding was opened against the company.",
+    "revisar": "If you make or import cosmetics for Argentina, check that the label does not declare medical uses and that your microbiological control covers every lot."
    }
   }
  ],
- "emp": [
-  {
-   "fecha": "2026-11-17",
-   "tipo": "compra",
-   "empresa": "Grupo Tello / Moreno Plaza",
-   "markets": [
-    "es"
-   ],
-   "cats": [
-    "carnes"
-   ],
-   "titulo": "España: Grupo Tello compra la cárnica malagueña Moreno Plaza y llega a 465 millones de euros de facturación",
-   "texto": "Grupo Tello Alimentación completó la compra de Moreno Plaza, empresa de carne fresca de Alhaurín el Grande (Málaga) que factura 55 millones de euros y tiene 157 trabajadores. El grupo combinado llegará a 465 millones de euros y unos 1.600 empleados, y se ubica entre los diez primeros operadores cárnicos de España. El precio no se informó.",
-   "senal": "Cuando dos cárnicas se integran, suelen unificarse especificaciones, auditorías y proveedores, y pueden cambiar los requisitos para quienes les venden.",
-   "fuente": [
-    "FoodRetail",
-    "https://www.foodretail.es/fabricantes/tello-compra-moreno-plaza-para-conformar-un-gigante-carnico-de-465-millones.html"
-   ],
-   "en": {
-    "titulo": "Spain: Grupo Tello buys Málaga meat processor Moreno Plaza and reaches €465 million in revenue",
-    "texto": "Grupo Tello Alimentación has completed the purchase of Moreno Plaza, a fresh meat company in Alhaurín el Grande (Málaga) with €55 million in revenue and 157 employees. The combined group will reach €465 million and around 1,600 staff, and ranks among the top ten meat operators in Spain. The price was not disclosed.",
-    "senal": "When two meat companies merge, specifications, audits and suppliers are often unified, and requirements can change for the businesses that sell to them."
-   }
-  }
- ],
+ "emp": [],
  "ev": [
   {
    "ini": "2026-11-30",
@@ -1677,6 +1687,54 @@
      "texto": "Resolution 952/2026, published in the Official Gazette on 16 November, brings the phytosanitary control procedures for the export and re-export of plant products and by-products into a single text, and repeals resolutions 141/2014, 260/2014 and 37/2017. Depending on the case, either a Phytosanitary Certificate or an Export Certificate for Processed Plant Products is issued, both through the Cert-POV system. It applies from publication.",
      "revisar": "If you export plant-origin products from Argentina, check which certificate applies according to what the destination country requires."
     }
+   },
+   {
+    "fecha": "2026-11-17",
+    "titulo": "Panamá aprueba una ley que limita las grasas trans industriales al 2 % de las grasas totales",
+    "texto": "La Ley 564, de fecha 9 de noviembre de 2026, prohíbe los aceites parcialmente hidrogenados y fija un máximo de 2 % de grasas trans industriales sobre el total de grasas. Aplica a alimentos, aceites, ingredientes y materias primas, nacionales e importados. El Ministerio de Salud es la autoridad a cargo. La OPS informó la aprobación el 17 de noviembre; el texto consultado no indica fecha de entrada en vigor.",
+    "revisar": "Si exportas a Panamá, revisa en tus fórmulas si hay aceites parcialmente hidrogenados y pide a tus proveedores el contenido de grasas trans. Confirma la fecha de vigencia en la Gaceta Oficial.",
+    "markets": [
+     "pa"
+    ],
+    "topics": [
+     "limites"
+    ],
+    "cats": [],
+    "fuente": [
+     "OPS/OMS, Panamá aprueba ley para eliminar grasas trans",
+     "https://paho.org/es/noticias/17-11-2026-panama-aprueba-ley-para-eliminar-grasas-trans-produccion-industrial-proteger"
+    ],
+    "en": {
+     "titulo": "Panama passes a law limiting industrial trans fats to 2 % of total fat",
+     "texto": "Law 564, dated 9 November 2026, bans partially hydrogenated oils and sets a maximum of 2 % industrial trans fat of total fat. It applies to foods, oils, ingredients and raw materials, whether domestic or imported. The Ministry of Health is the responsible authority. PAHO reported the approval on 17 November; the text consulted does not give an entry-into-force date.",
+     "revisar": "If you export to Panama, check your formulations for partially hydrogenated oils and ask your suppliers for their trans fat content. Confirm the effective date in the Official Gazette."
+    }
+   },
+   {
+    "fecha": "2026-11-17",
+    "titulo": "Brasil: Anvisa suspende y manda retirar suplementos de tres empresas",
+    "texto": "Anvisa suspendió el 17 de noviembre la venta de Melatonina Spray de Norvy (sin evaluación de seguridad para uso sublingual y con publicidad no autorizada), de todos los suplementos de Nutrymed (la inspección en Goiânia encontró materias primas vencidas, mala conservación y falta de control de calidad) y de las cápsulas Nutri Bluwey y Nutri AN-T de Morbach (documentación insuficiente, ingredientes no permitidos para su función y calcio bajo el mínimo). Ordenó el retiro y prohibió fabricar, importar, distribuir y anunciar los productos.",
+    "revisar": "Si fabricas o importas suplementos para Brasil, revisa que cada ingrediente esté permitido para la función que declaras y que tengas documentación de calidad por producto.",
+    "markets": [
+     "br",
+     "mercosur"
+    ],
+    "topics": [
+     "limites",
+     "etiquetado"
+    ],
+    "cats": [
+     "suplementos"
+    ],
+    "fuente": [
+     "Prensa Mercosur",
+     "https://prensamercosur.org/2026/11/18/brasil-anvisa-suspende-venda-de-suplementos-alimentares-apos-identificar-irregularidades-saiba-quais-sao/"
+    ],
+    "en": {
+     "titulo": "Brazil: Anvisa suspends and recalls supplements from three companies",
+     "texto": "On 17 November Anvisa suspended sales of Norvy melatonin spray (no safety assessment for sublingual use and unauthorised advertising), all supplements from Nutrymed (the Goiânia inspection found expired raw materials, poor storage and no quality control) and the Nutri Bluwey and Nutri AN-T capsules from Morbach (insufficient documentation, ingredients not permitted for their function and calcium below the minimum). It ordered a recall and banned manufacture, import, distribution and advertising of the products.",
+     "revisar": "If you make or import supplements for Brazil, check that every ingredient is permitted for the function you claim and that you hold quality documentation for each product."
+    }
    }
   ],
   "emp": [
@@ -2029,6 +2087,29 @@
      "Vistazo",
      "https://www.vistazo.com/negocios/empresas/2026-11-04-alicorp-adquiere-bonella-dorina-ecuador-aval-superintendencia-competencia-economica-OD11303159"
     ]
+   },
+   {
+    "fecha": "2026-11-17",
+    "tipo": "compra",
+    "empresa": "Grupo Tello / Moreno Plaza",
+    "markets": [
+     "es"
+    ],
+    "cats": [
+     "carnes"
+    ],
+    "titulo": "España: Grupo Tello compra la cárnica malagueña Moreno Plaza y llega a 465 millones de euros de facturación",
+    "texto": "Grupo Tello Alimentación completó la compra de Moreno Plaza, empresa de carne fresca de Alhaurín el Grande (Málaga) que factura 55 millones de euros y tiene 157 trabajadores. El grupo combinado llegará a 465 millones de euros y unos 1.600 empleados, y se ubica entre los diez primeros operadores cárnicos de España. El precio no se informó.",
+    "senal": "Cuando dos cárnicas se integran, suelen unificarse especificaciones, auditorías y proveedores, y pueden cambiar los requisitos para quienes les venden.",
+    "fuente": [
+     "FoodRetail",
+     "https://www.foodretail.es/fabricantes/tello-compra-moreno-plaza-para-conformar-un-gigante-carnico-de-465-millones.html"
+    ],
+    "en": {
+     "titulo": "Spain: Grupo Tello buys Málaga meat processor Moreno Plaza and reaches €465 million in revenue",
+     "texto": "Grupo Tello Alimentación has completed the purchase of Moreno Plaza, a fresh meat company in Alhaurín el Grande (Málaga) with €55 million in revenue and 157 employees. The combined group will reach €465 million and around 1,600 staff, and ranks among the top ten meat operators in Spain. The price was not disclosed.",
+     "senal": "When two meat companies merge, specifications, audits and suppliers are often unified, and requirements can change for the businesses that sell to them."
+    }
    }
   ],
   "ev": [
